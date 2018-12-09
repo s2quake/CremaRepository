@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Test/TestTable" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Test/TestTable" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="guid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="TestTable.Table">
+    <xs:annotation>
+      <xs:appinfo>
+        <TableInfo Modifier="admin" />
+        <TableInfo ModifiedDateTime="2017-11-01T04:10:41.2216441Z" />
+        <TableInfo ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" />
+        <TableInfo CategoryPath="/Test/" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="Key" type="xs:int">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T02:37:44.3210488Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T02:38:12.9470991Z" />
+            <ColumnInfo AutoIncrement="true" />
+            <ColumnInfo ID="3a2ac253-9dd5-45e8-842a-99ac36e4366a" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="Value" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T02:37:57.5810721Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T02:37:57.5810721Z" />
+            <ColumnInfo ID="b0865671-26be-4572-9228-d6fc34e0c2ed" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="DateTimePicker" type="xs:dateTime">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T02:38:09.3434928Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T02:38:09.3434928Z" />
+            <ColumnInfo ID="3cb52d1b-82ae-44b3-9fc0-b21495ad0b87" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="TimePicker" type="xs:duration">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T04:10:41.2216441Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T04:10:41.2216441Z" />
+            <ColumnInfo ID="5491e847-49a2-47bf-bf6a-291249355fcc" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute default="" name="Creator" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="CreatedDateTime" type="xs:dateTime" />
+    <xs:attribute default="" name="Modifier" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="ModifiedDateTime" type="xs:dateTime" />
+    <xs:attribute default="All" name="Tags" type="xs:string" use="optional" />
+    <xs:attribute default="true" name="Enable" type="xs:boolean" use="optional" />
+  </xs:complexType>
+  <xs:element name="Content">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="TestTable" type="TestTable.Table" />
+      </xs:sequence>
+      <xs:attribute name="Version" type="xs:string" use="required" />
+      <xs:attribute name="TestTable.CreatedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="TestTable.Creator" type="xs:string" use="optional" />
+      <xs:attribute name="TestTable.ModifiedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="TestTable.Modifier" type="xs:string" use="optional" />
+      <xs:attribute name="TestTable.Count" type="xs:int" use="optional" />
+      <xs:attribute name="TestTable.ID" type="xs:string" use="optional" />
+    </xs:complexType>
+    <xs:key name="TestTable.Key">
+      <xs:selector xpath="t:TestTable" />
+      <xs:field xpath="t:Key" />
+    </xs:key>
+  </xs:element>
+</xs:schema>

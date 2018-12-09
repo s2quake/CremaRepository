@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConsole ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-22T06:11:33.5626189Z"
+  StringTable.Count="5"
+  StringTable.ID="96eb902b-050d-4aa6-bf63-15881775de57" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:48:31.1368157Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-22T06:11:33.5626189Z">
+    <Type>Title</Type>
+    <Name>Console</Name>
+    <Value>Console</Value>
+    <ko_KR>콘솔</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:50:01.6949748Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-31T23:52:40.2068532Z">
+    <Type>Comment</Type>
+    <Name>Hello</Name>
+    <Value>Hello!</Value>
+    <ko_KR>안녕하세요 !</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:50:12.5213938Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-31T23:52:44.9960616Z">
+    <Type>Comment</Type>
+    <Name>AvaliableCommands</Name>
+    <Value>Avaliable Commands:</Value>
+    <ko_KR>사용 가능한 명령들:</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:50:28.9950227Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-31T23:52:54.6056785Z">
+    <Type>Comment</Type>
+    <Name>TypeHelp</Name>
+    <Value>type 'help' for usage.</Value>
+    <ko_KR>도움말을 사용하시려면 'help'을(를) 입력하세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:50:41.662245Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-31T23:52:56.1500812Z">
+    <Type>Comment</Type>
+    <Name>TypeVersion</Name>
+    <Value>type '--version' to see the version.</Value>
+    <ko_KR>버전을 확인하시려면 '--version'을(를) 입력하세요.</ko_KR>
+  </StringTable>
+</Content>

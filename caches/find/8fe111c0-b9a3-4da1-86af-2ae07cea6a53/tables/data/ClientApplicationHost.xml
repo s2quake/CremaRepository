@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>ExitProgram</Item>
+        <Item i:nil="true" />
+        <Item>_Exit Program</Item>
+        <Item>프로그램 종료(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Column</Item>
+        <Item i:nil="true" />
+        <Item>Column</Item>
+        <Item>열</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Ready</Item>
+        <Item i:nil="true" />
+        <Item>Ready</Item>
+        <Item>준비</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Row</Item>
+        <Item i:nil="true" />
+        <Item>Row</Item>
+        <Item>행</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>SelectDataBase</Item>
+        <Item i:nil="true" />
+        <Item>Select DataBase</Item>
+        <Item>데이터 베이스 선택</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Target</Item>
+        <Item i:nil="true" />
+        <Item>Target</Item>
+        <Item>대상</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Exit</Item>
+        <Item i:nil="true" />
+        <Item>E_xit</Item>
+        <Item>끝내기(_X)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>HideLogWindow</Item>
+        <Item i:nil="true" />
+        <Item>Hide _LogWindow</Item>
+        <Item>로그창 감추기(_L)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ShowLogWindow</Item>
+        <Item i:nil="true" />
+        <Item>Show _LogWindow</Item>
+        <Item>로그창 보기(_L)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>BannedByAdministrator</Item>
+        <Item i:nil="true" />
+        <Item>Banned by administrator.</Item>
+        <Item>관리자에 의해 차단됬습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>KickedByAdministrator</Item>
+        <Item i:nil="true" />
+        <Item>Kicked by administrator.</Item>
+        <Item>관리자에 의해 추방됬습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ReportedException</Item>
+        <Item i:nil="true" />
+        <Item>Transfer completed successfully. Please restart the program.</Item>
+        <Item>전송이 완료되었습니다. 프로그램을 다시 시작해주세요.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T08:27:01.7868163Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ReportingException</Item>
+        <Item i:nil="true" />
+        <Item>Sending exceptions. please wait a second.</Item>
+        <Item>예외 내용을 전송하고 있습니다. 잠시만 기다려주세요.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-02T00:14:33.5672307Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Feedback</Item>
+        <Item i:nil="true" />
+        <Item>Send Feedback</Item>
+        <Item>의견 보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-02T00:16:50.197271Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ThanksToSendFeedback</Item>
+        <Item i:nil="true" />
+        <Item>Thank you for your feedback. I'll repay you for a better environment.</Item>
+        <Item>의견 감사합니다. 더 나은 환경으로 보답하겠습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-02T00:15:53.7231717Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>SendingFeedback</Item>
+        <Item i:nil="true" />
+        <Item>Sending Feedback.</Item>
+        <Item>의견을 보내는 중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-04T07:33:48.7610511Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>SendReport</Item>
+        <Item i:nil="true" />
+        <Item>_Send</Item>
+        <Item>보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-04T07:35:15.6064036Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ExceptionOccured</Item>
+        <Item i:nil="true" />
+        <Item>An exception occured.</Item>
+        <Item>예외가 발생했습니다.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

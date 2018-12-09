@@ -1,0 +1,9 @@
+0	admin	2018-12-09T09:33:13.1876009+09:00	Ntreev.Crema.Services.Domains.Actions.EnterAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+1	admin	2018-12-09T09:33:29.5764611+09:00	Ntreev.Crema.Services.Domains.Actions.BeginUserEditAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2	admin	2018-12-09T09:33:29.8975386+09:00	Ntreev.Crema.Services.Domains.Actions.SetRowAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+3	admin	2018-12-09T09:33:30.2984624+09:00	Ntreev.Crema.Services.Domains.Actions.EndUserEditAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+4	admin	2018-12-09T09:33:37.4405559+09:00	Ntreev.Crema.Services.Domains.Actions.BeginUserEditAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+5	admin	2018-12-09T09:33:39.9564305+09:00	Ntreev.Crema.Services.Domains.Actions.SetRowAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+6	admin	2018-12-09T09:33:40.0771071+09:00	Ntreev.Crema.Services.Domains.Actions.EndUserEditAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+7	admin	2018-12-09T09:33:58.7759899+09:00	Ntreev.Crema.Services.Domains.Actions.NewRowAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+8	admin	2018-12-09T09:34:07.3639489+09:00	Ntreev.Crema.Services.Domains.Actions.RemoveRowAction, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null

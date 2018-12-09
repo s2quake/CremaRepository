@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationTable xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <CategoryPath>/Etc/</CategoryPath>
+  <Columns>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>/StringType</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>0</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Type</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>1</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Name</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>2</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Comment</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>3</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Value</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>4</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>ko_KR</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+  </Columns>
+  <Comment></Comment>
+  <DerivedTags>All</DerivedTags>
+  <HashValue>6c66b01d950836901feeeed701a0b36f5f3d58c1</HashValue>
+  <Name>StringTable11</Name>
+  <Parent></Parent>
+  <Rows>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Text</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>qewioro</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9a2e57db-5052-4ff0-9dfa-859eba4c912b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>234234</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2cb03b38-e243-4bc3-a679-b06ccca7534a</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Text</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>qewioroe</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>3238a2f8-3c78-4099-8474-069250bee2b4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>sdwer</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>75ac4e75-30fb-497f-b7b2-dbf71fb2ba49</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+  </Rows>
+  <TableName>StringTable11</TableName>
+  <Tags>All</Tags>
+  <TemplatedParent>StringTable</TemplatedParent>
+</SerializationTable>

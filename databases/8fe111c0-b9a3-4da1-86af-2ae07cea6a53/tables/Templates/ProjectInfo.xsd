@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="../../types/KindType.xsd" namespace="http://schemas.ntreev.com/crema/types/KindType" />
+  <xs:import schemaLocation="../../types/ProjectType.xsd" namespace="http://schemas.ntreev.com/crema/types/ProjectType" />
+  <xs:simpleType name="guid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="ProjectInfo.Table">
+    <xs:annotation>
+      <xs:appinfo>
+        <TableInfo Modifier="admin" />
+        <TableInfo ModifiedDateTime="2017-11-01T08:22:24.7493264Z" />
+        <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
+        <TableInfo CategoryPath="/Templates/" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="KindType" xmlns:q1="http://schemas.ntreev.com/crema/types/KindType" type="q1:KindType">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:40:56.9613255Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T08:22:11.472703Z" />
+            <ColumnInfo ID="53fd6271-0121-4f55-be26-7a47e64beebd" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="ProjectType" xmlns:q2="http://schemas.ntreev.com/crema/types/ProjectType" type="q2:ProjectType">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T08:22:24.7337264Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T08:23:24.3338315Z" />
+            <ColumnInfo ID="5c395fed-1fa0-4b1b-bca6-ac53fec0c950" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="Name" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:38:54.29831Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:24.92988Z" />
+            <ColumnInfo ID="e8680af2-37c8-4719-bc81-6b2296952bc2" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="ProjectPath" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:25:15.4372718Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:25.6942813Z" />
+            <ColumnInfo ID="fd83f5d6-3ae5-4889-8731-6228262ce181" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute default="" name="Creator" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="CreatedDateTime" type="xs:dateTime" />
+    <xs:attribute default="" name="Modifier" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="ModifiedDateTime" type="xs:dateTime" />
+    <xs:attribute default="All" name="Tags" type="xs:string" use="optional" />
+    <xs:attribute default="true" name="Enable" type="xs:boolean" use="optional" />
+    <xs:attribute name="RelationID" type="xs:string" />
+  </xs:complexType>
+  <xs:element name="Content">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="ProjectInfo" type="ProjectInfo.Table" />
+      </xs:sequence>
+      <xs:attribute name="Version" type="xs:string" use="required" />
+      <xs:attribute name="ProjectInfo.CreatedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ProjectInfo.Creator" type="xs:string" use="optional" />
+      <xs:attribute name="ProjectInfo.ModifiedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ProjectInfo.Modifier" type="xs:string" use="optional" />
+      <xs:attribute name="ProjectInfo.Count" type="xs:int" use="optional" />
+      <xs:attribute name="ProjectInfo.ID" type="xs:string" use="optional" />
+    </xs:complexType>
+    <xs:key name="ProjectInfo.Key">
+      <xs:selector xpath="t:ProjectInfo" />
+      <xs:field xpath="t:KindType" />
+      <xs:field xpath="t:Name" />
+      <xs:field xpath="t:ProjectType" />
+    </xs:key>
+  </xs:element>
+</xs:schema>

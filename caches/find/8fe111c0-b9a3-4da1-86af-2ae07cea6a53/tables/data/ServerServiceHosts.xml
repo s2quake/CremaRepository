@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T07:59:19.8868771Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ServiceStart</Item>
+        <Item i:nil="true" />
+        <Item>{0} service has been started.</Item>
+        <Item>{0} 서비스가 시작되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T07:59:19.8868771Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ServiceStart_Port</Item>
+        <Item i:nil="true" />
+        <Item>{0}({1}) service has been started.</Item>
+        <Item>{0}({1}) 서비스가 시작되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T07:59:19.8868771Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ServiceStop</Item>
+        <Item i:nil="true" />
+        <Item>{0} service has been stopped.</Item>
+        <Item>{0} 서비스가 종료되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T08:00:43.9046827Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>LowerVersion</Item>
+        <Item i:nil="true" />
+        <Item>Version is lower than the server.</Item>
+        <Item>버전이 서버보다 낮습니다.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

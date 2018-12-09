@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:02:06.269471Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AlreadyConnected</Item>
+        <Item i:nil="true" />
+        <Item>It's already connected.</Item>
+        <Item>이미 연결되어 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:03:13.9735899Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotConnected</Item>
+        <Item i:nil="true" />
+        <Item>It's not connected.</Item>
+        <Item>연결되어 있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:36:41.4319158Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidName_Format</Item>
+        <Item>name</Item>
+        <Item>'{0}' is not valid name.</Item>
+        <Item>'{0}'은(는) 유효하지 않은 이름입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:16:59.9014406Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidToken</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid token</Item>
+        <Item>유효한 토큰이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:14:25.86677Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>Expired</Item>
+        <Item i:nil="true" />
+        <Item>It has been expired.</Item>
+        <Item>만료되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:15:59.5449346Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>Commissioned</Item>
+        <Item i:nil="true" />
+        <Item>It's already been commissioned.</Item>
+        <Item>이미 위임중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:16:55.9858337Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidID</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid ID</Item>
+        <Item>유효한 아이디가 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:19:41.3305241Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotAllowedAsPublic</Item>
+        <Item i:nil="true" />
+        <Item>This class is not allowed as public</Item>
+        <Item>이 클래스는 public으로 사용할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:21:08.0042763Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotClosed</Item>
+        <Item i:nil="true" />
+        <Item>It is not closed.</Item>
+        <Item>닫혀있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:21:54.2115575Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AlreadyDisposed</Item>
+        <Item i:nil="true" />
+        <Item>It has been disposed.</Item>
+        <Item>이미 제거되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:23:15.4721002Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotOpened</Item>
+        <Item i:nil="true" />
+        <Item>It is not opened.</Item>
+        <Item>열려있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:24:20.3058141Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidObject</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid object.</Item>
+        <Item>유효하지 않은 객체입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:27:04.9173032Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotInDataBase</Item>
+        <Item i:nil="true" />
+        <Item>It cannot work operation, because you are not in database</Item>
+        <Item>데이터베이스에 참여하고 있지 않으므로 작업을 수행할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:28:22.8550401Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotBeingEdited</Item>
+        <Item i:nil="true" />
+        <Item>It is not being edited.</Item>
+        <Item>편집중이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:32:18.3062537Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidName</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid name.</Item>
+        <Item>유효지 않은 이름입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:35:11.7629583Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRename</Item>
+        <Item i:nil="true" />
+        <Item>It cannot rename.</Item>
+        <Item>이름은 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:37:14.2699735Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidProperty_Format</Item>
+        <Item>propertyName</Item>
+        <Item>'{0}' is not valid property name.</Item>
+        <Item>'{0}'은(는) 유효하지 않은 속성 이름입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-27T02:40:05.917075Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotEnter</Item>
+        <Item i:nil="true" />
+        <Item>It cannot enter to database that is not loaded.</Item>
+        <Item>활성화되어 있지 않은 데이터베이스에는 참여할 수 없습니다.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

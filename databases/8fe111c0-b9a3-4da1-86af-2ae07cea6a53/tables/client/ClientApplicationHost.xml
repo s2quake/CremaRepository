@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientApplicationHost ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-04-16T02:09:44.2747908Z"
+  StringTable.Count="18"
+  StringTable.ID="530b6569-f0eb-4227-8b31-4964d20a9ad4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Button</Type>
+    <Name>ExitProgram</Name>
+    <Value>_Exit Program</Value>
+    <ko_KR>프로그램 종료(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Label</Type>
+    <Name>Column</Name>
+    <Value>Column</Value>
+    <ko_KR>열</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Label</Type>
+    <Name>Ready</Name>
+    <Value>Ready</Value>
+    <ko_KR>준비</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Label</Type>
+    <Name>Row</Name>
+    <Value>Row</Value>
+    <ko_KR>행</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Label</Type>
+    <Name>SelectDataBase</Name>
+    <Value>Select DataBase</Value>
+    <ko_KR>데이터 베이스 선택</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Label</Type>
+    <Name>Target</Name>
+    <Value>Target</Value>
+    <ko_KR>대상</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>MenuItem</Type>
+    <Name>Exit</Name>
+    <Value>E_xit</Value>
+    <ko_KR>끝내기(_X)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>MenuItem</Type>
+    <Name>HideLogWindow</Name>
+    <Value>Hide _LogWindow</Value>
+    <ko_KR>로그창 감추기(_L)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>MenuItem</Type>
+    <Name>ShowLogWindow</Name>
+    <Value>Show _LogWindow</Value>
+    <ko_KR>로그창 보기(_L)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Message</Type>
+    <Name>BannedByAdministrator</Name>
+    <Value>Banned by administrator.</Value>
+    <ko_KR>관리자에 의해 차단됬습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Message</Type>
+    <Name>KickedByAdministrator</Name>
+    <Value>Kicked by administrator.</Value>
+    <ko_KR>관리자에 의해 추방됬습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Message</Type>
+    <Name>ReportedException</Name>
+    <Value>Transfer completed successfully. Please restart the program.</Value>
+    <ko_KR>전송이 완료되었습니다. 프로그램을 다시 시작해주세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
+    <Type>Message</Type>
+    <Name>ReportingException</Name>
+    <Value>Sending exceptions. please wait a second.</Value>
+    <ko_KR>예외 내용을 전송하고 있습니다. 잠시만 기다려주세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-02T00:14:17.0780017Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-02T00:14:33.5672307Z">
+    <Type>Title</Type>
+    <Name>Feedback</Name>
+    <Value>Send Feedback</Value>
+    <ko_KR>의견 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-02T00:15:01.2426794Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-02T00:16:50.197271Z">
+    <Type>Message</Type>
+    <Name>ThanksToSendFeedback</Name>
+    <Value>Thank you for your feedback. I'll repay you for a better environment.</Value>
+    <ko_KR>의견 감사합니다. 더 나은 환경으로 보답하겠습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-02T00:15:32.1785338Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-02T00:15:53.7231717Z">
+    <Type>Message</Type>
+    <Name>SendingFeedback</Name>
+    <Value>Sending Feedback.</Value>
+    <ko_KR>의견을 보내는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-04T07:33:48.7610511Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-04T07:33:48.7610511Z">
+    <Type>Button</Type>
+    <Name>SendReport</Name>
+    <Value>_Send</Value>
+    <ko_KR>보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-04T07:34:10.6946896Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-04T07:35:15.6064036Z">
+    <Type>Message</Type>
+    <Name>ExceptionOccured</Name>
+    <Value>An exception occured.</Value>
+    <ko_KR>예외가 발생했습니다.</ko_KR>
+  </StringTable>
+</Content>

@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTypes ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-20T06:22:40.8053508Z"
+  StringTable.Count="77"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Button</Type>
+    <Name>Change</Name>
+    <Value>Chang_e</Value>
+    <ko_KR>변경(_S)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T06:22:40.8053508Z">
+    <Type>Button</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>_Create</Value>
+    <ko_KR>생성(_S)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Button</Type>
+    <Name>FindAll</Name>
+    <Value>_Find All</Value>
+    <ko_KR>모두 찾기(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Button</Type>
+    <Name>OK</Name>
+    <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Label</Type>
+    <Name>Column</Name>
+    <Value>Column</Value>
+    <ko_KR>열</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T09:41:24.0412517Z">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성한 사람</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3902062Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3902062Z">
+    <Type>Label</Type>
+    <Name>DateTime</Name>
+    <Value>DateTime</Value>
+    <ko_KR>날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>FindWhat</Name>
+    <Value>find what</Value>
+    <ko_KR>찾을 내용</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>IsFlag</Name>
+    <Value>is flag</Value>
+    <ko_KR>플래그 집합</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>LookIn</Name>
+    <Value>looking</Value>
+    <ko_KR>찾는 위치</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>편집 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>편집한 사람</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>NewName</Name>
+    <Value>New Name</Value>
+    <ko_KR>새 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>OriginalName</Name>
+    <Value>Original Name</Value>
+    <ko_KR>원본 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3912069Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3912069Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3962107Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3962107Z">
+    <Type>Label</Type>
+    <Name>Revision</Name>
+    <Value>Revision</Value>
+    <ko_KR>리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>Row</Name>
+    <Value>Row</Value>
+    <ko_KR>행</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>SettingDateTime</Name>
+    <Value>Setting DateTime</Value>
+    <ko_KR>설정 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>TargetFolder</Name>
+    <Value>Target Folder</Value>
+    <ko_KR>대상 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>TypeName</Name>
+    <Value>Type Name</Value>
+    <ko_KR>타입 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>User</Name>
+    <Value>User</Value>
+    <ko_KR>사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>UserID</Name>
+    <Value>User ID</Value>
+    <ko_KR>사용자 아이디</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>Label</Type>
+    <Name>Value</Name>
+    <Value>Value</Value>
+    <ko_KR>값</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
+    <Type>MenuItem</Type>
+    <Name>CancelTemplateEditing</Name>
+    <Value>Cancel Template Editing</Value>
+    <ko_KR>형태 편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>Delete</Name>
+    <Value>_Delete</Value>
+    <ko_KR>삭제(_D)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>Edit</Name>
+    <Value>_Edit</Value>
+    <ko_KR>내용 편집(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>EndTemplateEditing</Name>
+    <Value>End Template Editing</Value>
+    <ko_KR>형태 편집 종료</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>Find</Name>
+    <Value>_Find</Value>
+    <ko_KR>찾기(_F)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>FindAll</Name>
+    <Value>Find All</Value>
+    <ko_KR>모두 찾기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>Move</Name>
+    <Value>_Move</Value>
+    <ko_KR>이동(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3982121Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3982121Z">
+    <Type>MenuItem</Type>
+    <Name>NewFolder</Name>
+    <Value>_New Folder</Value>
+    <ko_KR>새 폴더(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>NewType</Name>
+    <Value>_New Type</Value>
+    <ko_KR>새 타입(_T)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>Preview</Name>
+    <Value>Pre_view</Value>
+    <ko_KR>미리보기(_V)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>QuickFind</Name>
+    <Value>Quick Find</Value>
+    <ko_KR>빠른 찾기(_F)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>Rename</Name>
+    <Value>_Rename</Value>
+    <ko_KR>이름 변경(_R)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>SelectInTypeBrowser</Name>
+    <Value>Select in type browser...</Value>
+    <ko_KR>타입 브라우저에서 보기(_V)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set Authority</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3992127Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3992127Z">
+    <Type>MenuItem</Type>
+    <Name>Type</Name>
+    <Value>Type</Value>
+    <ko_KR>타입(_Y)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>MenuItem</Type>
+    <Name>View</Name>
+    <Value>View</Value>
+    <ko_KR>내용 보기(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>MenuItem</Type>
+    <Name>ViewLog</Name>
+    <Value>ViewLog</Value>
+    <ko_KR>로그 보기(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>TypeCopied</Name>
+    <Value>Type Copied.</Value>
+    <ko_KR>타입 복사를 완료했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>Changing</Name>
+    <Value>Changing.</Value>
+    <ko_KR>변경중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>ExitEditByUser_Format</Name>
+    <Value>Edit has been exited by '{0}'.</Value>
+    <ko_KR>'{0}'에 의해서 편집이 종료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>CopingType</Name>
+    <Value>Coping Type.</Value>
+    <ko_KR>타입을 복사중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>Creating</Name>
+    <Value>Creating</Value>
+    <ko_KR>생성중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Message</Type>
+    <Name>ConfirmToSetPrivate</Name>
+    <Value>Do you want to set it to Private?</Value>
+    <ko_KR>비공개로 설정하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4002134Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4002134Z">
+    <Type>Title</Type>
+    <Name>AccessInfo</Name>
+    <Value>Access Information</Value>
+    <ko_KR>보안 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>CopyType</Name>
+    <Value>Copy Type</Value>
+    <ko_KR>타입 복사하기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>DeleteType</Name>
+    <Value>Delete Type</Value>
+    <ko_KR>타입 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>DeleteTypeFolder</Name>
+    <Value>Delete Type Folder</Value>
+    <ko_KR>타입 폴더 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>EditTypeTemplate</Name>
+    <Value>Type Template Editing</Value>
+    <ko_KR>타입 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>Find</Name>
+    <Value>Find</Value>
+    <ko_KR>찾기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>LockInfo</Name>
+    <Value>Lock Info</Value>
+    <ko_KR>잠금 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>MoveType</Name>
+    <Value>Move Type</Value>
+    <ko_KR>타입 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>MoveTypeFolder</Name>
+    <Value>Move Type Folder</Value>
+    <ko_KR>타입 폴더 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4012141Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4012141Z">
+    <Type>Title</Type>
+    <Name>NewType</Name>
+    <Value>New Type</Value>
+    <ko_KR>타입 생성</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>NewTypeFolder</Name>
+    <Value>New Type Folder</Value>
+    <ko_KR>타입 폴더 생성</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>RenameType</Name>
+    <Value>Rename Type</Value>
+    <ko_KR>타입 이름 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>RenameTypeFolder</Name>
+    <Value>Rename Type Folder</Value>
+    <ko_KR>타입 폴더 이름 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>Type</Name>
+    <Value>Type</Value>
+    <ko_KR>타입</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>TypeBrowser</Name>
+    <Value>Type Browser</Value>
+    <ko_KR>타입 탐색기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>TypeInfo</Name>
+    <Value>Type Info</Value>
+    <ko_KR>타입 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>Types</Name>
+    <Value>Types</Value>
+    <ko_KR>Types</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>TypesBeingUsed</Name>
+    <Value>Types Being Used</Value>
+    <ko_KR>사용되고 있는 타입들</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4022148Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4022148Z">
+    <Type>Title</Type>
+    <Name>ViewLog</Name>
+    <Value>View Log</Value>
+    <ko_KR>로그 보기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Comment</Type>
+    <Name>Search</Name>
+    <Value>Search</Value>
+    <ko_KR>찾기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:46:38.4599468Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T07:46:38.4599468Z">
+    <Type>Message</Type>
+    <Name>ReceivingInfo</Name>
+    <Value>Receiving information.</Value>
+    <ko_KR>정보를 가져오는 중입니다.</ko_KR>
+  </StringTable>
+</Content>

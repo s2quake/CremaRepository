@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:04:45.2874378Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotConvert_Format</Item>
+        <Item>value, dataTypeName</Item>
+        <Item>Can not convert '{0}' to '{1}'.</Item>
+        <Item>'{0}'은(는) '{1}' 으로 변환할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-26T23:57:07.8614342Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotCopyToSameDataSet</Item>
+        <Item i:nil="true" />
+        <Item>Can not copy to same DataSet.</Item>
+        <Item>같은 DataSet에는 복사할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:01:03.421848Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotInheritWithoutDataSet</Item>
+        <Item i:nil="true" />
+        <Item>If the table is not in DataSet, it can not be inherited.</Item>
+        <Item>테이블이 DataSet에 없는 경우에는 테이블을 상속할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AlreadyExistedItem_Format</Item>
+        <Item i:nil="true" />
+        <Item>Item '{0}' is already existed.</Item>
+        <Item>'{0}' 항목은 이미 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AreadyExistedDataType_Format</Item>
+        <Item>dataTypeName</Item>
+        <Item>'{0}' is already a valid type</Item>
+        <Item>'{0}' 은(는) 이미 존재하는 타입입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AtLeastOneColumn</Item>
+        <Item i:nil="true" />
+        <Item>You must have at least one column.</Item>
+        <Item>적어도 한개 이상의 열이 있어야 합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AtLeastOneKey</Item>
+        <Item i:nil="true" />
+        <Item>At least one key must be set.</Item>
+        <Item>적어도 한개 이상의 키가 설정되어야 합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotAddChildTable</Item>
+        <Item i:nil="true" />
+        <Item>You can not add a child table.</Item>
+        <Item>자식 테이블은 추가할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotAddInheritedTable</Item>
+        <Item i:nil="true" />
+        <Item>You can not add a inherited table.</Item>
+        <Item>상속 받은 테이블은 추가할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteAsTypeIsReferenced</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete as type is referenced.</Item>
+        <Item>타입이 참조되고 있기 때문에 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotEditInheritedTable</Item>
+        <Item i:nil="true" />
+        <Item>You can not edit an inherited table.</Item>
+        <Item>상속받은 테이블은 편집할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotParseEnum_Format</Item>
+        <Item>enumValue, enumTypeName</Item>
+        <Item>Value '{0}' is not defined in type '{1}' and can not be converted.</Item>
+        <Item>'{0}' 값은 '{1}' 타입에 정의되어 있지 않아 변환할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRemoveChildTable</Item>
+        <Item i:nil="true" />
+        <Item>You can not remove a child table.</Item>
+        <Item>자식 테이블은 제거할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidName</Item>
+        <Item i:nil="true" />
+        <Item>The name can not contain any special characters \ / : *? " &lt; &gt; |</Item>
+        <Item>이름에 특수문자 \ / : * ? " &lt; &gt; | 등은 포함될 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NameCannotBeUsed_Format</Item>
+        <Item>columnName</Item>
+        <Item>'{0}' is a name that can not be used.</Item>
+        <Item>'{0}' (은)는 사용할 수 없는 이름입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotEqualsFieldCountAndColumnCount</Item>
+        <Item i:nil="true" />
+        <Item>The number of fields does not match the number of columns of the table.</Item>
+        <Item>필드 갯수가 테이블의 열의 갯수와 일치하지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotFoundAttribute_Format</Item>
+        <Item>attributeName</Item>
+        <Item>Attribute '{0}' does not exist.</Item>
+        <Item>'{0}' 특성은 존재하지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotFoundColumn_Format</Item>
+        <Item>columnName</Item>
+        <Item>Column '{0}' does not exist in table.</Item>
+        <Item>'{0}' 열은 테이블에 존재하지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotFoundDirectory_Format</Item>
+        <Item>pathName</Item>
+        <Item>Path '{0}' was not found.</Item>
+        <Item>'{0}' 경로를 찾을 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ReservedAttributeName_Format</Item>
+        <Item>attributeName</Item>
+        <Item>Can not use '{0}' as the name 'Attributes' because it is reserved.</Item>
+        <Item>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '특성'의 이름으로 사용할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ReservedColumnName_Format</Item>
+        <Item>columnName</Item>
+        <Item>Can not use '{0}' as the name 'Column' because it is reserved.</Item>
+        <Item>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '열'의 이름으로 사용할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ReservedName_Format</Item>
+        <Item>name</Item>
+        <Item>'{0}' is not available because it is reserved.</Item>
+        <Item>'{0}' 은(는) 예약되어 있는 이름이기 때문에 사용할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TypeCannotBeUsed_Format</Item>
+        <Item i:nil="true" />
+        <Item>Type '{0}' can not be used.</Item>
+        <Item>'{0}' 타입은 사용할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UnresolvedChildTablesExist</Item>
+        <Item i:nil="true" />
+        <Item>There is still a table for the children that have not been resolved.</Item>
+        <Item>아직 해결되지 않은 자식 테이블이 남아 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UnresolvedProblemsExist</Item>
+        <Item i:nil="true" />
+        <Item>There is a problem that has not been solved yet.</Item>
+        <Item>아직 해결되지 않은 문제점이 남아 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:03:18.940286Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UsableOnChildTable</Item>
+        <Item i:nil="true" />
+        <Item>Only usable on child table.</Item>
+        <Item>자식 테이블에서만 사용이 가능합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T00:11:36.9625612Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotIncludedInDataSet</Item>
+        <Item i:nil="true" />
+        <Item>Not included in DataSet.</Item>
+        <Item>DataSet에 포함되어 있지 않습니다.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

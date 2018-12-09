@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows />
+</Table>

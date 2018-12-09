@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationTable xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <CategoryPath>/common/</CategoryPath>
+  <Columns>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>/StringType</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>0</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Type</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>1</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Name</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>2</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Comment</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>3</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Value</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>4</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>ko_KR</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+  </Columns>
+  <Comment></Comment>
+  <DerivedTags>All</DerivedTags>
+  <HashValue>6c66b01d950836901feeeed701a0b36f5f3d58c1</HashValue>
+  <Name>CremaData</Name>
+  <Parent></Parent>
+  <Rows>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotConvert_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>value, dataTypeName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Can not convert '{0}' to '{1}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}'은(는) '{1}' 으로 변환할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>54b75e99-6dd0-4013-83cf-caefc0f1d395</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotCopyToSameDataSet</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Can not copy to same DataSet.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>같은 DataSet에는 복사할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ad61987a-0414-4cb5-be3b-8d2085c1dfb4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotInheritWithoutDataSet</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>If the table is not in DataSet, it can not be inherited.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>테이블이 DataSet에 없는 경우에는 테이블을 상속할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>10041516-e83f-4912-b58a-b373ba1dbaa5</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AlreadyExistedItem_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Item '{0}' is already existed.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 항목은 이미 존재합니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>efbbc04b-d0c8-48a6-8738-18c429a03e38</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AreadyExistedDataType_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>dataTypeName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' is already a valid type</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 은(는) 이미 존재하는 타입입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>90473db9-c66d-4cc1-a2c4-5ed99b0a2443</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AtLeastOneColumn</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You must have at least one column.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>적어도 한개 이상의 열이 있어야 합니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>106fb8b9-a4c4-4e3d-ad48-632d90291a48</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AtLeastOneKey</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>At least one key must be set.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>적어도 한개 이상의 키가 설정되어야 합니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9af32015-9dc6-48d9-9b40-d78e7e6aec6d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotAddChildTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You can not add a child table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>자식 테이블은 추가할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6f3d777c-dd2e-4104-aeeb-d34c1b99e9a1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotAddInheritedTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You can not add a inherited table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속 받은 테이블은 추가할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>98c26ca1-fbd9-4554-abdd-ec0780d37ea8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotDeleteAsTypeIsReferenced</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Can not delete as type is referenced.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>타입이 참조되고 있기 때문에 삭제할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>aa429c5e-1590-4cf9-8db6-c17d1b593d9e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotEditInheritedTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You can not edit an inherited table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속받은 테이블은 편집할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fdb4d854-c359-4fbc-be32-e0e8b0dfbb07</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotParseEnum_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>enumValue, enumTypeName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Value '{0}' is not defined in type '{1}' and can not be converted.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 값은 '{1}' 타입에 정의되어 있지 않아 변환할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e299afc8-73ab-496f-9f50-d46ef35d2089</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotRemoveChildTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You can not remove a child table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>자식 테이블은 제거할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>1020888b-7287-4380-8225-48328d72bd92</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InvalidName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>The name can not contain any special characters \ / : *? " &lt; &gt; |</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>이름에 특수문자 \ / : * ? " &lt; &gt; | 등은 포함될 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f0b90485-42f1-417a-91e5-87d44b954b7f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NameCannotBeUsed_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>columnName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' is a name that can not be used.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' (은)는 사용할 수 없는 이름입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8097d89d-3efd-4199-b544-5dff24d78dad</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotEqualsFieldCountAndColumnCount</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>The number of fields does not match the number of columns of the table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>필드 갯수가 테이블의 열의 갯수와 일치하지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>bc3a54ac-0191-41ff-bafb-a252b793478f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotFoundAttribute_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>attributeName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Attribute '{0}' does not exist.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 특성은 존재하지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4e1c3c62-3ec6-4182-b4f7-628de2dfb96b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotFoundColumn_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>columnName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Column '{0}' does not exist in table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 열은 테이블에 존재하지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>baddc7f4-ca44-451d-9287-b2ac54ff768f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotFoundDirectory_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>pathName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Path '{0}' was not found.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 경로를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>942d9cfa-daff-404c-b127-7ff9f383d0e8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ReservedAttributeName_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>attributeName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Can not use '{0}' as the name 'Attributes' because it is reserved.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '특성'의 이름으로 사용할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8765f685-9a3d-44a0-9bca-baef1b319411</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ReservedColumnName_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>columnName</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Can not use '{0}' as the name 'Column' because it is reserved.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '열'의 이름으로 사용할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9cc69916-c0e5-40b1-8201-a69c5a7fd2c0</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ReservedName_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>name</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' is not available because it is reserved.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 은(는) 예약되어 있는 이름이기 때문에 사용할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>84851889-be6a-4e24-b930-f44fac9c9f97</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>TypeCannotBeUsed_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Type '{0}' can not be used.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' 타입은 사용할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2e042d6e-a7aa-40aa-9b46-8b070f82b6b5</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnresolvedChildTablesExist</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>There is still a table for the children that have not been resolved.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>아직 해결되지 않은 자식 테이블이 남아 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>a5edcbc4-619a-48d1-926d-b68516dbdff9</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnresolvedProblemsExist</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>There is a problem that has not been solved yet.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>아직 해결되지 않은 문제점이 남아 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4f6ac643-a453-470d-9c2f-9027631b09c4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UsableOnChildTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Only usable on child table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>자식 테이블에서만 사용이 가능합니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f4db9311-7c89-4653-9c80-2996e6227c42</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotIncludedInDataSet</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Not included in DataSet.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataSet에 포함되어 있지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c07aa7be-efaa-4cec-81b3-fe294deb6179</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+  </Rows>
+  <TableName>CremaData</TableName>
+  <Tags>All</Tags>
+  <TemplatedParent>StringTable</TemplatedParent>
+</SerializationTable>

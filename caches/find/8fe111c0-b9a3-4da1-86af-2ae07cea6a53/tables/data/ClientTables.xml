@@ -1,0 +1,1602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3781973Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Change</Item>
+        <Item i:nil="true" />
+        <Item>_Change</Item>
+        <Item>변경(_S)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Close</Item>
+        <Item i:nil="true" />
+        <Item>_Close</Item>
+        <Item>닫기(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-20T06:23:09.3066008Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Copy</Item>
+        <Item i:nil="true" />
+        <Item>_Copy...</Item>
+        <Item>복사(_C)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Create</Item>
+        <Item i:nil="true" />
+        <Item>_Create</Item>
+        <Item>생성(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Find</Item>
+        <Item i:nil="true" />
+        <Item>_Find</Item>
+        <Item>찾기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>OK</Item>
+        <Item i:nil="true" />
+        <Item>_OK</Item>
+        <Item>확인(_O)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Comment</Item>
+        <Item i:nil="true" />
+        <Item>Comment</Item>
+        <Item>설명</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ContentModifiedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Content Modified DateTime</Item>
+        <Item>데이터 변경 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ContentModifier</Item>
+        <Item i:nil="true" />
+        <Item>Content Modifier</Item>
+        <Item>데이터 변경자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>CopyData</Item>
+        <Item i:nil="true" />
+        <Item>Copy Data</Item>
+        <Item>데이터 복사</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>CreatedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Created DateTime</Item>
+        <Item>생성 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3791986Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Creator</Item>
+        <Item i:nil="true" />
+        <Item>Creator</Item>
+        <Item>생성자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>DateTime</Item>
+        <Item i:nil="true" />
+        <Item>DateTime</Item>
+        <Item>날짜</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ModifiedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Modified DateTime</Item>
+        <Item>변경자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Modifier</Item>
+        <Item i:nil="true" />
+        <Item>Modifier</Item>
+        <Item>변경 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Name</Item>
+        <Item i:nil="true" />
+        <Item>Name</Item>
+        <Item>이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>NewName</Item>
+        <Item i:nil="true" />
+        <Item>New Name</Item>
+        <Item>새 이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>OriginalName</Item>
+        <Item i:nil="true" />
+        <Item>Original Name</Item>
+        <Item>원본 이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Path</Item>
+        <Item i:nil="true" />
+        <Item>Path</Item>
+        <Item>경로</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Revision</Item>
+        <Item i:nil="true" />
+        <Item>Revision</Item>
+        <Item>리비전</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>TableName</Item>
+        <Item i:nil="true" />
+        <Item>Table Name</Item>
+        <Item>테이블 이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3801993Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Tags</Item>
+        <Item i:nil="true" />
+        <Item>Tags</Item>
+        <Item>태그</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>TargetFolder</Item>
+        <Item i:nil="true" />
+        <Item>Target Folder</Item>
+        <Item>대상 폴더</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>TemplatedParent</Item>
+        <Item i:nil="true" />
+        <Item>Parent Template</Item>
+        <Item>부모 템플릿</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>TemplateModifiedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Template Modified DateTime</Item>
+        <Item>형태 변경 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>TemplateModifier</Item>
+        <Item i:nil="true" />
+        <Item>Template Modifier</Item>
+        <Item>형태 변경자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UserID</Item>
+        <Item i:nil="true" />
+        <Item>UserID</Item>
+        <Item>사용자 아이디</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UseTemplate</Item>
+        <Item i:nil="true" />
+        <Item>Use Template</Item>
+        <Item>부모 템플릿 사용</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>User</Item>
+        <Item i:nil="true" />
+        <Item>User</Item>
+        <Item>사용자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>SettingDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Setting DateTime</Item>
+        <Item>설정 날짜</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>QuickFind</Item>
+        <Item i:nil="true" />
+        <Item>Quick _Find</Item>
+        <Item>빠른 찾기(_F)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3812003Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>CopyTable</Item>
+        <Item i:nil="true" />
+        <Item>_Copy Table...</Item>
+        <Item>테이블 복사(_V)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Delete</Item>
+        <Item i:nil="true" />
+        <Item>_Delete...</Item>
+        <Item>삭제(_D)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>EditContent</Item>
+        <Item i:nil="true" />
+        <Item>_Edit Content</Item>
+        <Item>내용 편집(_E)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>EditTemplate</Item>
+        <Item i:nil="true" />
+        <Item>Edit _Template...</Item>
+        <Item>형태 편집(_E)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Find</Item>
+        <Item i:nil="true" />
+        <Item>_Find...</Item>
+        <Item>찾기(_F)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>InheritTable</Item>
+        <Item i:nil="true" />
+        <Item>_Inherite Table...</Item>
+        <Item>테이블 상속(_I)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Lock</Item>
+        <Item i:nil="true" />
+        <Item>_Lock...</Item>
+        <Item>잠금 설정(_L)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Move</Item>
+        <Item i:nil="true" />
+        <Item>_Move...</Item>
+        <Item>이동(_M)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewChildTable</Item>
+        <Item i:nil="true" />
+        <Item>New _ChildTable...</Item>
+        <Item>새 자식 테이블(_T)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewFolder</Item>
+        <Item i:nil="true" />
+        <Item>New _Folder...</Item>
+        <Item>새 폴더(_N)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3822001Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewTable</Item>
+        <Item i:nil="true" />
+        <Item>New _Table...</Item>
+        <Item>새 테이블(_T)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Preview</Item>
+        <Item i:nil="true" />
+        <Item>Pre_view...</Item>
+        <Item>미리보기(_V)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Rename</Item>
+        <Item i:nil="true" />
+        <Item>_Rename...</Item>
+        <Item>이름 변경(_R)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetAuthority</Item>
+        <Item i:nil="true" />
+        <Item>Set _Authority...</Item>
+        <Item>권한 설정(_A)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetPrivate</Item>
+        <Item i:nil="true" />
+        <Item>Set _Private</Item>
+        <Item>비공개로 설정(_P)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetPublic</Item>
+        <Item i:nil="true" />
+        <Item>Set _Public</Item>
+        <Item>공개로 설정(_P)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Unlock</Item>
+        <Item i:nil="true" />
+        <Item>_Unlock</Item>
+        <Item>잠금 해제(_U)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ViewContent</Item>
+        <Item i:nil="true" />
+        <Item>View Content</Item>
+        <Item>내용 보기(_E)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ViewLog</Item>
+        <Item i:nil="true" />
+        <Item>View Log</Item>
+        <Item>로그 보기(_L)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3832017Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ViewTemplate</Item>
+        <Item i:nil="true" />
+        <Item>View Template</Item>
+        <Item>형태 보기(_E)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ExitEditByUser_Format</Item>
+        <Item i:nil="true" />
+        <Item>Edit has been exited by '{0}'.</Item>
+        <Item>'{0}'에 의해서 편집이 종료되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToSetPrivate</Item>
+        <Item i:nil="true" />
+        <Item>Do you want to set it to Private?</Item>
+        <Item>비공개로 설정하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Changing</Item>
+        <Item i:nil="true" />
+        <Item>Changing.</Item>
+        <Item>변경중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Coping</Item>
+        <Item i:nil="true" />
+        <Item>Copying.</Item>
+        <Item>복사중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Creating</Item>
+        <Item i:nil="true" />
+        <Item>Creating.</Item>
+        <Item>생성중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ReceivingInfo</Item>
+        <Item i:nil="true" />
+        <Item>Receiving information.</Item>
+        <Item>정보를 가져오는 중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Saving</Item>
+        <Item i:nil="true" />
+        <Item>Saving.</Item>
+        <Item>저장중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>LoadingData</Item>
+        <Item i:nil="true" />
+        <Item>Loading Data</Item>
+        <Item>데이터를 읽어들이는 중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>IsReadOnly</Item>
+        <Item i:nil="true" />
+        <Item>It's ReadOnly</Item>
+        <Item>읽기 전용입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3842024Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>CopyTable</Item>
+        <Item i:nil="true" />
+        <Item>Copy Table</Item>
+        <Item>테이블 복사</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DeleteTable</Item>
+        <Item i:nil="true" />
+        <Item>Delete Table</Item>
+        <Item>테이블 삭제</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DeleteTableFolder</Item>
+        <Item i:nil="true" />
+        <Item>Delete Table Folder</Item>
+        <Item>테이블 폴더 삭제</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Find</Item>
+        <Item i:nil="true" />
+        <Item>Find</Item>
+        <Item>찾기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>InheritTable</Item>
+        <Item i:nil="true" />
+        <Item>Inherit Table</Item>
+        <Item>테이블 상속</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>MoveTable</Item>
+        <Item i:nil="true" />
+        <Item>Move Table</Item>
+        <Item>테이블 이동</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>MoveTableFolder</Item>
+        <Item i:nil="true" />
+        <Item>Move Table Folder</Item>
+        <Item>폴더 이동</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NewChildTable</Item>
+        <Item i:nil="true" />
+        <Item>New Child Table</Item>
+        <Item>새 자식 테이블</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NewTable</Item>
+        <Item i:nil="true" />
+        <Item>New Table</Item>
+        <Item>새 테이블</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3852031Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NewTableFolder</Item>
+        <Item i:nil="true" />
+        <Item>New Table Folder</Item>
+        <Item>테이블 폴더 생성</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>RenameTable</Item>
+        <Item i:nil="true" />
+        <Item>Rename Table</Item>
+        <Item>테이블 이름 변경</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>RenameTableFolder</Item>
+        <Item i:nil="true" />
+        <Item>Rename Table Folder</Item>
+        <Item>폴더 이름 변경</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>TableBrowser</Item>
+        <Item i:nil="true" />
+        <Item>Table Browser</Item>
+        <Item>테이블 탐색기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>TableColumnInfo</Item>
+        <Item i:nil="true" />
+        <Item>Column Info</Item>
+        <Item>테이블 열 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>TableInfo</Item>
+        <Item i:nil="true" />
+        <Item>Table Info</Item>
+        <Item>테이블 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Tables</Item>
+        <Item i:nil="true" />
+        <Item>Tables</Item>
+        <Item>테이블</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>TableTemplateEditing</Item>
+        <Item i:nil="true" />
+        <Item>Editing Table Template</Item>
+        <Item>테이블 형태 편집</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>ViewLog</Item>
+        <Item i:nil="true" />
+        <Item>View Log</Item>
+        <Item>로그 보기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3862037Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>EnterWordToFind</Item>
+        <Item i:nil="true" />
+        <Item>Enter word to find</Item>
+        <Item>찾을 단어를 입력하세요</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>TagsAll</Item>
+        <Item i:nil="true" />
+        <Item>All</Item>
+        <Item>모두</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>TagsClient</Item>
+        <Item i:nil="true" />
+        <Item>Client</Item>
+        <Item>클라이언트</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>TagsServer</Item>
+        <Item i:nil="true" />
+        <Item>Server</Item>
+        <Item>서버</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>TagsUnused</Item>
+        <Item i:nil="true" />
+        <Item>Unused</Item>
+        <Item>사용안함</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>CancelContentEditing</Item>
+        <Item i:nil="true" />
+        <Item>Cancel Content Editing</Item>
+        <Item>내용 편집 취소</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>CancelTemplateEditing</Item>
+        <Item i:nil="true" />
+        <Item>Cancel Template Editing</Item>
+        <Item>형태 편집 취소</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>EndContentEditing</Item>
+        <Item i:nil="true" />
+        <Item>End Content Editing</Item>
+        <Item>내용 편집 종료</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>EndTemplateEditing</Item>
+        <Item i:nil="true" />
+        <Item>End Template Editing</Item>
+        <Item>형태 편집 종료</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3872041Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>FindAll</Item>
+        <Item i:nil="true" />
+        <Item>Find All</Item>
+        <Item>모두 찾기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Table</Item>
+        <Item i:nil="true" />
+        <Item>Tabl_e</Item>
+        <Item>테이블(_A)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Tags</Item>
+        <Item i:nil="true" />
+        <Item>Tags</Item>
+        <Item>태그</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SelectInTableBrowser</Item>
+        <Item i:nil="true" />
+        <Item>Select in table browser...</Item>
+        <Item>테이블 브라우저에서 보기(_V)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToCancelContentEditing</Item>
+        <Item i:nil="true" />
+        <Item>Cancel editing the contents. Items that are not saved will disappear. Would you like to go on?</Item>
+        <Item>내용 편집을 취소합니다. 저장되지 않은 항목은 사라집니다. 계속하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToEndContentEditing</Item>
+        <Item i:nil="true" />
+        <Item>Finishes the contents of the contents. Would you like to go on?</Item>
+        <Item>내용 편집을 종료합니다. 계속하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>AccessInfo</Item>
+        <Item i:nil="true" />
+        <Item>Access Information</Item>
+        <Item>보안 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>LockInfo</Item>
+        <Item i:nil="true" />
+        <Item>Lock Info</Item>
+        <Item>잠금 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>BaseTable</Item>
+        <Item i:nil="true" />
+        <Item>Base Table</Item>
+        <Item>기본 테이블</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3882048Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DerivedTable</Item>
+        <Item i:nil="true" />
+        <Item>Derived Tables</Item>
+        <Item>파생된 테이블들</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>TablesBeingUsed</Item>
+        <Item i:nil="true" />
+        <Item>Tables being used</Item>
+        <Item>사용되고 있는 테이블들</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Owner</Item>
+        <Item i:nil="true" />
+        <Item>Owner</Item>
+        <Item>소유자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>FindWhat</Item>
+        <Item i:nil="true" />
+        <Item>find what</Item>
+        <Item>찾을 내용</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>LookIn</Item>
+        <Item i:nil="true" />
+        <Item>looking</Item>
+        <Item>찾는 위치</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>FindAll</Item>
+        <Item i:nil="true" />
+        <Item>_Find All</Item>
+        <Item>모두 찾기(_A)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Row</Item>
+        <Item i:nil="true" />
+        <Item>Row</Item>
+        <Item>행</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Column</Item>
+        <Item i:nil="true" />
+        <Item>Column</Item>
+        <Item>열</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3892055Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Value</Item>
+        <Item i:nil="true" />
+        <Item>Value</Item>
+        <Item>값</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-20T07:52:11.0086337Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>ViewTableTemplate</Item>
+        <Item i:nil="true" />
+        <Item>View Table Template</Item>
+        <Item>테이블 형태 보기</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

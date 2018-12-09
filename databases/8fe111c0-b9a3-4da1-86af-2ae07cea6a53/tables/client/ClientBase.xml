@@ -1,0 +1,921 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientBase ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-04-16T02:08:48.021092Z"
+  StringTable.Count="101"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3611864Z">
+    <Type>Button</Type>
+    <Name>Change</Name>
+    <Value>C_hange</Value>
+    <ko_KR>변경(_H)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3611864Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T06:25:02.157199Z">
+    <Type>Button</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>_Create</Value>
+    <ko_KR>생성(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Button</Type>
+    <Name>Login</Name>
+    <Value>Log In</Value>
+    <ko_KR>접  속</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Button</Type>
+    <Name>OK</Name>
+    <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Exception</Type>
+    <Name>CannotSelectWithoutLoggingIn</Name>
+    <Value>You can not select a database without logging in.</Value>
+    <ko_KR>로그인이 되지 않은 상태에서는 데이터 베이스를 선택할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Exception</Type>
+    <Name>NonExistentDataBase</Name>
+    <Value>'{0}' is a non-existent data base.</Value>
+    <ko_KR>'{0}'은(는) 존재하지 않는 데이터 베이스입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:49:13.0805821Z">
+    <Type>Label</Type>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Label</Type>
+    <Name>Address</Name>
+    <Value>_Address</Value>
+    <ko_KR>주소</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-16T02:08:48.021092Z">
+    <Type>Label</Type>
+    <Name>MoveToWiki</Name>
+    <Value>Move To Wiki</Value>
+    <ko_KR>위키로 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>DataBase</Name>
+    <Value>DataBase</Value>
+    <ko_KR>데이터 베이스</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:33.8263239Z">
+    <Type>Label</Type>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:21.1591017Z">
+    <Type>Label</Type>
+    <Name>RemoveConnectionItem</Name>
+    <Value>Remove Connection Item</Value>
+    <ko_KR>접속 정보 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:26.5879112Z">
+    <Type>Label</Type>
+    <Name>ManageConnectionItemList</Name>
+    <Value>Manage Connection List</Value>
+    <ko_KR>접속 정보 관리</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>변경자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>_Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>Password</Name>
+    <Value>_Password</Value>
+    <ko_KR>암호</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>RecentServerList</Name>
+    <Value>Recent Server List</Value>
+    <ko_KR>최근 접속 서버</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    <Type>Label</Type>
+    <Name>Revision</Name>
+    <Value>Revision</Value>
+    <ko_KR>리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>Label</Type>
+    <Name>SavePassword</Name>
+    <Value>_Save Password</Value>
+    <ko_KR>암호 저장</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>Label</Type>
+    <Name>ServerList</Name>
+    <Value>Server List</Value>
+    <ko_KR>서버 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>Label</Type>
+    <Name>Theme</Name>
+    <Value>Th_eme</Value>
+    <ko_KR>테마</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>Label</Type>
+    <Name>UserID</Name>
+    <Value>_ID</Value>
+    <ko_KR>아이디</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>MenuItem</Type>
+    <Name>About</Name>
+    <Value>_About</Value>
+    <ko_KR>정보(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:10.9302458Z"
+    Enable="false">
+    <Type>MenuItem</Type>
+    <Name>AddToServerList</Name>
+    <Value>_Add To Server List</Value>
+    <ko_KR>서버 목록에 추가하기(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>MenuItem</Type>
+    <Name>ChangeDataBase</Name>
+    <Value>_Change DataBase...</Value>
+    <ko_KR>데이터 베이스 변경(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-26T05:05:12.0410828Z">
+    <Type>MenuItem</Type>
+    <Name>LeaveDataBase</Name>
+    <Value>Leave DataBase</Value>
+    <ko_KR>데이터 베이스 나가기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    <Type>MenuItem</Type>
+    <Name>CopyDataBase</Name>
+    <Value>Copy DataBase...</Value>
+    <ko_KR>데이터 베이스 복사...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:17.2595099Z">
+    <Type>MenuItem</Type>
+    <Name>CreateDataBase</Name>
+    <Value>_Create DataBase...</Value>
+    <ko_KR>데이터 베이스 생성(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:04.8574881Z">
+    <Type>MenuItem</Type>
+    <Name>Delete</Name>
+    <Value>_Delete</Value>
+    <ko_KR>삭제(_D)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:10.4266979Z">
+    <Type>MenuItem</Type>
+    <Name>DeleteDataBase</Name>
+    <Value>_Delete DataBase...</Value>
+    <ko_KR>데이터 베이스 삭제(_D)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>MenuItem</Type>
+    <Name>File</Name>
+    <Value>_File</Value>
+    <ko_KR>파일(_F)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>MenuItem</Type>
+    <Name>Help</Name>
+    <Value>_Help</Value>
+    <ko_KR>도움말(_H)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>MenuItem</Type>
+    <Name>Logout</Name>
+    <Value>Log _out</Value>
+    <ko_KR>로그아웃(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:29.6771317Z">
+    <Type>MenuItem</Type>
+    <Name>ManageDataBase</Name>
+    <Value>_Manage DataBase...</Value>
+    <ko_KR>데이터 베이스 관리(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T06:28:04.0954153Z">
+    <Type>MenuItem</Type>
+    <Name>Edit</Name>
+    <Value>_Edit</Value>
+    <ko_KR>편집(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>MenuItem</Type>
+    <Name>Tools</Name>
+    <Value>_Tools</Value>
+    <ko_KR>도구(_T)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>Message</Type>
+    <Name>CloseDataBase</Name>
+    <Value>Do you want to close DataBase?</Value>
+    <ko_KR>데이터 베이스를 닫으시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    <Type>Message</Type>
+    <Name>ConnectingToServer</Name>
+    <Value>Connecting to server. please wait a second.</Value>
+    <ko_KR>서버에 연결중입니다. 잠시만 기다려주세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>ConnectionFailed</Name>
+    <Value>Unable to connect to the server. Check your address.</Value>
+    <ko_KR>서버에 접속할 수 없습니다. 주소를 확인하세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>CopiedDataBase</Name>
+    <Value>New database has been copied.</Value>
+    <ko_KR>데이터 베이스가 복사되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>CopingDataBase</Name>
+    <Value>New database is being copied.</Value>
+    <ko_KR>데이터 베이스가 복사중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>CreatedNewDataBase</Name>
+    <Value>New database has been created.</Value>
+    <ko_KR>새로운 데이터 베이스를 생성하였습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>CreatingNewDataBase</Name>
+    <Value>New database is being created.</Value>
+    <ko_KR>새로운 데이터 베이스를 생성중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:36.3270904Z"
+    Enable="false">
+    <Type>Message</Type>
+    <Name>DeleteRecentServerList</Name>
+    <Value>Do you want to delete recent server list?</Value>
+    <ko_KR>최근 서버 목록을 모두 지우시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:37.231892Z"
+    Enable="false">
+    <Type>Message</Type>
+    <Name>DeleteServerList</Name>
+    <Value>Do you want to delete server list?</Value>
+    <ko_KR>서버 목록을 모두 지우시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>LoadingDataBase</Name>
+    <Value>Loading DataBase.</Value>
+    <ko_KR>데이터 베이스를 읽어들이고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>Logout</Name>
+    <Value>Do you want to log out?</Value>
+    <ko_KR>로그아웃 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    <Type>Message</Type>
+    <Name>ReceivingInformation</Name>
+    <Value>Receiving Information.</Value>
+    <ko_KR>정보를 받아오고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z">
+    <Type>Message</Type>
+    <Name>SameIDConnected</Name>
+    <Value>Same ID is being connected. Would you like to disconnect and connect?</Value>
+    <ko_KR>같은 아이디가 연결중입니다. 접속을 끊고 연결하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z">
+    <Type>Title</Type>
+    <Name>CopyDataBase</Name>
+    <Value>Copy DataBase</Value>
+    <ko_KR>데이터 베이스 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z">
+    <Type>Title</Type>
+    <Name>CreateDataBase</Name>
+    <Value>Create DataBase</Value>
+    <ko_KR>데이터 베이스 생성</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z">
+    <Type>Title</Type>
+    <Name>SelectDataBase</Name>
+    <Value>Select DataBase</Value>
+    <ko_KR>데이터 베이스 선택</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z">
+    <Type>Title</Type>
+    <Name>Start</Name>
+    <Value>Start</Value>
+    <ko_KR>시작</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:08:17.3381924Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:08:17.3381924Z">
+    <Type>Label</Type>
+    <Name>Etc</Name>
+    <Value>Etc</Value>
+    <ko_KR>기타</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:14:47.8848784Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:14:47.8848784Z">
+    <Type>Label</Type>
+    <Name>ConnectionList</Name>
+    <Value>Connection List</Value>
+    <ko_KR>접속 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z">
+    <Type>Title</Type>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z">
+    <Type>Title</Type>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T04:20:58.146821Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T04:21:13.1540474Z">
+    <Type>Exception</Type>
+    <Name>InvalidConnectionItem</Name>
+    <Value>Invalid Connection Item</Value>
+    <ko_KR>잘못된 접속 정보입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set _Authority...</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set _Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set _Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:35.9465131Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:35.9465131Z">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock...</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:44.3237278Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:17.381186Z">
+    <Type>MenuItem</Type>
+    <Name>Load</Name>
+    <Value>_Load...</Value>
+    <ko_KR>활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:51.797141Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:20.251591Z">
+    <Type>MenuItem</Type>
+    <Name>Unload</Name>
+    <Value>_Unload...</Value>
+    <ko_KR>비활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:35:01.6064967Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:35:01.6064967Z">
+    <Type>Message</Type>
+    <Name>ConfirmToSetPrivate</Name>
+    <Value>Do you want to set it to Private?</Value>
+    <ko_KR>비공개로 설정하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T04:19:51.20322Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T04:19:51.20322Z">
+    <Type>Message</Type>
+    <Name>Deleted</Name>
+    <Value>Deleted.</Value>
+    <ko_KR>삭제되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:35:45.4718287Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:35:45.4718287Z">
+    <Type>Label</Type>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:05.4242638Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:05.4242638Z">
+    <Type>Label</Type>
+    <Name>SettingDateTime</Name>
+    <Value>Setting DateTime</Value>
+    <ko_KR>설정 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:19.760689Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:19.760689Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z">
+    <Type>Title</Type>
+    <Name>AccessInfo</Name>
+    <Value>Access Information</Value>
+    <ko_KR>보안 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z">
+    <Type>Title</Type>
+    <Name>LockInfo</Name>
+    <Value>Lock Info</Value>
+    <ko_KR>잠금 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:47.1092426Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:47.1092426Z">
+    <Type>Label</Type>
+    <Name>User</Name>
+    <Value>User</Value>
+    <ko_KR>사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.6961506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z">
+    <Type>Title</Type>
+    <Name>DataBase</Name>
+    <Value>DataBase</Value>
+    <ko_KR>데이터 베이스</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.7117506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z">
+    <Type>Title</Type>
+    <Name>DataBaseInfo</Name>
+    <Value>DataBase Info</Value>
+    <ko_KR>데이터 베이스 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:15.5115188Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:50.33078Z">
+    <Type>Label</Type>
+    <Name>BranchRevision</Name>
+    <Value>BranchRevision</Value>
+    <ko_KR>브랜치 리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:23.1087322Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:59.2539957Z">
+    <Type>Label</Type>
+    <Name>BranchSource</Name>
+    <Value>BranchSource</Value>
+    <ko_KR>브랜치 원본</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:31.6263471Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:23:06.3208081Z">
+    <Type>Label</Type>
+    <Name>BranchSourceRevision</Name>
+    <Value>BranchSourceRevision</Value>
+    <ko_KR>브랜치 원본 리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:44:36.6879668Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:44:36.6879668Z">
+    <Type>Message</Type>
+    <Name>ReceivingInfo</Name>
+    <Value>Receiving information.</Value>
+    <ko_KR>정보를 가져오는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:44:44.2851801Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:44:44.2851801Z">
+    <Type>Title</Type>
+    <Name>ViewLog</Name>
+    <Value>View Log</Value>
+    <ko_KR>로그 보기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:47:49.5511055Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:47:49.5511055Z">
+    <Type>Label</Type>
+    <Name>DateTime</Name>
+    <Value>DateTime</Value>
+    <ko_KR>날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:17:14.0081205Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:17:14.0081205Z">
+    <Type>Label</Type>
+    <Name>ID</Name>
+    <Value>ID</Value>
+    <ko_KR>ID</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:15.1891334Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:15.1891334Z">
+    <Type>Label</Type>
+    <Name>ItemPath</Name>
+    <Value>Item Path</Value>
+    <ko_KR>항목 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:28.9951576Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:28.9951576Z">
+    <Type>Label</Type>
+    <Name>ItemType</Name>
+    <Value>Item Type</Value>
+    <ko_KR>항목 타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:47.3563899Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:47.3563899Z">
+    <Type>Label</Type>
+    <Name>DomainType</Name>
+    <Value>Domain Type</Value>
+    <ko_KR>도메인 타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:03.308334Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:23:03.308334Z">
+    <Type>Title</Type>
+    <Name>DomainInfo</Name>
+    <Value>Domain Information</Value>
+    <ko_KR>도메인 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:39.5003976Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:26:16.5458734Z">
+    <Type>Title</Type>
+    <Name>DomainUserList</Name>
+    <Value>Domain User List</Value>
+    <ko_KR>도메인 사용자 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:58.532431Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:23:58.532431Z">
+    <Type>Title</Type>
+    <Name>DomainList</Name>
+    <Value>Domain List</Value>
+    <ko_KR>도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T04:26:00.4364913Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T04:27:26.3926423Z">
+    <Type>Title</Type>
+    <Name>DataBaseDomainList</Name>
+    <Value>DataBase Domain List</Value>
+    <ko_KR>데이터 베이스 도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-08T06:28:25.3067454Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-08T06:28:25.3067454Z">
+    <Type>Button</Type>
+    <Name>Enter</Name>
+    <Value>Enter</Value>
+    <ko_KR>들어가기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-08T06:28:33.59036Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-08T06:28:41.7023742Z">
+    <Type>MenuItem</Type>
+    <Name>Enter</Name>
+    <Value>Enter</Value>
+    <ko_KR>들어가기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-26T07:16:55.3724944Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-26T07:17:04.28011Z">
+    <Type>Message</Type>
+    <Name>VerifyToCloseDataBase</Name>
+    <Value>There are users using the database. Do you want to close it anyway?</Value>
+    <ko_KR>데이터 베이스를 사용중인 사용자가 있습니다. 그래도 닫으시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T02:41:16.182552Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T02:41:34.2161836Z">
+    <Type>MenuItem</Type>
+    <Name>Login</Name>
+    <Value>Login</Value>
+    <ko_KR>로그인</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T04:03:44.6672435Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T04:03:44.6672435Z">
+    <Type>MenuItem</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T04:15:20.1788651Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T04:15:44.3745076Z">
+    <Type>Title</Type>
+    <Name>CopyConnectionItem</Name>
+    <Value>Copy Connection Item</Value>
+    <ko_KR>접속 정보 복사</ko_KR>
+  </StringTable>
+</Content>

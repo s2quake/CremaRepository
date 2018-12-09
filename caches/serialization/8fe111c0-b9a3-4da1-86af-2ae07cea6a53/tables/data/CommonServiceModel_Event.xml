@@ -1,0 +1,2156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationTable xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <CategoryPath>/common/</CategoryPath>
+  <Columns>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>/StringType</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>0</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Type</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>1</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Name</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>2</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Comment</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>3</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Value</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>4</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>ko_KR</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+  </Columns>
+  <Comment></Comment>
+  <DerivedTags>All</DerivedTags>
+  <HashValue>6c66b01d950836901feeeed701a0b36f5f3d58c1</HashValue>
+  <Name>CommonServiceModel_Event</Name>
+  <Parent></Parent>
+  <Rows>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AddAccessMemberToTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' added '{3}' to the user list of table item '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>af77b94e-b760-4bbc-9e3f-cbad24affc7c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AddAccessMemberToTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' added '{3}' to the user list of type item '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b9da093e-a484-4b16-bfc2-0d7b9714d221</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BanUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' banned user '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8ae791ef-842a-4dc0-b555-b243f075697d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BeginDomain</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created domain '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 작업 공간 '{2}'을 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>575cae0b-07a8-4580-90f5-4e155a5819a4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CancelDomain</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has canceled domain '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 작업 공간 '{2}'을 취소했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2114c99c-64b0-4e1a-a089-49a110dd6f71</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ChangeTableContent</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' changed contents of Table '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'의 내용을 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>54ecd911-fb5b-47f2-89e9-03840356c827</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ChangeTableTemplate</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' changed template of Table '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'의 형태를 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>bfa97112-d28b-4c64-bf45-3b0b870affe2</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ChangeTypeTemplate</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' changed template of Type '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 '{2}'의 형태를 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c9b56ee4-ab94-4c4b-adec-93c5eaba21a7</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ChangeUserInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' changed information of user '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'의 정보를 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7ccc4376-2f21-4ea0-a00f-6303358e2c0b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Comment</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Comment</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>설명</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b2409e9a-6697-448c-a60a-296d64299f95</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>38eb3774-a300-48be-b055-34593c763deb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created table '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d3e04fb5-025d-4708-aa4b-563a27c50e85</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateTableCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created table path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2e93e5a8-68bd-4f2c-b7e3-43c6e4705254</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created type '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b6f1a2ad-537a-4665-9441-d1cf91c95807</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateTypeCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created type path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>34848c23-cf44-4249-9c7b-5890f64b758c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created user '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2981172b-55f5-4718-a147-89c3e9aa582a</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateUserCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' created user path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 생성했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6c6cd3f0-21d1-4343-a66e-1292d8229d0f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>82c077d6-f9c3-4164-b114-7f2dca89236f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted table '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4d17512b-8237-4385-8f87-353f48dc0453</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteTableCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted table path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5c0ab55f-1ca9-4171-8a54-6f64ca60e648</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted type '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6f49cd63-3da2-4eb2-8e81-87fd65d4e59e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteTypeCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted type path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c78bc5ab-2abe-4f4c-aaa7-7b5cf2814aa1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted user '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7a1deb2f-b11c-4c09-a96b-b764e678a44f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteUserCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' deleted user path '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>90640263-bba1-4927-85d2-dd5ccfb79bd7</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>EndDomain</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has exited domain '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 작업 공간 '{2}'을 종료했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>23783d93-aaa5-45e6-a897-39f5aabdccce</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>EnterDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has entered database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'에 참여했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>26276581-dede-4f2a-a697-f046e400f486</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>EnterDomainUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has entered domain '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 작업 공간 '{2}'에 참여했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fac8ec04-45a4-41ee-84c0-e9fc972891b2</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>KickDomainUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' kicked '{2}({3})' from domain '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'에서 추방했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7f5d5a2f-1fba-4af0-9277-77457150ff4e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>KickUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' kicked user '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 추방했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>27486b96-8944-46ac-9804-04dd46d159e3</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LeaveDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has left database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 떠났습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>cb967395-f442-46ad-a0dd-9bfac037f2c7</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LeaveDomainUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has left domain '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 작업 공간 '{2}'을(를) 떠났습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>34681d59-06c1-4c15-af82-1c37be505a4b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LoadDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has activated database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 활성화 상태로 전환했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>eb513b5c-83bf-40f4-afbb-af16dd010340</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LockTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' locked table item.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목의 잠금을 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d557edf9-4b75-402d-ac6f-e9c7c8cf9d65</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LockTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' locked type item.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목의 잠금을 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>940c19c8-1436-46bf-be0b-09e8e72408ac</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LoginUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has logged in crema service.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 크레마 서비스에 참여했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9a4aec2e-e889-4a5f-907d-dbed101e9bc8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LogoutUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has logged out crema service.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 크레마 서비스를 떠났습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>555eb0d4-c477-4c9d-ae47-ac1374a42823</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved table '{2}' from '{3}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>015ba32a-7081-4cd8-b0e8-32d3d0ca5c00</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveTableCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved table path '{2}' from '{3}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9762e895-d30f-4b81-9db8-1ae6dca2c101</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved type '{2}' from '{3}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9a251d94-9d84-4592-9aad-50a195f64893</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveTypeCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved type path '{2}' from '{3}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b1a1c1e2-cb40-4483-804e-bec1944d277d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved user '{2}({3})' from '{4}' to '{5}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'의 위치를 '{4}'에서 '{5}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>0114d071-a7d5-43be-a9fe-17384154d4ca</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveUserCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' moved user path '{2}' from '{3}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e7c44348-c0d8-4e0e-b592-75e0d41fbf42</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotifyMessage</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' notified to '{2}'.
+notification : "{3}"</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) '{2}'에게 알림을 보냈습니다.
+알림 : "{3}"</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>47ea5752-b5b2-4cd6-bd1b-44333fe1e2ce</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Reason</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Reason</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>사유</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>544918dc-9b47-413a-8886-d54cac322165</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RemoveAccessMemberFromTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' removed '{3}' to the user list of table item '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2211f0ba-e211-4307-b30a-fcb03bdcc625</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RemoveAccessMemberFromTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' removed '{3}' to the user list of type item '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>18233e48-5af0-47f5-83d7-7a633f54d53a</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  database '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6e3930da-918f-49b9-9ee9-401e5ceb6429</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameTable</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  table '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>23c12efc-2c20-49de-a243-2cd21742aaa1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameTableCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  table path '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>75bcfc0a-f77c-4db0-86d0-26a8056cfaf1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  type '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e16d6583-31ab-4767-8fcd-25d8881b2f03</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameTypeCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  type path '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c5c813dc-f341-4389-a32f-9658b44717d6</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RenameUserCategory</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' renamed  user path '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b8253424-6d4e-48c8-a7fd-5a269e594ff7</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RevertDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' revert revision of database '{2}' to '{3}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 리비전을 '{3}'으로 되돌렸습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b445e4ed-b69e-4bfe-969b-57dd522c0fdc</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SendMessage</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' send message '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) '{2}({3})'에게 문자를 보냈습니다.
+문자 : "{4}"</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ff82692d-458c-45ad-958e-c0bf35f2586f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetDomainOwner</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set owner of domain '{4}' to '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'의 소유자로 임명했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7bbd0b3a-51ae-4e7e-b5b2-dd85501a54cb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPrivateTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of table item '{2}' to private.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>93d08a9c-8831-4789-87e1-be2ad5dbdd69</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPrivateTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of type item '{2}' to private.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b7fc18b6-1c08-48a4-bb6e-b9a4115c3a7c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPublicTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of table item '{2}' to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>18cbf4a6-bd90-4ced-acc8-883ffb5d78ae</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPublicTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of type item '{2}' to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e9b059f7-7b10-4d24-9f94-ab650caea49f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnbanUser</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' unbanned user '{2}({3})'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단 해제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f4d99d28-b865-4c91-9bf7-d09dbcd72909</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnloadDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' has inactivated database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 비활성화 상태로 전환했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2763430f-0970-422a-b5e1-848e8eb2d83f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnlockTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' unlocked table item.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 테이블 항목의 잠금을 해제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>06c3c4cd-cf88-451b-99e6-35aa321088dd</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnlockTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' unlocked type item.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 타입 항목의 잠금을 해제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ecc3d966-886e-4ff4-bd20-463ce24b7f19</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UnlockDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' unlocked database.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터 베이스의 잠금을 해제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>33a71f85-74d5-4844-9415-c56f8d812dc0</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LockDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' locked database: "{2}"</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다: "{2}"</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>a6abce14-4de0-4d3b-a530-f6037ce658ce</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RemoveAccessMemberFromDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' removed '{3}' to the user list of database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ec9ff585-9489-4d90-862a-6c222346d86e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPrivateDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of database '{2}' to private.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>11e3cfe8-5fc5-496f-a91e-cfe7dcf88b05</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPublicDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set authority of database '{2}' to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 공개로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>50b0994b-4d7d-432b-be49-56b214f9330b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AddAccessMemberToDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' added '{3}({4})' to the user list of database '{2}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에 '{3}({4})'을(를) 추가했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>658c2971-6745-4ab9-8252-14dca0e2b6eb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetAccessMemberOfDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})' set type of '{3}' user of database '{2}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>662bd412-003e-4244-9f4f-668f00670c0f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetAccessMemberOfTableItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>{0}({1})' set type of '{3}' user of table item '{2}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6cc83d19-7110-4371-bb98-ca069d617694</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetAccessMemberOfTypeItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>{0}({1})' set type of '{3}' user of type item '{2}' to '{4}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>{0}({1})'이(가) 타입 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>da371c8c-fbe6-4757-a2e2-4b7fa4e546ba</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ResetDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>database '{2}' reset by '{0}({1})'</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되었습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>61829cf2-86d8-4326-a64b-8da375c73651</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>None</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ResettingDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>database '{2}' is resetting by '{0}({1})'</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되는중입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>64092a85-9745-4289-b027-4e4f2f9b10ca</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+  </Rows>
+  <TableName>CommonServiceModel_Event</TableName>
+  <Tags>All</Tags>
+  <TemplatedParent>StringTable</TemplatedParent>
+</SerializationTable>

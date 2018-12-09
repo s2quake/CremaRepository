@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo.ExportInfo ProjectInfo.ExportInfo.xsd"
+  ProjectInfo.ExportInfo.Modifier="s2quake"
+  ProjectInfo.ExportInfo.Count="4"
+  ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo.ExportInfo">
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3338315Z"
+    ParentID="3690c9391151acd7057703cafb821469">
+    <ID>1</ID>
+    <FileName />
+    <TableName>ClientSmartSet</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="e2d4fa01e336f756ad160c2cf7aa4711">
+    <ID>2</ID>
+    <FileName />
+    <TableName>ClientCommon</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="0be414facb2c5e43ee76a909bfff3ae6">
+    <ID>0</ID>
+    <FileName />
+    <TableName>ModernUIFramework</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T05:13:04.5675964Z"
+    ParentID="f9b4fbf403945fc41e028283ad40d269">
+    <ID>3</ID>
+    <FileName />
+    <TableName>ClientConverters</TableName>
+  </ProjectInfo.ExportInfo>
+</Content>

@@ -1,0 +1,1125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>AddAccessMemberToTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' added '{3}' to the user list of table item '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>AddAccessMemberToTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' added '{3}' to the user list of type item '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>BanUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' banned user '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>BeginDomain</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created domain '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 작업 공간 '{2}'을 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CancelDomain</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has canceled domain '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 작업 공간 '{2}'을 취소했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:19.0764463Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ChangeTableContent</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' changed contents of Table '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'의 내용을 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:22.7736528Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ChangeTableTemplate</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' changed template of Table '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'의 형태를 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:26.9856602Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ChangeTypeTemplate</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' changed template of Type '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 '{2}'의 형태를 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:11.541633Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ChangeUserInfo</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' changed information of user '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'의 정보를 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>Comment</Item>
+        <Item i:nil="true" />
+        <Item>Comment</Item>
+        <Item>설명</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateTable</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created table '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateTableCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created table path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateType</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created type '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateTypeCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created type path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:02.2128166Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created user '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>CreateUserCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' created user path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 생성했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteTable</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted table '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteTableCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted table path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteType</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted type '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:32.4635644Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteTypeCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted type path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-20T04:32:04.8922874Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted user '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:29:48.5315926Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>DeleteUserCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' deleted user path '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:30:53.677307Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>EndDomain</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has exited domain '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 작업 공간 '{2}'을 종료했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:34:15.715262Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>EnterDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has entered database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'에 참여했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:34:23.5620758Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>EnterDomainUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has entered domain '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 작업 공간 '{2}'에 참여했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:34:57.8821361Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>KickDomainUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' kicked '{2}({3})' from domain '{4}'.</Item>
+        <Item>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'에서 추방했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:35:11.6579603Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>KickUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' kicked user '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 추방했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:36:07.6620587Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LeaveDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has left database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 떠났습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:36:12.9192679Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LeaveDomainUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has left domain '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 작업 공간 '{2}'을(를) 떠났습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:37:43.6344273Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LoadDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has activated database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 활성화 상태로 전환했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:38:12.4164779Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LockTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' locked table item.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목의 잠금을 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:38:18.204088Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LockTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' locked type item.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목의 잠금을 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:39:46.0176423Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LoginUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has logged in crema service.</Item>
+        <Item>'{0}({1})'이(가) 크레마 서비스에 참여했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:39:51.6648522Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LogoutUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has logged out crema service.</Item>
+        <Item>'{0}({1})'이(가) 크레마 서비스를 떠났습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:44:16.3827172Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveTable</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved table '{2}' from '{3}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:44:29.7363407Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveTableCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved table path '{2}' from '{3}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:44:39.002757Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveType</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved type '{2}' from '{3}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:44:42.7311635Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveTypeCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved type path '{2}' from '{3}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:45:10.5616124Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved user '{2}({3})' from '{4}' to '{5}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'의 위치를 '{4}'에서 '{5}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:45:00.7647952Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>MoveUserCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' moved user path '{2}' from '{3}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-28T05:43:22.8688676Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>NotifyMessage</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' notified to '{2}'.
+notification : "{3}"</Item>
+        <Item>'{0}({1})'이(가) '{2}'에게 알림을 보냈습니다.
+알림 : "{3}"</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:45:27.1610416Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>Reason</Item>
+        <Item i:nil="true" />
+        <Item>Reason</Item>
+        <Item>사유</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:46:11.5743196Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RemoveAccessMemberFromTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' removed '{3}' to the user list of table item '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:46:16.3947281Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RemoveAccessMemberFromTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' removed '{3}' to the user list of type item '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:10.7150236Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  database '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:05.301814Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameTable</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  table '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:17.5322355Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameTableCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  table path '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 테이블 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:27.0014522Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameType</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  type '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:31.7906606Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameTypeCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  type path '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 타입 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:47:43.4906811Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RenameUserCategory</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' renamed  user path '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:48:07.0155224Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RevertDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' revert revision of database '{2}' to '{3}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 리비전을 '{3}'으로 되돌렸습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-28T05:43:36.6904919Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SendMessage</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' send message '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) '{2}({3})'에게 문자를 보냈습니다.
+문자 : "{4}"</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:30:01.8867792Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetDomainOwner</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set owner of domain '{4}' to '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'의 소유자로 임명했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:54:48.1254271Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPrivateTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of table item '{2}' to private.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:55:06.7986599Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPrivateTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of type item '{2}' to private.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:55:12.6652702Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPublicTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of table item '{2}' to public.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:55:15.2080747Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPublicTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of type item '{2}' to public.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:56:18.6221861Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>UnbanUser</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' unbanned user '{2}({3})'.</Item>
+        <Item>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단 해제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:39:22.7580015Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>UnloadDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' has inactivated database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 비활성화 상태로 전환했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:39:01.6979645Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>UnlockTableItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' unlocked table item.</Item>
+        <Item>'{0}({1})'이(가) 테이블 항목의 잠금을 해제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-08T01:38:57.3143568Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>UnlockTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' unlocked type item.</Item>
+        <Item>'{0}({1})'이(가) 타입 항목의 잠금을 해제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T02:29:17.1585777Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>UnlockDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' unlocked database.</Item>
+        <Item>'{0}({1})'이(가) 데이터 베이스의 잠금을 해제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T07:19:09.7081391Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>LockDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' locked database: "{2}"</Item>
+        <Item>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다: "{2}"</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T05:04:02.2366933Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>RemoveAccessMemberFromDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' removed '{3}' to the user list of database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T05:04:02.2366933Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPrivateDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of database '{2}' to private.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 비공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T05:04:15.8555172Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetPublicDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set authority of database '{2}' to public.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 공개로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T05:07:30.6560595Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>AddAccessMemberToDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' added '{3}({4})' to the user list of database '{2}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에 '{3}({4})'을(를) 추가했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T05:04:02.2366933Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetAccessMemberOfDataBase</Item>
+        <Item i:nil="true" />
+        <Item>'{0}({1})' set type of '{3}' user of database '{2}' to '{4}'.</Item>
+        <Item>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T07:48:28.5150291Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetAccessMemberOfTableItem</Item>
+        <Item i:nil="true" />
+        <Item>{0}({1})' set type of '{3}' user of table item '{2}' to '{4}'.</Item>
+        <Item>{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-02T07:48:28.5150291Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>SetAccessMemberOfTypeItem</Item>
+        <Item i:nil="true" />
+        <Item>{0}({1})' set type of '{3}' user of type item '{2}' to '{4}'.</Item>
+        <Item>{0}({1})'이(가) 타입 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-26T01:07:26.098287Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ResetDataBase</Item>
+        <Item i:nil="true" />
+        <Item>database '{2}' reset by '{0}({1})'</Item>
+        <Item>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-26T07:08:04.568693Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>None</Item>
+        <Item>ResettingDataBase</Item>
+        <Item i:nil="true" />
+        <Item>database '{2}' is resetting by '{0}({1})'</Item>
+        <Item>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되는중입니다.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

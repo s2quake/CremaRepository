@@ -1,0 +1,2825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationTable xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <CategoryPath>/client/</CategoryPath>
+  <Columns>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>/StringType</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>0</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Type</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>1</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Name</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>2</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Comment</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>3</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Value</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>4</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>ko_KR</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+  </Columns>
+  <Comment></Comment>
+  <DerivedTags>All</DerivedTags>
+  <HashValue>6c66b01d950836901feeeed701a0b36f5f3d58c1</HashValue>
+  <Name>ClientBase</Name>
+  <Parent></Parent>
+  <Rows>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Change</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>C_hange</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>변경(_H)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5a3533fc-9d95-4b84-a1bb-86123e07440b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Close</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Close</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>닫기(_C)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2abb097f-a67b-4514-8851-e137141aee8f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Copy</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Copy...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>복사(_C)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e90733a1-4be5-4e91-8995-06002f11be3d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Create</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Create</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>생성(_C)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>faeba190-4244-47d6-a987-4edb7098a31c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Login</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Log In</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접  속</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>01bd178e-ded6-460d-9fc2-e523984ffe91</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>OK</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_OK</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>확인(_O)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>47979735-2a93-437c-bf49-ee2499f3725e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotSelectWithoutLoggingIn</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You can not select a database without logging in.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>로그인이 되지 않은 상태에서는 데이터 베이스를 선택할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d351ce0d-b145-4888-b172-fb45d5411ef2</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NonExistentDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}' is a non-existent data base.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>'{0}'은(는) 존재하지 않는 데이터 베이스입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ff8644fb-f760-41c0-9b48-417f66e68533</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AddConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Add Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 추가</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>20f78bc3-ec81-41be-a59a-51a824ac077e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Address</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Address</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>주소</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>08e4a708-2e7f-47fc-a36a-5189e5e90c56</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Comment</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Comment</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>설명</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c464e4d7-367b-4cee-abbf-469f5532fb4c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MoveToWiki</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Move To Wiki</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>위키로 이동</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>097c6aff-c876-4dad-a9fe-14d81069cdb2</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreatedDateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Created DateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>생성 일자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e367bb1b-114b-4c38-bf32-a70c13c9ca3b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Creator</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Creator</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>생성자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8b81c2b3-7788-4fa3-8519-af581d2ec0fe</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ed299fe4-21ee-4a94-a15f-80c6e8092092</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>EditConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Edit Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 편집</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>41299708-567a-4aed-8d93-7c96dd6b1b50</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RemoveConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Remove Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 삭제</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>a53ae78d-a873-4599-b7be-7877d0e43793</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ManageConnectionItemList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Manage Connection List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 관리</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>059b2d39-43e2-4f7e-aa96-8ba6d2c6e450</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ModifiedDateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Modified DateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>변경자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f0220fa6-ba6e-426a-81ab-8d26280f5059</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Modifier</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Modifier</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>변경 일자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>703fa8a7-2bec-4ac5-a958-e11347356caa</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Name</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Name</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>이름</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4044f669-d0a7-4be7-a1c7-6f413d4a9366</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Password</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Password</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>암호</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d9a361c0-5965-4902-ac21-e75541925256</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RecentServerList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Recent Server List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>최근 접속 서버</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7e1ee65f-c426-4d14-a7d7-b033cffd3e0e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Revision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Revision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>리비전</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c3ef613d-dc6f-4ed6-aa9d-f32194205b6a</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SavePassword</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Save Password</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>암호 저장</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>0f70cfdf-66fc-4d5b-addb-2dca1e39b006</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ServerList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Server List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>서버 목록</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ecd85278-1eb4-457a-9ba0-1f2bb63dcd70</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Theme</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Th_eme</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>테마</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fc66832c-10de-4965-a47d-fd2146005a6e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UserID</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_ID</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>아이디</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>029d4a82-e356-4f16-916d-12a0bbfa6a2e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>About</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_About</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>정보(_A)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>e956d002-e260-4f7c-8497-9e1cdaefd17d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ChangeDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Change DataBase...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 변경(_C)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8702c496-977f-4ce4-9a8b-eaaf7dc2cbe6</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LeaveDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Leave DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 나가기</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>28bea79e-33f4-40d3-a3f5-751342f539a4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CopyDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Copy DataBase...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 복사...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>27324322-7456-4151-96b4-29196d0a3fc1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Create DataBase...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 생성(_N)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fe04dfe7-ab6f-4ad0-93e4-617ab4781652</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Delete</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Delete</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>삭제(_D)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c9ac29c4-b6f3-4ce7-bf79-ed0ab0a8e5ec</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DeleteDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Delete DataBase...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 삭제(_D)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>9d5da2bd-8a9e-49de-b891-628dca8b4dc8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>File</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_File</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>파일(_F)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2966e1a9-8d47-4992-a750-54d91312ede1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Help</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Help</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도움말(_H)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>bd16d5be-a8af-4910-acf0-a86febfe41fe</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Logout</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Log _out</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>로그아웃(_O)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>cb170956-7fd8-4c08-82fc-34df31013cde</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ManageDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Manage DataBase...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 관리(_M)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2c32ebe4-539f-49a3-afc1-6e33eb38a5a5</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Edit</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Edit</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>편집(_E)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>61ca074c-3437-4a17-9b36-4ca4a4b91dac</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Tools</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Tools</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도구(_T)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>92721a16-c89f-4eb0-aebd-b0746c9f5130</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CloseDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Do you want to close DataBase?</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스를 닫으시겠습니까?</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2fc04241-44d8-4c7f-aaa6-b06c15f35221</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ConnectingToServer</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Connecting to server. please wait a second.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>서버에 연결중입니다. 잠시만 기다려주세요.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7dc0b2e3-411c-41fb-b357-f5a7fc9519db</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ConnectionFailed</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Unable to connect to the server. Check your address.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>서버에 접속할 수 없습니다. 주소를 확인하세요.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>88a91b0a-abe5-411c-be7e-3954a44109fa</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CopiedDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>New database has been copied.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스가 복사되었습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>384dad6c-7a0a-4dca-b61d-40fa057c183b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CopingDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>New database is being copied.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스가 복사중입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>adfadd95-8fc9-466d-8ea9-cd3f7eaf790e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreatedNewDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>New database has been created.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>새로운 데이터 베이스를 생성하였습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>0d684ae6-e700-47bb-a9fd-c15a85bfd20d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreatingNewDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>New database is being created.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>새로운 데이터 베이스를 생성중입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>402f2c11-7e07-4ba9-871e-6d026f277f30</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LoadingDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Loading DataBase.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스를 읽어들이고 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>50cc2eaf-3be0-4841-8b9b-4d71800367cf</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Logout</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Do you want to log out?</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>로그아웃 하시겠습니까?</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4f007466-9d50-46f5-8c6a-2ef2458baf50</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ReceivingInformation</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Receiving Information.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>정보를 받아오고 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ae5a8c45-9f37-4180-a079-105784619028</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SameIDConnected</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Same ID is being connected. Would you like to disconnect and connect?</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>같은 아이디가 연결중입니다. 접속을 끊고 연결하시겠습니까?</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5954dd42-007c-4d11-bbbc-dab3d163b417</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CopyDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Copy DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 복사</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>cca8ea8a-4aee-4a9e-90fe-b65068818c37</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CreateDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Create DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 생성</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ba7feaa0-c190-43e2-ae0b-ac7839572976</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SelectDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Select DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 선택</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>01c6444b-3398-49c6-91b4-184e8f5cc122</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Start</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Start</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>시작</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8accfd11-9056-4926-ab3c-523463c2cd6c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Etc</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Etc</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>기타</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>687bb4d7-f5d4-4716-879f-836cb405b8df</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ConnectionList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Connection List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 목록</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8ff3ec5f-9315-4a27-ad80-0aebb92652a4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AddConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Add Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 추가</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>37687a05-06d8-4cd7-a6bd-078fec9da9d6</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>EditConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Edit Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 편집</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b7f53304-d49d-4cfa-8f5d-12c0529bd230</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InvalidConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Invalid Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잘못된 접속 정보입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>6e11122b-a492-44fa-a159-ef29b57a8d5b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetAuthority</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Set _Authority...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>권한 설정(_A)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>17dc1bb4-d066-49f4-9c7e-2266fd62fa10</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPrivate</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Set _Private</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>비공개로 설정(_P)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>819ff4c6-e720-4919-a822-e3bac74c08a1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SetPublic</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Set _Public</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>공개로 설정(_P)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>36dd3457-87ff-4ab7-ab76-02bed5ee9651</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Unlock</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Unlock</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잠금 해제(_U)</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>3e92b35c-c51c-4d4f-8c33-08c12a205e4c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Lock</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Lock...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잠금 설정(_L)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>81fbd390-f1e6-49d6-934a-376e667014d4</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Load</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Load...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>활성화</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d861dd56-879c-473a-aad7-24a07606610d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Unload</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Unload...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>비활성화</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>520b4689-840f-45fa-98a2-e2664f84bebd</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ConfirmToSetPrivate</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Do you want to set it to Private?</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>비공개로 설정하시겠습니까?</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b7bc1eb5-453e-4d39-bcc4-de4695dceff3</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Deleted</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Deleted.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>삭제되었습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>771b17be-74d0-4cfc-ac4c-b8fa16e4bf34</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Owner</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Owner</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>소유자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>a103ca70-a9c7-42f0-aa29-36d4072abad8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>SettingDateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Setting DateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>설정 날짜</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b3bf7232-7dd4-4815-879b-3bca792e66bb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Path</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Path</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>경로</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>8271fefe-aaab-48af-896c-be2a34eb6274</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AccessInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Access Information</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>보안 정보</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>df886c12-6a91-44ea-aa40-a4088dcf19c3</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>LockInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Lock Info</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잠금 정보</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>267a30c0-09e5-4330-9130-1b7a4a4faad8</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>User</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>User</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>사용자</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d10a54d3-ec78-42e0-bab0-3e97d81b1b3e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2fb6653b-b84d-437c-8072-941dcb4feaa7</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBaseInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase Info</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 정보</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>3b1efa33-d249-4fe5-a9b8-d5bc2319bf18</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchRevision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchRevision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>브랜치 리비전</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d64520b8-0a1f-4889-b861-232363b9e935</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchSource</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchSource</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>브랜치 원본</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>116d8d9e-a003-490a-985c-85e18786d1d0</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchSourceRevision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>BranchSourceRevision</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>브랜치 원본 리비전</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c5776182-380b-4310-a6c3-971441e8e2da</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ReceivingInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Receiving information.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>정보를 가져오는 중입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fd83af39-5c0d-4b32-aee2-85b318d5e002</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ViewLog</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>View Log</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>로그 보기</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5ecfb24c-b168-4fdd-995c-08423fe77b1d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DateTime</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>날짜</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>32762d1c-5e19-47c8-beb7-ce40ac404da3</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ID</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ID</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ID</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5f8c1812-846c-4b35-afe6-4ae4554f4fae</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ItemPath</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Item Path</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>항목 경로</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>01c90cb3-a59f-45cb-bee5-5a8b2ecc1c2a</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ItemType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Item Type</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>항목 타입</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>450776c9-c48f-4874-b05e-fe70188af8b5</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DomainType</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Domain Type</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도메인 타입</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>944071c9-81f0-467c-baf5-d3a2c9fa356e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DomainInfo</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Domain Information</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도메인 정보</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>0ce7994b-2fcd-468b-a32c-4dacc531b5e6</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DomainUserList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Domain User List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도메인 사용자 목록</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d8b21752-64ea-425c-9e26-6496694435bf</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DomainList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Domain List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>도메인 목록</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>1b8c2e64-c9af-4b5b-b28a-79f8574f2cfb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBaseDomainList</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBase Domain List</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스 도메인 목록</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4f07ffa0-3aed-4ed8-a3cd-16189204e194</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Enter</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Enter</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>들어가기</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>720225bf-3e9b-47e9-a284-39f52a0214f2</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Enter</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Enter</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>들어가기</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>cc3cc0aa-d003-4dc3-9a3e-b41335e97b36</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Message</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>VerifyToCloseDataBase</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>There are users using the database. Do you want to close it anyway?</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>데이터 베이스를 사용중인 사용자가 있습니다. 그래도 닫으시겠습니까?</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>7451d13d-9387-4cb4-bbfa-0eb077b6104d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Login</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Login</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>로그인</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4075bf27-8522-448b-b0f0-20ae3b87db98</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>MenuItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Copy</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>_Copy...</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>복사(_C)...</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f95d83cf-1068-475f-817c-9e045976ab51</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Title</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CopyConnectionItem</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Copy Connection Item</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>접속 정보 복사</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4d766a4c-430f-40b5-a055-ed3dd0340bc5</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+  </Rows>
+  <TableName>ClientBase</TableName>
+  <Tags>All</Tags>
+  <TemplatedParent>StringTable</TemplatedParent>
+</SerializationTable>

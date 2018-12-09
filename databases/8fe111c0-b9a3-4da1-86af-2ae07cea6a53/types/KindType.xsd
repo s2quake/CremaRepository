@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/KindType" xmlns="http://schemas.ntreev.com/crema/types/KindType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/KindType" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="KindType">
+    <xs:annotation>
+      <xs:appinfo>
+        <TypeInfo Creator="admin" />
+        <TypeInfo CreatedDateTime="2017-10-25T08:40:06.5108369Z" />
+        <TypeInfo Modifier="admin" />
+        <TypeInfo ModifiedDateTime="2017-11-01T08:15:33.283202Z" />
+        <TypeInfo ID="707dcd00-05ad-48a7-ac6f-68a2da27cab9" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Common">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-25T08:40:25.4960702Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-25T08:40:25.4960702Z" />
+            <TypeInfo ID="76c4e289-e53b-411e-87db-fbbd86150c32" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Client">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="1" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-25T08:40:28.8812762Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-25T08:40:28.8812762Z" />
+            <TypeInfo ID="f0625757-f43a-484a-93cc-1c3dcd80e39e" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Server">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="2" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-25T08:40:31.8608814Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-25T08:40:31.8608814Z" />
+            <TypeInfo ID="c865aa47-fd1d-44e9-9b97-a7e372691a38" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Tools">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="3" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-25T08:40:36.1352889Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-25T08:40:36.1352889Z" />
+            <TypeInfo ID="d6cec74c-c96d-4c98-9d47-e649629bfbb0" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="SubModule">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="4" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-25T08:41:45.2434103Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-25T08:41:45.2434103Z" />
+            <TypeInfo ID="081b53df-8834-425f-870b-fb73b19a67c4" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Executable">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="5" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T08:15:33.283202Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T08:15:33.283202Z" />
+            <TypeInfo ID="da7d7a96-b3e1-42c9-9219-c188e7fdac4b" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

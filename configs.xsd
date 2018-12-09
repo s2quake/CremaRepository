@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://schemas.ntreev.com/configurations" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/configurations" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="configurations">
+    <xs:complexType>
+      <xs:all minOccurs="0">
+        <xs:element minOccurs="0" name="serializables">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="item">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:any processContents="skip" />
+                  </xs:sequence>
+                  <xs:attribute name="name" use="required" />
+                  <xs:attribute name="type" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="1" name="log.DetailExceptionMessage" type="xs:boolean" />
+        <xs:element minOccurs="0" maxOccurs="1" name="git.ExecutablePath" type="xs:string">
+          <xs:annotation>
+            <xs:documentation>git의 실행 경로를 나타냅니다.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="1" name="git.MaxLogCount" type="xs:int">
+          <xs:annotation>
+            <xs:documentation>표시될 로그의 최대 개수를 나타냅니다.</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="1" name="svn.ExecutablePath" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="svn.MaxLogCount" type="xs:int" />
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

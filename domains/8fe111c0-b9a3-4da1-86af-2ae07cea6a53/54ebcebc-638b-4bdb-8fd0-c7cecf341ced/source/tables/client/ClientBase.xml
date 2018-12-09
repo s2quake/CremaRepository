@@ -1,0 +1,1123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientBase ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-04-16T02:08:48.021092Z"
+  StringTable.Count="101"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3611864Z"
+    RelationID="2aaeaf8f-ef73-4cd4-8701-411c452ab80e"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Change</Name>
+    <Value>C_hange</Value>
+    <ko_KR>변경(_H)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3611864Z"
+    RelationID="baeb2f88-c362-4b10-b15a-32fbf5459b28"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3611864Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T06:25:02.157199Z"
+    RelationID="376950a1-3101-4ec0-81ad-a8f1a5591c8f"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="973694c8-6e71-44ef-8798-bca2d5a4e160"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>_Create</Value>
+    <ko_KR>생성(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="20469eaa-46ad-4d27-8180-1cc18c8a055a"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Login</Name>
+    <Value>Log In</Value>
+    <ko_KR>접  속</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="391190b9-fd60-49e1-a09b-415538213c93"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>OK</Name>
+    <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="8799f2b7-1f68-42d7-824b-549145f4d8dd"
+    ParentID="">
+    <Type>Exception</Type>
+    <Name>CannotSelectWithoutLoggingIn</Name>
+    <Value>You can not select a database without logging in.</Value>
+    <ko_KR>로그인이 되지 않은 상태에서는 데이터 베이스를 선택할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="5e6ab9c6-3675-487c-8faf-d352a91e894f"
+    ParentID="">
+    <Type>Exception</Type>
+    <Name>NonExistentDataBase</Name>
+    <Value>'{0}' is a non-existent data base.</Value>
+    <ko_KR>'{0}'은(는) 존재하지 않는 데이터 베이스입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:49:13.0805821Z"
+    RelationID="02eae0d7-3e44-47dd-a693-cde736564078"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="8f2a4645-3d7b-4132-acaa-fff8481ecd7f"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Address</Name>
+    <Value>_Address</Value>
+    <ko_KR>주소</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="7f87eb90-0fec-4f74-a115-f175fe374554"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-16T02:08:48.021092Z"
+    RelationID="28f6cbce-fbed-4fc6-ae4c-79096d32963b"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>MoveToWiki</Name>
+    <Value>Move To Wiki</Value>
+    <ko_KR>위키로 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="94c357f3-516f-47de-85d3-c84ed23a9be9"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3621868Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3621868Z"
+    RelationID="6d7138a8-7d95-4c8a-b417-991a52424cb4"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="705906ac-d6d0-49ce-be60-b27bab104c3a"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>DataBase</Name>
+    <Value>DataBase</Value>
+    <ko_KR>데이터 베이스</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:33.8263239Z"
+    RelationID="513699e4-ff36-4967-8d85-bfe8180cf452"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:21.1591017Z"
+    RelationID="e85e4aed-2a58-40fc-8c0e-19110ff3bd4f"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>RemoveConnectionItem</Name>
+    <Value>Remove Connection Item</Value>
+    <ko_KR>접속 정보 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:26.5879112Z"
+    RelationID="7659d5b3-f40b-437e-afa0-3b14da513f30"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ManageConnectionItemList</Name>
+    <Value>Manage Connection List</Value>
+    <ko_KR>접속 정보 관리</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="56391e79-5957-4c4c-84ba-e195425b0958"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>변경자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="22136167-ae0c-46ed-bba0-5d85a170fe8c"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="4ffdb8ab-79f2-4cb1-9b6b-aaa7733088e2"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>_Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="dfa76eb3-2287-4129-93c7-b40c0dbc35c9"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Password</Name>
+    <Value>_Password</Value>
+    <ko_KR>암호</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="c8ec9742-7e9c-4673-bc4b-0fb93aa23c50"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>RecentServerList</Name>
+    <Value>Recent Server List</Value>
+    <ko_KR>최근 접속 서버</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3631875Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3631875Z"
+    RelationID="3fc09cde-ab4c-470e-b769-53054cb2c071"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Revision</Name>
+    <Value>Revision</Value>
+    <ko_KR>리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="900e1e3b-e61d-4896-a079-e039e32c431b"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>SavePassword</Name>
+    <Value>_Save Password</Value>
+    <ko_KR>암호 저장</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="a2ac904c-0e1f-4e37-ab09-d081a978c63e"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ServerList</Name>
+    <Value>Server List</Value>
+    <ko_KR>서버 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="9d996402-77a2-4036-9a09-299c9e269e55"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Theme</Name>
+    <Value>Th_eme</Value>
+    <ko_KR>테마</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="4934d37a-d974-4a10-b190-188ead1f8d84"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>UserID</Name>
+    <Value>_ID</Value>
+    <ko_KR>아이디</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="ae03e722-4a9a-4991-a467-77f3e762b252"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>About</Name>
+    <Value>_About</Value>
+    <ko_KR>정보(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:10.9302458Z"
+    Enable="false"
+    RelationID="18d2b896-3845-47b6-8c99-4f2ca7e2bc63"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>AddToServerList</Name>
+    <Value>_Add To Server List</Value>
+    <ko_KR>서버 목록에 추가하기(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="98f6c556-b17b-4ffb-891f-bb77cacc4c3e"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>ChangeDataBase</Name>
+    <Value>_Change DataBase...</Value>
+    <ko_KR>데이터 베이스 변경(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-26T05:05:12.0410828Z"
+    RelationID="01faa47e-9a16-4ce6-8fd7-c3e96c5c5090"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>LeaveDataBase</Name>
+    <Value>Leave DataBase</Value>
+    <ko_KR>데이터 베이스 나가기</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3641882Z"
+    RelationID="3a4e3e3a-63fb-495b-99e8-81cea3ba7327"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>CopyDataBase</Name>
+    <Value>Copy DataBase...</Value>
+    <ko_KR>데이터 베이스 복사...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3641882Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:17.2595099Z"
+    RelationID="d7ac4b2f-bbc3-452b-ac27-62f7ef1f4cc4"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>CreateDataBase</Name>
+    <Value>_Create DataBase...</Value>
+    <ko_KR>데이터 베이스 생성(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:04.8574881Z"
+    RelationID="ded079da-7134-4e7e-89db-9d4ef9d65b76"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Delete</Name>
+    <Value>_Delete</Value>
+    <ko_KR>삭제(_D)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:10.4266979Z"
+    RelationID="77aa048d-8c14-47f0-adcb-67828d2a3f20"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>DeleteDataBase</Name>
+    <Value>_Delete DataBase...</Value>
+    <ko_KR>데이터 베이스 삭제(_D)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="32322626-88bd-464c-8bb3-02d62e0ddc3a"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>File</Name>
+    <Value>_File</Value>
+    <ko_KR>파일(_F)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="ce3ecb5f-6638-47c5-8d09-39f83fb0001c"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Help</Name>
+    <Value>_Help</Value>
+    <ko_KR>도움말(_H)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="bbc19f74-a32e-4b0c-806b-c640729e1cae"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Logout</Name>
+    <Value>Log _out</Value>
+    <ko_KR>로그아웃(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:29.6771317Z"
+    RelationID="97874ae1-c5b0-4531-972a-041bcf1dfefd"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>ManageDataBase</Name>
+    <Value>_Manage DataBase...</Value>
+    <ko_KR>데이터 베이스 관리(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T06:28:04.0954153Z"
+    RelationID="e759d3cb-b581-4418-91b5-a48a80fa3d15"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Edit</Name>
+    <Value>_Edit</Value>
+    <ko_KR>편집(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="5125444f-6c3e-4974-806f-b339f6f8985e"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Tools</Name>
+    <Value>_Tools</Value>
+    <ko_KR>도구(_T)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="1426fe1e-799f-4417-b467-2481add83e9e"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>CloseDataBase</Name>
+    <Value>Do you want to close DataBase?</Value>
+    <ko_KR>데이터 베이스를 닫으시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3651889Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3651889Z"
+    RelationID="939664c0-f095-4fca-bac9-706bd6f8ff22"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>ConnectingToServer</Name>
+    <Value>Connecting to server. please wait a second.</Value>
+    <ko_KR>서버에 연결중입니다. 잠시만 기다려주세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="978791b5-890f-417a-a47e-d0b7d6ea7739"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>ConnectionFailed</Name>
+    <Value>Unable to connect to the server. Check your address.</Value>
+    <ko_KR>서버에 접속할 수 없습니다. 주소를 확인하세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="8eb70399-9fca-4fe1-ba03-2a48afd97c88"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>CopiedDataBase</Name>
+    <Value>New database has been copied.</Value>
+    <ko_KR>데이터 베이스가 복사되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="0be1ef09-cc5e-473b-b58a-0797c3f97f10"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>CopingDataBase</Name>
+    <Value>New database is being copied.</Value>
+    <ko_KR>데이터 베이스가 복사중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="405d5159-2028-413f-8a67-07ea45c54759"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>CreatedNewDataBase</Name>
+    <Value>New database has been created.</Value>
+    <ko_KR>새로운 데이터 베이스를 생성하였습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="24c709d7-04d0-4fc8-b433-78e5cb15e41a"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>CreatingNewDataBase</Name>
+    <Value>New database is being created.</Value>
+    <ko_KR>새로운 데이터 베이스를 생성중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:36.3270904Z"
+    Enable="false"
+    RelationID="12dfb1d2-f1bb-4a2c-b655-6772bfb8725e"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>DeleteRecentServerList</Name>
+    <Value>Do you want to delete recent server list?</Value>
+    <ko_KR>최근 서버 목록을 모두 지우시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:37.231892Z"
+    Enable="false"
+    RelationID="c43c2572-9ec0-4943-84f5-b154ff92fd6f"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>DeleteServerList</Name>
+    <Value>Do you want to delete server list?</Value>
+    <ko_KR>서버 목록을 모두 지우시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="dbbb6aa7-bf3c-4312-9540-a85c9becbf71"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>LoadingDataBase</Name>
+    <Value>Loading DataBase.</Value>
+    <ko_KR>데이터 베이스를 읽어들이고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="932af20f-d2c4-4d31-b051-a58f9aa8b03c"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>Logout</Name>
+    <Value>Do you want to log out?</Value>
+    <ko_KR>로그아웃 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3661896Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3661896Z"
+    RelationID="29d3fd5e-b0b6-4798-a3f2-4044ec240dd6"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>ReceivingInformation</Name>
+    <Value>Receiving Information.</Value>
+    <ko_KR>정보를 받아오고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
+    RelationID="6a750ea9-4647-4e9f-b288-fb87079b1c41"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>SameIDConnected</Name>
+    <Value>Same ID is being connected. Would you like to disconnect and connect?</Value>
+    <ko_KR>같은 아이디가 연결중입니다. 접속을 끊고 연결하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
+    RelationID="fb23a1a1-6ba7-4131-a8b1-75da08ab4a27"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>CopyDataBase</Name>
+    <Value>Copy DataBase</Value>
+    <ko_KR>데이터 베이스 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
+    RelationID="54fc24dc-1f48-4fea-9200-88903ed1b29f"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>CreateDataBase</Name>
+    <Value>Create DataBase</Value>
+    <ko_KR>데이터 베이스 생성</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
+    RelationID="ac9075fd-3eab-4b20-80f3-b0a9db1bc2ec"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>SelectDataBase</Name>
+    <Value>Select DataBase</Value>
+    <ko_KR>데이터 베이스 선택</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3671903Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
+    RelationID="97013757-11f7-4ae0-83ac-520b3ab683b0"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>Start</Name>
+    <Value>Start</Value>
+    <ko_KR>시작</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:08:17.3381924Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:08:17.3381924Z"
+    RelationID="8370670c-3746-4fd6-b6ad-4d0bc9849342"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Etc</Name>
+    <Value>Etc</Value>
+    <ko_KR>기타</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:14:47.8848784Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:14:47.8848784Z"
+    RelationID="bd92f423-dd10-4a27-ba42-49a8caefc48d"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ConnectionList</Name>
+    <Value>Connection List</Value>
+    <ko_KR>접속 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z"
+    RelationID="ebcc2b0a-ab05-496f-882a-fe7fc7d9d4f9"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z"
+    RelationID="459ffca2-ecdd-4089-a532-08326a6d3059"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T04:20:58.146821Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T04:21:13.1540474Z"
+    RelationID="ab39953b-e5ca-495e-b001-a60ff10b4ba8"
+    ParentID="">
+    <Type>Exception</Type>
+    <Name>InvalidConnectionItem</Name>
+    <Value>Invalid Connection Item</Value>
+    <ko_KR>잘못된 접속 정보입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z"
+    RelationID="8864a033-94be-4034-ae6d-acf785663934"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set _Authority...</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z"
+    RelationID="60b66a27-b88b-4dfc-b518-a1ca8024084b"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set _Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z"
+    RelationID="30775049-f352-42a3-8cf2-a3bd4a42556f"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set _Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z"
+    RelationID="5cef3f41-a52c-41b4-af64-9019aeb67827"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:35.9465131Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:35.9465131Z"
+    RelationID="2e6a1e8d-0581-48b7-b417-c4f48d5e695b"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock...</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:44.3237278Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:17.381186Z"
+    RelationID="a2765fa4-17f7-482c-8c3c-96ffb11569d3"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Load</Name>
+    <Value>_Load...</Value>
+    <ko_KR>활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:51.797141Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:20.251591Z"
+    RelationID="9ac3e3d9-0188-4edc-9f96-4c5a0c85763f"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Unload</Name>
+    <Value>_Unload...</Value>
+    <ko_KR>비활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:35:01.6064967Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:35:01.6064967Z"
+    RelationID="df73820e-e8ad-42ef-8662-61d44ed8de2c"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>ConfirmToSetPrivate</Name>
+    <Value>Do you want to set it to Private?</Value>
+    <ko_KR>비공개로 설정하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T04:19:51.20322Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T04:19:51.20322Z"
+    RelationID="57e736d0-7e03-493f-9327-fed3abb9017d"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>Deleted</Name>
+    <Value>Deleted.</Value>
+    <ko_KR>삭제되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:35:45.4718287Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:35:45.4718287Z"
+    RelationID="a270a831-5374-47e2-8473-b271a1c36c79"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:05.4242638Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:05.4242638Z"
+    RelationID="731db31a-1548-43cf-8418-50b902d3fa55"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>SettingDateTime</Name>
+    <Value>Setting DateTime</Value>
+    <ko_KR>설정 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:19.760689Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:19.760689Z"
+    RelationID="952072fb-14a7-4bb5-a9a8-516ee57c243a"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z"
+    RelationID="054cebd5-4298-42eb-83c2-1f3265920ac1"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>AccessInfo</Name>
+    <Value>Access Information</Value>
+    <ko_KR>보안 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z"
+    RelationID="ec0ff92a-67d2-45fa-8945-6c4a0a909921"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>LockInfo</Name>
+    <Value>Lock Info</Value>
+    <ko_KR>잠금 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:47.1092426Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:47.1092426Z"
+    RelationID="278d4cb6-4cd5-4a8a-b3c4-b203694f7c90"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>User</Name>
+    <Value>User</Value>
+    <ko_KR>사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.6961506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z"
+    RelationID="499944ce-cf4a-4853-b50c-5f4055e2e741"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DataBase</Name>
+    <Value>DataBase</Value>
+    <ko_KR>데이터 베이스</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.7117506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z"
+    RelationID="4c4e11f6-3841-4e16-baef-abbddff1adcf"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DataBaseInfo</Name>
+    <Value>DataBase Info</Value>
+    <ko_KR>데이터 베이스 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:15.5115188Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:50.33078Z"
+    RelationID="0d31aca1-8a88-40c1-ab49-7387352f9388"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>BranchRevision</Name>
+    <Value>BranchRevision</Value>
+    <ko_KR>브랜치 리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:23.1087322Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:59.2539957Z"
+    RelationID="dff6f189-e4ca-4e67-8bd6-b2ad94029d36"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>BranchSource</Name>
+    <Value>BranchSource</Value>
+    <ko_KR>브랜치 원본</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:31.6263471Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:23:06.3208081Z"
+    RelationID="eb4f9a31-115b-48fb-afa9-8c9af6ff126b"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>BranchSourceRevision</Name>
+    <Value>BranchSourceRevision</Value>
+    <ko_KR>브랜치 원본 리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:44:36.6879668Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:44:36.6879668Z"
+    RelationID="1bb013f5-abd1-4302-99cf-bfe3c82deddd"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>ReceivingInfo</Name>
+    <Value>Receiving information.</Value>
+    <ko_KR>정보를 가져오는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:44:44.2851801Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:44:44.2851801Z"
+    RelationID="378fdae0-7c71-4987-a9b6-773a2e67b4e6"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>ViewLog</Name>
+    <Value>View Log</Value>
+    <ko_KR>로그 보기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:47:49.5511055Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:47:49.5511055Z"
+    RelationID="27aa84e4-6d74-40f3-a7e0-7d87bb553dc9"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>DateTime</Name>
+    <Value>DateTime</Value>
+    <ko_KR>날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:17:14.0081205Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:17:14.0081205Z"
+    RelationID="c01c1d2f-5200-4590-9acc-ffb5900a0588"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ID</Name>
+    <Value>ID</Value>
+    <ko_KR>ID</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:15.1891334Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:15.1891334Z"
+    RelationID="a8ad1af8-5574-4ff4-a89d-a7e2481947a6"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ItemPath</Name>
+    <Value>Item Path</Value>
+    <ko_KR>항목 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:28.9951576Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:28.9951576Z"
+    RelationID="b2e31fb2-59f2-4f75-adac-683cc8246742"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>ItemType</Name>
+    <Value>Item Type</Value>
+    <ko_KR>항목 타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:47.3563899Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:47.3563899Z"
+    RelationID="b7f5e07f-820c-4f43-9463-8e82941acbc1"
+    ParentID="">
+    <Type>Label</Type>
+    <Name>DomainType</Name>
+    <Value>Domain Type</Value>
+    <ko_KR>도메인 타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:03.308334Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:23:03.308334Z"
+    RelationID="1d120fcf-b082-4664-88b3-335a336ae8ac"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DomainInfo</Name>
+    <Value>Domain Information</Value>
+    <ko_KR>도메인 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:39.5003976Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:26:16.5458734Z"
+    RelationID="bb67496e-d4d4-4672-a764-e098ecb35f5e"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DomainUserList</Name>
+    <Value>Domain User List</Value>
+    <ko_KR>도메인 사용자 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:23:58.532431Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:23:58.532431Z"
+    RelationID="0110a886-cf07-49b7-a258-71233a3f7053"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DomainList</Name>
+    <Value>Domain List</Value>
+    <ko_KR>도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T04:26:00.4364913Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T04:27:26.3926423Z"
+    RelationID="c3cf8fdb-4527-4a55-8b05-ca7c647ba649"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>DataBaseDomainList</Name>
+    <Value>DataBase Domain List</Value>
+    <ko_KR>데이터 베이스 도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-08T06:28:25.3067454Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-08T06:28:25.3067454Z"
+    RelationID="89ee9abf-2cea-41a5-99f8-0d7ec1f99ed2"
+    ParentID="">
+    <Type>Button</Type>
+    <Name>Enter</Name>
+    <Value>Enter</Value>
+    <ko_KR>들어가기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-08T06:28:33.59036Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-08T06:28:41.7023742Z"
+    RelationID="d9bae63d-073d-4f3f-a19a-3bb1007edd0b"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Enter</Name>
+    <Value>Enter</Value>
+    <ko_KR>들어가기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-26T07:16:55.3724944Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-26T07:17:04.28011Z"
+    RelationID="5d943dc3-1f7c-4d82-bf0c-89865f48c835"
+    ParentID="">
+    <Type>Message</Type>
+    <Name>VerifyToCloseDataBase</Name>
+    <Value>There are users using the database. Do you want to close it anyway?</Value>
+    <ko_KR>데이터 베이스를 사용중인 사용자가 있습니다. 그래도 닫으시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T02:41:16.182552Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T02:41:34.2161836Z"
+    RelationID="b8bc1086-1c68-498e-b7cb-0d83d011df68"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Login</Name>
+    <Value>Login</Value>
+    <ko_KR>로그인</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T04:03:44.6672435Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T04:03:44.6672435Z"
+    RelationID="37d2fc5d-da35-4943-b4ae-5a0296e1a0fc"
+    ParentID="">
+    <Type>MenuItem</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T04:15:20.1788651Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T04:15:44.3745076Z"
+    RelationID="74b34767-399d-4575-af4a-95e37080a02d"
+    ParentID="">
+    <Type>Title</Type>
+    <Name>CopyConnectionItem</Name>
+    <Value>Copy Connection Item</Value>
+    <ko_KR>접속 정보 복사</ko_KR>
+  </StringTable>
+</Content>

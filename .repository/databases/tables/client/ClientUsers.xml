@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientUsers ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-03-07T05:10:37.8067938Z"
+  StringTable.Count="68"
+  StringTable.ID="680b0787-b3db-4dee-9ee6-516e57be5424" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Button</Type>
+    <Name>Change</Name>
+    <Value>_Change</Value>
+    <ko_KR>변경(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>_Create</Value>
+    <ko_KR>생성(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Button</Type>
+    <Name>OK</Name>
+    <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Button</Type>
+    <Name>Reply</Name>
+    <Value>_Reply</Value>
+    <ko_KR>답장(_R)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Button</Type>
+    <Name>Send</Name>
+    <Value>_Send</Value>
+    <ko_KR>보내기(_S)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Authority</Name>
+    <Value>Authority</Value>
+    <ko_KR>권한</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>BanDateTime</Name>
+    <Value>Banned DateTime</Value>
+    <ko_KR>차단 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>BanReason</Name>
+    <Value>Banned Reason</Value>
+    <ko_KR>차단 사유</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Blocker</Name>
+    <Value>Blocker</Value>
+    <ko_KR>차단한 사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성한 사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>CurrentPassword</Name>
+    <Value>Current Password</Value>
+    <ko_KR>현재 비밀번호</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>ID</Name>
+    <Value>ID</Value>
+    <ko_KR>아이디</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>KickReason</Name>
+    <Value>Kicked Reason</Value>
+    <ko_KR>추방 사유</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>변경한 사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>NewPassword</Name>
+    <Value>New Password</Value>
+    <ko_KR>새 비밀번호</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Password</Name>
+    <Value>Password</Value>
+    <ko_KR>비밀번호</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>PasswordConfirm</Name>
+    <Value>Confirm Password</Value>
+    <ko_KR>비밀번호 확인</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>UserAuthority</Name>
+    <Value>User Authority</Value>
+    <ko_KR>사용자 권한</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>UserFolder</Name>
+    <Value>User Folder</Value>
+    <ko_KR>사용자 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>UserID</Name>
+    <Value>UserID</Value>
+    <ko_KR>사용자 아이디</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Label</Type>
+    <Name>UserName</Name>
+    <Value>User Name</Value>
+    <ko_KR>사용자 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Ban</Name>
+    <Value>Ban</Value>
+    <ko_KR>차단</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Change</Name>
+    <Value>_Change...</Value>
+    <ko_KR>변경(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>ChangePassword</Name>
+    <Value>Change _Password...</Value>
+    <ko_KR>비밀번호 변경(_P)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Delete</Name>
+    <Value>_Delete...</Value>
+    <ko_KR>삭제(_D)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Kick</Name>
+    <Value>Kick</Value>
+    <ko_KR>추방</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Move</Name>
+    <Value>_Move...</Value>
+    <ko_KR>이동(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>NewFolder</Name>
+    <Value>_New Folder...</Value>
+    <ko_KR>새 폴더(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>NewUser</Name>
+    <Value>_New User...</Value>
+    <ko_KR>사용자 추가(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Rename</Name>
+    <Value>Rena_me...</Value>
+    <ko_KR>이름 변경(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>SendMessage</Name>
+    <Value>Send Message</Value>
+    <ko_KR>메세지 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:46:53.4351574Z">
+    <Type>MenuItem</Type>
+    <Name>SetOwner</Name>
+    <Value>Set Owner</Value>
+    <ko_KR>소유자 변경하기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>MenuItem</Type>
+    <Name>Unban</Name>
+    <Value>Unban</Value>
+    <ko_KR>차단 해제</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Message</Type>
+    <Name>ChangeComplete</Name>
+    <Value>Changed completed.</Value>
+    <ko_KR>변경되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Message</Type>
+    <Name>NewUserComplete</Name>
+    <Value>User added.</Value>
+    <ko_KR>사용자를 추가했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Message</Type>
+    <Name>Change</Name>
+    <Value>Changing.</Value>
+    <ko_KR>변경중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Message</Type>
+    <Name>NewUser</Name>
+    <Value>Adding User.</Value>
+    <ko_KR>사용자를 추가중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Message</Type>
+    <Name>SendMessage</Name>
+    <Value>Sending message.</Value>
+    <ko_KR>메세지를 보내는중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:48:22.8867146Z">
+    <Type>Title</Type>
+    <Name>AdministratorMessage_Format</Name>
+    <Value>Administrator Message: {0}</Value>
+    <ko_KR>관리자 메세지: {0}</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>BanInfo</Name>
+    <Value>Ban Info</Value>
+    <ko_KR>차단 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>BanUser</Name>
+    <Value>Ban User</Value>
+    <ko_KR>사용자 차단</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>ChangePassword</Name>
+    <Value>Change Password</Value>
+    <ko_KR>비밀번호 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>ChangeUserInfo</Name>
+    <Value>Change User Info</Value>
+    <ko_KR>사용자 정보 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>DeleteUser</Name>
+    <Value>Delete User</Value>
+    <ko_KR>사용자 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>DeleteUserFolder</Name>
+    <Value>Delete User Folder</Value>
+    <ko_KR>사용자 폴더 삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>KickEditor</Name>
+    <Value>Kick Editor</Value>
+    <ko_KR>편집자 추방</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>KickUser</Name>
+    <Value>Kick User</Value>
+    <ko_KR>사용자 추방</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>MoveUser</Name>
+    <Value>Move User</Value>
+    <ko_KR>사용자 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>MoveUserFolder</Name>
+    <Value>Move User Folder</Value>
+    <ko_KR>사용자 폴더 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>NewUser</Name>
+    <Value>New User</Value>
+    <ko_KR>사용자 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>NewUserFolder</Name>
+    <Value>New User Folder</Value>
+    <ko_KR>사용자 폴더 생성</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>NotifyMessage</Name>
+    <Value>Notify Message</Value>
+    <ko_KR>전체 메세지 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>RenameUserFolder</Name>
+    <Value>Rename User Folder</Value>
+    <ko_KR>사용자 폴더 이름 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>SendMessage</Name>
+    <Value>Send Message</Value>
+    <ko_KR>메세지 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>UserInfo</Name>
+    <Value>User Info</Value>
+    <ko_KR>사용자 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>Users</Name>
+    <Value>Users</Value>
+    <ko_KR>사용자들</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>UsersEditingContent</Name>
+    <Value>Users who are editing contents</Value>
+    <ko_KR>내용을 편집중인 사용자들</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>UsersEditingTemplate</Name>
+    <Value>Users who are editing template</Value>
+    <ko_KR>형태를 편집중인 사용자들</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Title</Type>
+    <Name>ViewMessage</Name>
+    <Value>View Message</Value>
+    <ko_KR>메세지 보기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Tooltip</Type>
+    <Name>HasChanges</Name>
+    <Value>Changes exist.</Value>
+    <ko_KR>변경사항이 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:46:26.1819095Z">
+    <Type>Tooltip</Type>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:44:49.1165389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    <Type>Tooltip</Type>
+    <Name>Notify</Name>
+    <Value>Notify Message</Value>
+    <ko_KR>전체 메세지 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-28T06:05:28.8399966Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T06:05:28.8399966Z">
+    <Type>Title</Type>
+    <Name>DataBaseUsers</Name>
+    <Value>DataBase Users</Value>
+    <ko_KR>데이터 베이스 사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:10:37.8067938Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:10:37.8067938Z">
+    <Type>Title</Type>
+    <Name>UserDomainList</Name>
+    <Value>User Domain List</Value>
+    <ko_KR>사용자 도메인 목록</ko_KR>
+  </StringTable>
+</Content>

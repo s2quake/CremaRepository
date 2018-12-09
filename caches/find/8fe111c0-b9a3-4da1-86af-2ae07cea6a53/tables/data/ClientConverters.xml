@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.368191Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Export</Item>
+        <Item i:nil="true" />
+        <Item>Export</Item>
+        <Item>내보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.368191Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Import</Item>
+        <Item i:nil="true" />
+        <Item>Import</Item>
+        <Item>가져오기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.368191Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ReceivingData</Item>
+        <Item i:nil="true" />
+        <Item>Receiving Data.</Item>
+        <Item>데이터를 가져오고 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.368191Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ExportingData</Item>
+        <Item i:nil="true" />
+        <Item>Exporting Data.</Item>
+        <Item>데이터를 내보내고 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.368191Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ReceivingDataFormat</Item>
+        <Item i:nil="true" />
+        <Item>Receiving Data : {0}</Item>
+        <Item>데이터를 가져오고 있습니다. : {0}</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ExportingDataFormat</Item>
+        <Item i:nil="true" />
+        <Item>Exporting Data : {0}</Item>
+        <Item>데이터를 내보내고 있습니다. : {0}</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Exported</Item>
+        <Item i:nil="true" />
+        <Item>Exported.</Item>
+        <Item>내보내기를 완료했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Canceling</Item>
+        <Item i:nil="true" />
+        <Item>Canceling.</Item>
+        <Item>취소하는 중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Importing</Item>
+        <Item i:nil="true" />
+        <Item>Importing.</Item>
+        <Item>가져오는 중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Imported</Item>
+        <Item i:nil="true" />
+        <Item>Imported.</Item>
+        <Item>가져오기를 완료했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>NoneTablesToExport</Item>
+        <Item i:nil="true" />
+        <Item>No tables can be exported.</Item>
+        <Item>내보낼 수 있는 테이블이 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ExportingInformation</Item>
+        <Item i:nil="true" />
+        <Item>Exporting Information</Item>
+        <Item>내보내기 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ExportingType</Item>
+        <Item i:nil="true" />
+        <Item>_Type</Item>
+        <Item>타입(T)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3691911Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Comment</Item>
+        <Item i:nil="true" />
+        <Item>Comment</Item>
+        <Item>설명</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ImportingImformation</Item>
+        <Item i:nil="true" />
+        <Item>Importing Information</Item>
+        <Item>가져오기 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ImportingType</Item>
+        <Item i:nil="true" />
+        <Item>_Type</Item>
+        <Item>타입(T)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Export</Item>
+        <Item i:nil="true" />
+        <Item>_Export</Item>
+        <Item>내보내기(_E)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Cancel</Item>
+        <Item i:nil="true" />
+        <Item>_Cancel</Item>
+        <Item>취소(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Import</Item>
+        <Item i:nil="true" />
+        <Item>_Import</Item>
+        <Item>가져오기(_I)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>CommentForImporting</Item>
+        <Item i:nil="true" />
+        <Item>Enter a comment for the import.</Item>
+        <Item>가져오기에 대한 설명을 입력하세요.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Export</Item>
+        <Item i:nil="true" />
+        <Item>_Export</Item>
+        <Item>내보내기(_E)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Import</Item>
+        <Item i:nil="true" />
+        <Item>_Import</Item>
+        <Item>가져오기(_I)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Path</Item>
+        <Item i:nil="true" />
+        <Item>_Path</Item>
+        <Item>경로(_P)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3701924Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ExportByFolder</Item>
+        <Item i:nil="true" />
+        <Item>Export by folder</Item>
+        <Item>폴더별로 나눠서 출력하기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>OmitAttribute</Item>
+        <Item i:nil="true" />
+        <Item>Omit Tags and Enabled</Item>
+        <Item>태그 및 사용 여부 제외</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>OmitSignatureDate</Item>
+        <Item i:nil="true" />
+        <Item>Omit Creation and Modification Info</Item>
+        <Item>생성 및 변경 정보 제외</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>SelectAll</Item>
+        <Item i:nil="true" />
+        <Item>Select _All</Item>
+        <Item>전체선택(_A)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-28T07:43:47.0899484Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ExportOneTableToOneFile</Item>
+        <Item i:nil="true" />
+        <Item>Export One Table To One File</Item>
+        <Item>테이블 하나당 파일 하나로 출력하기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-12-07T05:20:17.8427343Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>OutputDateFormat</Item>
+        <Item i:nil="true" />
+        <Item>Date Format</Item>
+        <Item>날짜 포맷</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-12-07T05:31:53.978357Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>IncludeDate</Item>
+        <Item i:nil="true" />
+        <Item>Include date in file name</Item>
+        <Item>출력파일에 날짜 포함시키기</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

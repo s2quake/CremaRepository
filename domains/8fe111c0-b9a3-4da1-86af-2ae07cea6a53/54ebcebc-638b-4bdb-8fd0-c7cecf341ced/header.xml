@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DomainHeaderInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <DomainInfo>
+    <CategoryName>master/TableContent</CategoryName>
+    <CreationInfo>
+      <DateTime>2018-12-09T00:33:11.39493Z</DateTime>
+      <ID>admin</ID>
+    </CreationInfo>
+    <DataBaseID>8fe111c0-b9a3-4da1-86af-2ae07cea6a53</DataBaseID>
+    <DomainID>54ebcebc-638b-4bdb-8fd0-c7cecf341ced</DomainID>
+    <DomainType>TableContentDomain</DomainType>
+    <ItemPath>/client/ClientBase</ItemPath>
+    <ItemType>TableContent</ItemType>
+    <ModificationInfo>
+      <DateTime>2018-12-09T00:33:11.39493Z</DateTime>
+      <ID>admin</ID>
+    </ModificationInfo>
+  </DomainInfo>
+  <DomainType>Ntreev.Crema.Services.Domains.TableContentDomain, Ntreev.Crema.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</DomainType>
+  <ItemPaths xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+  <Properties>
+    <DomainPropertySerializationInfo>
+      <Name>ItemPaths</Name>
+      <Type>string</Type>
+      <Value>/tables/client/ClientBase</Value>
+    </DomainPropertySerializationInfo>
+  </Properties>
+  <SourceType>Ntreev.Crema.Data.CremaDataSet, Ntreev.Crema.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null</SourceType>
+  <UserInfos />
+</DomainHeaderInfo>

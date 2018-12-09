@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.4222284Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Text</Item>
+        <Item>qewioro</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.4222284Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>234234</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.4222284Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Text</Item>
+        <Item>qewioroe</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.4222284Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>sdwer</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+  </Rows>
+</Table>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetRowAction xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <AcceptTime>2018-12-09T00:33:37.5333064Z</AcceptTime>
+  <ID>0</ID>
+  <UserID>admin</UserID>
+  <Rows>
+    <DomainRowInfo>
+      <FieldInfos>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>098</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+      </FieldInfos>
+      <KeyInfos>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>Button</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>Login</Value>
+        </DomainFieldInfo>
+      </KeyInfos>
+      <TableName>ClientBase</TableName>
+    </DomainRowInfo>
+  </Rows>
+</SetRowAction>

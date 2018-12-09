@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CremaData ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-27T00:11:36.9625612Z"
+  StringTable.Count="27"
+  StringTable.ID="b0b3f6b7-59ee-4da1-b23c-d34d82eb97f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:55:20.9690464Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:04:45.2874378Z">
+    <Type>Exception</Type>
+    <Name>CannotConvert_Format</Name>
+    <Comment>value, dataTypeName</Comment>
+    <Value>Can not convert '{0}' to '{1}'.</Value>
+    <ko_KR>'{0}'은(는) '{1}' 으로 변환할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:56:55.3346122Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T23:57:07.8614342Z">
+    <Type>Exception</Type>
+    <Name>CannotCopyToSameDataSet</Name>
+    <Value>Can not copy to same DataSet.</Value>
+    <ko_KR>같은 DataSet에는 복사할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:59:43.6589079Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:01:03.421848Z">
+    <Type>Exception</Type>
+    <Name>CannotInheritWithoutDataSet</Name>
+    <Value>If the table is not in DataSet, it can not be inherited.</Value>
+    <ko_KR>테이블이 DataSet에 없는 경우에는 테이블을 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>AlreadyExistedItem_Format</Name>
+    <Value>Item '{0}' is already existed.</Value>
+    <ko_KR>'{0}' 항목은 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>AreadyExistedDataType_Format</Name>
+    <Comment>dataTypeName</Comment>
+    <Value>'{0}' is already a valid type</Value>
+    <ko_KR>'{0}' 은(는) 이미 존재하는 타입입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneColumn</Name>
+    <Value>You must have at least one column.</Value>
+    <ko_KR>적어도 한개 이상의 열이 있어야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneKey</Name>
+    <Value>At least one key must be set.</Value>
+    <ko_KR>적어도 한개 이상의 키가 설정되어야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotAddChildTable</Name>
+    <Value>You can not add a child table.</Value>
+    <ko_KR>자식 테이블은 추가할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotAddInheritedTable</Name>
+    <Value>You can not add a inherited table.</Value>
+    <ko_KR>상속 받은 테이블은 추가할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteAsTypeIsReferenced</Name>
+    <Value>Can not delete as type is referenced.</Value>
+    <ko_KR>타입이 참조되고 있기 때문에 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotEditInheritedTable</Name>
+    <Value>You can not edit an inherited table.</Value>
+    <ko_KR>상속받은 테이블은 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotParseEnum_Format</Name>
+    <Comment>enumValue, enumTypeName</Comment>
+    <Value>Value '{0}' is not defined in type '{1}' and can not be converted.</Value>
+    <ko_KR>'{0}' 값은 '{1}' 타입에 정의되어 있지 않아 변환할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>CannotRemoveChildTable</Name>
+    <Value>You can not remove a child table.</Value>
+    <ko_KR>자식 테이블은 제거할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>InvalidName</Name>
+    <Value>The name can not contain any special characters \ / : *? " &lt; &gt; |</Value>
+    <ko_KR>이름에 특수문자 \ / : * ? " &lt; &gt; | 등은 포함될 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>NameCannotBeUsed_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>'{0}' is a name that can not be used.</Value>
+    <ko_KR>'{0}' (은)는 사용할 수 없는 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>NotEqualsFieldCountAndColumnCount</Name>
+    <Value>The number of fields does not match the number of columns of the table.</Value>
+    <ko_KR>필드 갯수가 테이블의 열의 갯수와 일치하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>NotFoundAttribute_Format</Name>
+    <Comment>attributeName</Comment>
+    <Value>Attribute '{0}' does not exist.</Value>
+    <ko_KR>'{0}' 특성은 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>NotFoundColumn_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>Column '{0}' does not exist in table.</Value>
+    <ko_KR>'{0}' 열은 테이블에 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>NotFoundDirectory_Format</Name>
+    <Comment>pathName</Comment>
+    <Value>Path '{0}' was not found.</Value>
+    <ko_KR>'{0}' 경로를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>ReservedAttributeName_Format</Name>
+    <Comment>attributeName</Comment>
+    <Value>Can not use '{0}' as the name 'Attributes' because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '특성'의 이름으로 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>ReservedColumnName_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>Can not use '{0}' as the name 'Column' because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '열'의 이름으로 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>ReservedName_Format</Name>
+    <Comment>name</Comment>
+    <Value>'{0}' is not available because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>TypeCannotBeUsed_Format</Name>
+    <Value>Type '{0}' can not be used.</Value>
+    <ko_KR>'{0}' 타입은 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>UnresolvedChildTablesExist</Name>
+    <Value>There is still a table for the children that have not been resolved.</Value>
+    <ko_KR>아직 해결되지 않은 자식 테이블이 남아 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>UnresolvedProblemsExist</Name>
+    <Value>There is a problem that has not been solved yet.</Value>
+    <ko_KR>아직 해결되지 않은 문제점이 남아 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:03:18.940286Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:03:18.940286Z">
+    <Type>Exception</Type>
+    <Name>UsableOnChildTable</Name>
+    <Value>Only usable on child table.</Value>
+    <ko_KR>자식 테이블에서만 사용이 가능합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:11:26.635343Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:11:36.9625612Z">
+    <Type>Exception</Type>
+    <Name>NotIncludedInDataSet</Name>
+    <Value>Not included in DataSet.</Value>
+    <ko_KR>DataSet에 포함되어 있지 않습니다.</ko_KR>
+  </StringTable>
+</Content>

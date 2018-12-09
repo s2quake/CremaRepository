@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataBaseInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Comment></Comment>
+  <CreationInfo>
+    <DateTime>2018-07-24T05:13:25Z</DateTime>
+    <ID>system</ID>
+  </CreationInfo>
+  <ID>8fe111c0-b9a3-4da1-86af-2ae07cea6a53</ID>
+  <ModificationInfo>
+    <DateTime>2018-07-24T05:13:25Z</DateTime>
+    <ID>system</ID>
+  </ModificationInfo>
+  <Name>master</Name>
+  <Paths xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>/</d2p1:string>
+    <d2p1:string>/tables/</d2p1:string>
+    <d2p1:string>/tables/client/</d2p1:string>
+    <d2p1:string>/tables/client/ClientApplicationHost</d2p1:string>
+    <d2p1:string>/tables/client/ClientBase</d2p1:string>
+    <d2p1:string>/tables/client/ClientConsole</d2p1:string>
+    <d2p1:string>/tables/client/ClientConverters</d2p1:string>
+    <d2p1:string>/tables/client/ClientDifferences</d2p1:string>
+    <d2p1:string>/tables/client/ClientFramework</d2p1:string>
+    <d2p1:string>/tables/client/ClientServices</d2p1:string>
+    <d2p1:string>/tables/client/ClientSmartSet</d2p1:string>
+    <d2p1:string>/tables/client/ClientTables</d2p1:string>
+    <d2p1:string>/tables/client/ClientTypes</d2p1:string>
+    <d2p1:string>/tables/client/ClientUsers</d2p1:string>
+    <d2p1:string>/tables/common/</d2p1:string>
+    <d2p1:string>/tables/common/CommonPresentation</d2p1:string>
+    <d2p1:string>/tables/common/CommonServiceModel</d2p1:string>
+    <d2p1:string>/tables/common/CommonServiceModel_Event</d2p1:string>
+    <d2p1:string>/tables/common/CremaData</d2p1:string>
+    <d2p1:string>/tables/Etc/</d2p1:string>
+    <d2p1:string>/tables/Etc/StringTable11</d2p1:string>
+    <d2p1:string>/tables/Export/</d2p1:string>
+    <d2p1:string>/tables/Export/CremaProjectInfo</d2p1:string>
+    <d2p1:string>/tables/Export/CremaProjectInfo.ExportInfo</d2p1:string>
+    <d2p1:string>/tables/server/</d2p1:string>
+    <d2p1:string>/tables/server/ServerServiceHosts</d2p1:string>
+    <d2p1:string>/tables/server/ServerServices</d2p1:string>
+    <d2p1:string>/tables/sub-modules/</d2p1:string>
+    <d2p1:string>/tables/sub-modules/ModernUIFramework</d2p1:string>
+    <d2p1:string>/tables/sub-modules/NtreevLibrary</d2p1:string>
+    <d2p1:string>/tables/Templates/</d2p1:string>
+    <d2p1:string>/tables/Templates/ProjectInfo</d2p1:string>
+    <d2p1:string>/tables/Templates/ProjectInfo.ExportInfo</d2p1:string>
+    <d2p1:string>/tables/Templates/StringTable</d2p1:string>
+    <d2p1:string>/tables/Test/</d2p1:string>
+    <d2p1:string>/tables/Test/TestTable</d2p1:string>
+    <d2p1:string>/types/</d2p1:string>
+    <d2p1:string>/types/KindType</d2p1:string>
+    <d2p1:string>/types/ProjectType</d2p1:string>
+    <d2p1:string>/types/StringType</d2p1:string>
+  </Paths>
+  <Revision>86c87ec70064b461f4b4a2f8f4d46474a4563530</Revision>
+</DataBaseInfo>

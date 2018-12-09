@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2018-04-06T07:39:01.7191079Z"
+  StringTable.Count="32"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:38:59.0827033Z">
+    <Type>Message</Type>
+    <Name>ConfirmToResetSelectedFields</Name>
+    <Comment>1</Comment>
+    <Value>Do you want to reset selected fields?</Value>
+    <ko_KR>선택된 필드의 값을 초기화 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:39:01.7191079Z">
+    <Type>Message</Type>
+    <Name>ConfirmToDeleteSelectedRows_Format</Name>
+    <Comment>2</Comment>
+    <Value>Do you want to delete selected {0} rows?</Value>
+    <ko_KR>택된 {0}개의 행을 삭제하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    <Type>Message</Type>
+    <Name>ConfirmToDeleteRow</Name>
+    <Value>Do you want to delete row?</Value>
+    <ko_KR>행을 삭제하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    <Type>Message</Type>
+    <Name>ConfirmToResetField</Name>
+    <Value>Do you want to reset field?</Value>
+    <ko_KR>필드의 값을 초기화하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    <Type>Exception</Type>
+    <Name>CannotSelectComplexRanges</Name>
+    <Value>Selection of complex ranges is not possible.</Value>
+    <ko_KR>복합적 범위의 선택은 불가능합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.371193Z"
+    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    <Type>Exception</Type>
+    <Name>ItsReadOnly_Format</Name>
+    <Value>'{0}' is read only.</Value>
+    <ko_KR>'{0}'은(는) 읽기 전용입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Title</Type>
+    <Name>SettingAuthority</Name>
+    <Value>Setting Authority</Value>
+    <ko_KR>권한 설정</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Title</Type>
+    <Name>SettingLock</Name>
+    <Value>Setting Lock</Value>
+    <ko_KR>잠금 설정</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Message</Type>
+    <Name>Locking</Name>
+    <Value>Lock setting is in progress</Value>
+    <ko_KR>잠금을 설정중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Label</Type>
+    <Name>AccessView1</Name>
+    <Value>User or group to invite</Value>
+    <ko_KR>초대할 사용자 또는 그룹</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Label</Type>
+    <Name>AccessView2</Name>
+    <Value>Users or Groups with Access Permissions</Value>
+    <ko_KR>접근 권한이 있는 사용자 또는 그룹</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Button</Type>
+    <Name>Lock</Name>
+    <Value>_Lock</Value>
+    <ko_KR>잠금(_L)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.3721931Z"
+    ModifiedDateTime="2017-10-31T06:53:14.3721931Z">
+    <Type>Exception</Type>
+    <Name>ColumnRangeExceeded</Name>
+    <Value>The range of columns to paste has been exceeded.</Value>
+    <ko_KR>붙여넣기 대상 열의 범위가 초과되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set _Authority...</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set _Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set _Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock...</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Load</Name>
+    <Value>_Load...</Value>
+    <ko_KR>활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Unload</Name>
+    <Value>_Unload...</Value>
+    <ko_KR>비활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>Message</Type>
+    <Name>ConfirmToSetPrivate</Name>
+    <Value>Do you want to set it to Private?</Value>
+    <ko_KR>비공개로 설정하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T03:49:44.2246438Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T03:49:44.2246438Z">
+    <Type>MenuItem</Type>
+    <Name>Delete</Name>
+    <Value>_Delete</Value>
+    <ko_KR>삭제(_D)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T03:49:51.1354559Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T03:49:51.1354559Z">
+    <Type>MenuItem</Type>
+    <Name>Find</Name>
+    <Value>_Find</Value>
+    <ko_KR>찾기(_F)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T03:49:55.4566635Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T04:04:17.7873786Z">
+    <Type>MenuItem</Type>
+    <Name>Move</Name>
+    <Value>_Move...</Value>
+    <ko_KR>이동(_M)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T03:50:00.4642723Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-09T04:04:19.4877816Z">
+    <Type>MenuItem</Type>
+    <Name>Rename</Name>
+    <Value>_Rename...</Value>
+    <ko_KR>이름 변경(_R)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-09T04:03:12.6416641Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T06:15:31.0859959Z">
+    <Type>MenuItem</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-19T07:52:23.0537689Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-19T07:52:23.0537689Z">
+    <Type>MenuItem</Type>
+    <Name>NewFolder</Name>
+    <Value>_New Folder</Value>
+    <ko_KR>새 폴더(_N)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T06:55:46.2411428Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T06:55:46.2411428Z">
+    <Type>MenuItem</Type>
+    <Name>ViewLog</Name>
+    <Value>View Log</Value>
+    <ko_KR>로그 보기(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:39:34.1834436Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:39:34.1834436Z">
+    <Type>MenuItem</Type>
+    <Name>CancelEdit</Name>
+    <Value>Cancel Edit</Value>
+    <ko_KR>편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:39:34.1834436Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:39:34.1834436Z">
+    <Type>MenuItem</Type>
+    <Name>EndEdit</Name>
+    <Value>End Edit</Value>
+    <ko_KR>편집 종료</ko_KR>
+  </StringTable>
+</Content>

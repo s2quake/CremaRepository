@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Key</Item>
+    <Item>Value</Item>
+    <Item>DateTimePicker</Item>
+    <Item>TimePicker</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-11-01T04:21:01.4475335Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>0</Item>
+        <Item>sdaf</Item>
+        <Item>11/15/2017 1:00:00 AM</Item>
+        <Item>4123.00:24:00</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-06T07:39:18.0679366Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>1</Item>
+        <Item>312</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T04:51:50.9609362Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>3</Item>
+        <Item>2</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-06T07:39:21.0007418Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>4</Item>
+        <Item>123</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-06T07:39:25.2907493Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>125123</Item>
+        <Item>123</Item>
+        <Item i:nil="true" />
+        <Item i:nil="true" />
+      </Values>
+    </Row>
+  </Rows>
+</Table>

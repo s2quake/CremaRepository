@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BeginUserEditAction xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <AcceptTime>2018-12-09T00:33:36.6770426Z</AcceptTime>
+  <ID>0</ID>
+  <UserID>admin</UserID>
+  <Location>
+    <ColumnName>Comment</ColumnName>
+    <KeyInfos>
+      <DomainFieldInfo>
+        <Type>string</Type>
+        <Value>Button</Value>
+      </DomainFieldInfo>
+      <DomainFieldInfo>
+        <Type>string</Type>
+        <Value>Login</Value>
+      </DomainFieldInfo>
+    </KeyInfos>
+    <TableName>ClientBase</TableName>
+  </Location>
+</BeginUserEditAction>

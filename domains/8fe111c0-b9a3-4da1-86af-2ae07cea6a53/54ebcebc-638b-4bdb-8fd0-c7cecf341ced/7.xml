@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewRowAction xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <AcceptTime>2018-12-09T00:33:41.0220407Z</AcceptTime>
+  <ID>0</ID>
+  <UserID>admin</UserID>
+  <Rows>
+    <DomainRowInfo>
+      <FieldInfos>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value></Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>datetime</Type>
+          <Value>0001-01-01T00:00:00</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value></Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>datetime</Type>
+          <Value>0001-01-01T00:00:00</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>e037e1ad-46a8-4a83-8c5a-54f3b66fc9a5</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>int32</Type>
+          <Value>-1</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>All</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>boolean</Type>
+          <Value>true</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>Text</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type i:nil="true" />
+          <Value i:nil="true" />
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>label</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>라벨</Value>
+        </DomainFieldInfo>
+      </FieldInfos>
+      <KeyInfos />
+      <TableName>ClientBase</TableName>
+    </DomainRowInfo>
+  </Rows>
+</NewRowAction>

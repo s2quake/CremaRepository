@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RemoveRowAction xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <AcceptTime>2018-12-09T00:34:02.9915622Z</AcceptTime>
+  <ID>0</ID>
+  <UserID>admin</UserID>
+  <Rows>
+    <DomainRowInfo>
+      <FieldInfos />
+      <KeyInfos>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>Label</Value>
+        </DomainFieldInfo>
+        <DomainFieldInfo>
+          <Type>string</Type>
+          <Value>ItemType</Value>
+        </DomainFieldInfo>
+      </KeyInfos>
+      <TableName>ClientBase</TableName>
+    </DomainRowInfo>
+  </Rows>
+</RemoveRowAction>

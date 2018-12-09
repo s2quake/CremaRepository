@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataServiceItemInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <DateTime>2018-12-09T09:36:11.5395494+09:00</DateTime>
+  <ItemList>
+    <Item>tables\ClientApplicationHost</Item>
+    <Item>tables\ClientBase</Item>
+    <Item>tables\ClientConsole</Item>
+    <Item>tables\ClientConverters</Item>
+    <Item>tables\ClientDifferences</Item>
+    <Item>tables\ClientFramework</Item>
+    <Item>tables\ClientServices</Item>
+    <Item>tables\ClientSmartSet</Item>
+    <Item>tables\ClientTables</Item>
+    <Item>tables\ClientTypes</Item>
+    <Item>tables\ClientUsers</Item>
+    <Item>tables\CommonPresentation</Item>
+    <Item>tables\CommonServiceModel</Item>
+    <Item>tables\CommonServiceModel_Event</Item>
+    <Item>tables\CremaData</Item>
+    <Item>tables\CremaProjectInfo</Item>
+    <Item>tables\CremaProjectInfo.ExportInfo</Item>
+    <Item>tables\ModernUIFramework</Item>
+    <Item>tables\NtreevLibrary</Item>
+    <Item>tables\ProjectInfo</Item>
+    <Item>tables\ProjectInfo.ExportInfo</Item>
+    <Item>tables\ServerServiceHosts</Item>
+    <Item>tables\ServerServices</Item>
+    <Item>tables\StringTable</Item>
+    <Item>tables\StringTable11</Item>
+    <Item>tables\TestTable</Item>
+    <Item>types\KindType</Item>
+    <Item>types\ProjectType</Item>
+    <Item>types\StringType</Item>
+  </ItemList>
+  <Revision>86c87ec70064b461f4b4a2f8f4d46474a4563530</Revision>
+  <Version>4.0</Version>
+</DataServiceItemInfo>

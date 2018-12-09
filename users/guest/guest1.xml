@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Authority>Guest</Authority>
+  <CategoryName>guest</CategoryName>
+  <CreationInfo>
+    <DateTime>2018-12-09T00:35:03.6708952Z</DateTime>
+    <ID>admin</ID>
+  </CreationInfo>
+  <ID>guest1</ID>
+  <ModificationInfo>
+    <DateTime>2018-12-09T00:35:03.6708952Z</DateTime>
+    <ID>admin</ID>
+  </ModificationInfo>
+  <Name>손님1</Name>
+  <Password>canv7SV6j2w=</Password>
+</User>

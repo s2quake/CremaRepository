@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/ProjectType" xmlns="http://schemas.ntreev.com/crema/types/ProjectType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/ProjectType" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="ProjectType">
+    <xs:annotation>
+      <xs:appinfo>
+        <TypeInfo Creator="admin" />
+        <TypeInfo CreatedDateTime="2017-11-01T08:18:26.0519062Z" />
+        <TypeInfo Modifier="admin" />
+        <TypeInfo ModifiedDateTime="2017-11-01T08:21:51.7698684Z" />
+        <TypeInfo ID="d2ca88ae-62b4-496f-809c-df8e785751c0" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Library">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T08:19:07.6133794Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T08:19:07.6133794Z" />
+            <TypeInfo ID="12dd8dd9-1e29-40de-819d-3f2a6494759f" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Executable">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="1" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T08:21:30.4728308Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T08:21:50.2400657Z" />
+            <TypeInfo ID="caa6a201-1360-4f93-8adf-4f6bd4883749" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="SharedLibrary">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="2" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T08:21:24.3420201Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T08:21:51.7698684Z" />
+            <TypeInfo ID="21de058a-aec3-455b-963e-66af4af767fb" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

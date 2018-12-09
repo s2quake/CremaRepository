@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializationTable xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <CategoryPath>/common/</CategoryPath>
+  <Columns>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>/StringType</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>0</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Type</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>false</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>1</Index>
+      <IsKey>true</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Name</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>2</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Comment</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>3</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>Value</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+    <SerializationColumn>
+      <AllowNull>true</AllowNull>
+      <AutoIncrement>false</AutoIncrement>
+      <Comment></Comment>
+      <DataType>string</DataType>
+      <DerivedTags>All</DerivedTags>
+      <Index>4</Index>
+      <IsKey>false</IsKey>
+      <IsUnique>false</IsUnique>
+      <Name>ko_KR</Name>
+      <ReadOnly>false</ReadOnly>
+      <Tags>All</Tags>
+    </SerializationColumn>
+  </Columns>
+  <Comment></Comment>
+  <DerivedTags>All</DerivedTags>
+  <HashValue>6c66b01d950836901feeeed701a0b36f5f3d58c1</HashValue>
+  <Name>CommonServiceModel</Name>
+  <Parent></Parent>
+  <Rows>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotRename</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not rename to same name.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>같은 이름으로 변경할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>009e6340-a7f0-4d2e-8c6e-4231b573a631</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CategoryNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find category path '{0}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 경로를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c2ddf31b-7648-4f76-ade0-633166ad89c3</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DataBaseNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find database '{0}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 데이터 베이스를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>341265fd-65b5-4c69-998a-c4a24bf559ff</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>DomainNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find domain ID "{0}".</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 도메인 아이디를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>db10bdf1-8104-454b-83c5-2ab032b9aa9b</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>ItemNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find item '{0}'.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 아이템 경로를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5c44ea63-33e8-435b-8890-e71a360c355c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>TableNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find table "{0}".</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 테이블을 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f0b59c8f-ac24-4d67-993d-3a6d26ddc20e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>TypeNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find type "{0}".</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 타입을 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c79c1efe-5ad6-4638-b306-dc5ac018e8b0</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>UserNotFound_Format</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Could not find UserID "{0}".</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>"{0}" 사용자 아이디를 찾을 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>904f3541-64d8-4075-9fa8-f220b32a60f1</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AlreadyPublic</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>It is already set to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>이미 공개 사용으로 설정되어 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>2880bd06-7e86-4429-90d9-0dfa7503e37c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AlreadyPrivate</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>It is already set to private.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>이미 개인 사용으로 설정되어 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>c7fe8007-62b5-4125-8dd8-342c4d34b509</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InvalidIDorPath</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Invalid ID or invalid path.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잘못된 아이디이거나 잘못된 경로입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d17519e7-534f-49e6-924b-a1524814ba1f</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotAddToPublic</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Unable to add user because it is set to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>공개 사용으로 설정되어 있기 때문에 사용자를 추가할 수 없습니다..</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ce378239-b908-43fb-b1d8-65ffbff16efb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotRemoveToPublic</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Unable to remove user because it is set to public.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>공개 사용으로 설정되어 있기 때문에 사용자를 삭제할 수 없습니다..</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>fb0a247a-f723-4c02-b566-da2784f5b801</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AlreadyLocked</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>It's already locked.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>이미 잠겨 있습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>ffa6f4d2-6485-442e-8eee-fb5c11ebebbe</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>NotLocked</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>It's not locked.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>잠겨 있지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>42a97c1b-12e5-4c24-9e20-352398bf2deb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotMoveToSameFolder</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Cannot to move to the same folder.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>같은 폴더로 이동할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>4491a497-1910-48a8-91f5-bc4d8a54949c</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InheritedChildCannotRename</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Inherited child table cannot rename.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속된 자식 테이블은 이름을 변경할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>0acc0a5f-11ff-4f2a-8bce-8633c76cdf3e</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InheritedChildCannotMove</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Inherited child table cannot move.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속된 자식 테이블은 이동할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>f14a62a8-5dc0-4d50-8e5d-63bd21299082</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InheritedChildCannotDelete</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Inherited child table cannot delete.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속된 자식 테이블은 삭제할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>200f6cdd-8914-468b-8396-d1317bb3ba36</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotSetTemplateToInherited</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Cannot to set template to inherited table.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>상속된 테이블에 템플릿을 지정할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b266a8d0-efea-4ae5-a22d-058d4234dee6</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>CannotSetTemplateItself</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Cannot to set itself as template.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>자기 자신을 템플릿으로 지정할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5d2c17bc-79be-4835-9387-0fade18c07ba</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RootFolderCannotRename</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Root folder cannot rename.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>최상위 폴더는 이름을 변경할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>05952fcb-5b78-421f-a409-d01af86f15a0</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>RootFolderCannotMove</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Root folder cannot move</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>최상위 폴더는 이동할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>5d2312bd-424e-475b-9bf2-38deaa3e2744</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>HaveNotPermission</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>You do not have permission to perform</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>작업 수행 권한을 가지고 있지 않습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>38c83491-a32b-475e-8673-c1a51fdfa7fb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InheritedPrivateItemCannotAdd</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Inherited private item cannot add user</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>개인 사용 설정이 상속된 객체이기 때문에 사용자를 추가할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>b0b40ff3-9bf5-454f-b2f8-656b380b6afb</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>InheritedPrivateItemCannotRemove</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Inherited private item cannot remove user</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>개인 사용 설정이 상속된 객체이기 때문에 사용자를 삭제할 수 없습니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>cbc5d770-2fc4-4502-9feb-67b3e1d85f6d</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+    <SerializationRow>
+      <DerivedTags>All</DerivedTags>
+      <Fields>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>Exception</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>AuthenticationDoesNotSigned</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>DBNull</Type>
+          <Value i:nil="true" />
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>authentication does not signed.</Value>
+        </SerializationField>
+        <SerializationField>
+          <Type>string</Type>
+          <Value>서명되지 않은 인증입니다.</Value>
+        </SerializationField>
+      </Fields>
+      <ParentID i:nil="true" />
+      <RelationID>d277b018-2da5-4f02-be71-94fd5cd110af</RelationID>
+      <Tags>All</Tags>
+    </SerializationRow>
+  </Rows>
+  <TableName>CommonServiceModel</TableName>
+  <Tags>All</Tags>
+  <TemplatedParent>StringTable</TemplatedParent>
+</SerializationTable>

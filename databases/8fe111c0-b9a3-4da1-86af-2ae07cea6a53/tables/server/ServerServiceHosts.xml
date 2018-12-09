@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/server/ServerServiceHosts ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2017-11-08T08:00:43.9046827Z"
+  StringTable.Count="4"
+  StringTable.ID="36ac8b33-93d6-4d96-a026-668e8ff22b73" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-08T07:59:19.8868771Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-08T07:59:19.8868771Z">
+    <Type>None</Type>
+    <Name>ServiceStart</Name>
+    <Value>{0} service has been started.</Value>
+    <ko_KR>{0} 서비스가 시작되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-08T07:59:19.8868771Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-08T07:59:19.8868771Z">
+    <Type>None</Type>
+    <Name>ServiceStart_Port</Name>
+    <Value>{0}({1}) service has been started.</Value>
+    <ko_KR>{0}({1}) 서비스가 시작되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-08T07:59:19.8868771Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-08T07:59:19.8868771Z">
+    <Type>None</Type>
+    <Name>ServiceStop</Name>
+    <Value>{0} service has been stopped.</Value>
+    <ko_KR>{0} 서비스가 종료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-08T08:00:20.3643362Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-08T08:00:43.9046827Z">
+    <Type>Exception</Type>
+    <Name>LowerVersion</Name>
+    <Value>Version is lower than the server.</Value>
+    <ko_KR>버전이 서버보다 낮습니다.</ko_KR>
+  </StringTable>
+</Content>

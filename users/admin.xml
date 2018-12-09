@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Authority>Admin</Authority>
+  <CategoryName></CategoryName>
+  <CreationInfo>
+    <DateTime>2018-12-09T00:28:29.0552473Z</DateTime>
+    <ID>system</ID>
+  </CreationInfo>
+  <ID>admin</ID>
+  <ModificationInfo>
+    <DateTime>2018-12-09T00:28:29.0552473Z</DateTime>
+    <ID>system</ID>
+  </ModificationInfo>
+  <Name>Administrator</Name>
+  <Password>S+IAUqNK4yw=</Password>
+</User>

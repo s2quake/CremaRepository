@@ -1,0 +1,1097 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/server/ServerServices ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-05-11T04:24:34.972567Z"
+  StringTable.Count="108"
+  StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:09:50.5940172Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:11:27.5949876Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteUserCategory</Name>
+    <Value>Folder could not be deleted because user exists.</Value>
+    <ko_KR>사용자가 존재하기 때문에 폴더를 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:12:35.002706Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:13:08.7143652Z">
+    <Type>Exception</Type>
+    <Name>PermissionDenied</Name>
+    <Value>You do not have permission to perform the operation.</Value>
+    <ko_KR>작업을 수행할 수 있는 권한을 가지고 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:14:09.3516717Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:14:31.4101104Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteBaseTemplateTable</Name>
+    <Value>You can not delete a table that is the default template.</Value>
+    <ko_KR>기본 템플릿인 테이블은 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:15:00.4885615Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:16:10.0178836Z">
+    <Type>Exception</Type>
+    <Name>CannotEndEdit</Name>
+    <Value>Unable to end editing.</Value>
+    <ko_KR>편집을 종료할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:16:59.750771Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:17:09.3759879Z">
+    <Type>Message</Type>
+    <Name>DomainContextInitialize</Name>
+    <Value>DomainContext initialize.</Value>
+    <ko_KR>DomainContext initialize.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:17:29.5312233Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:17:29.5312233Z">
+    <Type>Message</Type>
+    <Name>DomainContextIsCreated</Name>
+    <Value>DomainContext is created.</Value>
+    <ko_KR>DomainContext is created.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:17:50.3416598Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:18:30.5429304Z">
+    <Type>Message</Type>
+    <Name>DomainState_Format</Name>
+    <Value>&lt;{0} detection. {1} restored. {2} failed.&gt;</Value>
+    <ko_KR>&lt;{0} detection. {1} restored. {2} failed.&gt;</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:18:32.6333341Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:06:43.2110848Z">
+    <Type>Message</Type>
+    <Name>DomainIsRestored_Format</Name>
+    <Value>Domain restoration completed : {0}</Value>
+    <ko_KR>도메인 복구 완료 : {0}</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:18:43.2881528Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:06:54.3027043Z">
+    <Type>Message</Type>
+    <Name>DomainRestorationIsFailed_Format</Name>
+    <Value>Domain restoration failed : {0}</Value>
+    <ko_KR>도메인 복구 실패 : {0}</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:19:08.7317975Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:05:52.7917963Z">
+    <Type>Message</Type>
+    <Name>DomainRestorationMessage</Name>
+    <Value>A crash was detected. The previous session did not exit normally.
+The server will automatically attempt to restore from a data not yet saved.</Value>
+    <ko_KR>충돌이 감지되었습니다. 이전 세션이 정상적으로 종료되지 않았습니다.
+서버가 아직 저장되지 않은 데이터에서 자동으로 복구을 시도합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:21:26.1056388Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:21:30.192846Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotEditTemplate</Name>
+    <Value>상속받은 테이블은 테이블의 형태를 변경할 수 없습니다.</Value>
+    <ko_KR>상속받은 테이블은 테이블의 형태를 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:21:41.050465Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:21:44.9816719Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotNewChild</Name>
+    <Value>상속받은 테이블은 자식 테이블을 생성할 수 없습니다.</Value>
+    <ko_KR>상속받은 테이블은 자식 테이블을 생성할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:21:55.1372898Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:29:13.5524102Z">
+    <Type>Exception</Type>
+    <Name>InvalidName_Format</Name>
+    <Value>'{0}' is incorrect name.</Value>
+    <ko_KR>'{0}' 은(는) 잘못된 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:22:10.5345168Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:21:55.1941328Z">
+    <Type>Exception</Type>
+    <Name>InvalidUserID</Name>
+    <Value>It is not valid UserID</Value>
+    <ko_KR>잘못된 형식의 아이디입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:22:27.6009468Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:12:15.9284692Z">
+    <Type>Message</Type>
+    <Name>LoadTables</Name>
+    <Value>Load Tables</Value>
+    <ko_KR>테이블 로드</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:22:50.8605877Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:12:32.1212977Z">
+    <Type>Exception</Type>
+    <Name>LoggedInUserCannotDelete</Name>
+    <Value>로그인 되어 있는 아이디는 삭제할 수 없습니다.</Value>
+    <ko_KR>로그인 되어 있는 아이디는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:23:25.3210482Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:07:32.7411718Z">
+    <Type>Message</Type>
+    <Name>NotFoundDomainsToRestore</Name>
+    <Value>There are no domains to restore.</Value>
+    <ko_KR>복구할 도메인이 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:23:42.1066777Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:23:45.9442844Z">
+    <Type>Message</Type>
+    <Name>ProgramInfo</Name>
+    <Value>{0} [Version {1}]</Value>
+    <ko_KR>{0} [Version {1}]</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:23:58.6271067Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:11:08.6611511Z">
+    <Type>Message</Type>
+    <Name>RestoreResult_Format</Name>
+    <Value>========= Restoration: Suceess {0}, Fail {1} ==========</Value>
+    <ko_KR>============= 복구: 성공 {0}, 실패 {1} ==============</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:24:16.0367373Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:24:27.0603995Z">
+    <Type>Exception</Type>
+    <Name>SameName</Name>
+    <Value>Can not change to the same name.</Value>
+    <ko_KR>같은 이름으로 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:24:24.1643515Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:25:39.8033273Z">
+    <Type>Exception</Type>
+    <Name>SameTableNameExist</Name>
+    <Value>Table with same name already exists.</Value>
+    <ko_KR>같은 이름의 테이블이 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:24:42.4631837Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:07:49.7296017Z">
+    <Type>Message</Type>
+    <Name>ServiceStart</Name>
+    <Value>===================  Service Start  ===================</Value>
+    <ko_KR>===================  서비스 시작  ===================</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:24:51.5111996Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:12:07.9256552Z">
+    <Type>Message</Type>
+    <Name>TableContextInitialize</Name>
+    <Value>Table Context initialized.</Value>
+    <ko_KR>테이블 관리자 초기화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:25:13.4604381Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:11:49.1276222Z">
+    <Type>Message</Type>
+    <Name>TableContextIsCreated</Name>
+    <Value>Table Context created.</Value>
+    <ko_KR>테이블 관리자 생성 완료</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:25:26.0808603Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:59:22.7784648Z">
+    <Type>Exception</Type>
+    <Name>TableIsBeingEdited_Format</Name>
+    <Value>'{0}' 테이블이 편집중입니다.</Value>
+    <ko_KR>'{0}' 테이블이 편집중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:25:38.7636826Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:25:42.97569Z">
+    <Type>Exception</Type>
+    <Name>TableIsBeingSetup_Format</Name>
+    <Value>'{0}' 테이블은 형태 변경중입니다.</Value>
+    <ko_KR>'{0}' 테이블은 형태 변경중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:25:48.3420994Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:11:51.296026Z">
+    <Type>Message</Type>
+    <Name>TableLoadingIsCompleted</Name>
+    <Value>Table Loading completed.</Value>
+    <ko_KR>테이블 로딩 완료</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:26:18.3409521Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:59:26.1168707Z">
+    <Type>Exception</Type>
+    <Name>TypeIsBeingEdited_Format</Name>
+    <Value>'{0}' 타입이 편집중입니다.</Value>
+    <ko_KR>'{0}' 타입이 편집중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:26:28.6213701Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:26:32.0065761Z">
+    <Type>Message</Type>
+    <Name>UserContextInitialize</Name>
+    <Value>UserContext initialize.</Value>
+    <ko_KR>UserContext initialize.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:26:47.4194032Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:26:51.9590111Z">
+    <Type>Message</Type>
+    <Name>UserContextIsCreated</Name>
+    <Value>UserContext is created.</Value>
+    <ko_KR>UserContext is created.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:27:02.8010302Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:27:19.6646598Z">
+    <Type>Exception</Type>
+    <Name>UserIDisAlreadyResitered</Name>
+    <Value>이미 등록된 아이디입니다.</Value>
+    <ko_KR>이미 등록된 아이디입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:27:25.3274697Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:27:28.4630752Z">
+    <Type>Exception</Type>
+    <Name>UserIDIsConnecting</Name>
+    <Value>현재 접속중인 아이디입니다.</Value>
+    <ko_KR>현재 접속중인 아이디입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:27:33.9698849Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:24:47.5432355Z">
+    <Type>Exception</Type>
+    <Name>WrongIDOrPassword</Name>
+    <Value>Incorrect UserID or password</Value>
+    <ko_KR>아이디/패스워드가 틀렸습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:18:52.3700918Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:25:22.2376964Z">
+    <Type>Exception</Type>
+    <Name>SameTypeNameExist</Name>
+    <Value>Type with same name already exists.
+</Value>
+    <ko_KR>같은 이름의 타입이 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:27:26.4533948Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:27:26.4533948Z">
+    <Type>Exception</Type>
+    <Name>Expired</Name>
+    <Value>It has been expired.</Value>
+    <ko_KR>만료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:27:34.534209Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:27:34.534209Z">
+    <Type>Exception</Type>
+    <Name>Commissioned</Name>
+    <Value>It's already been commissioned.</Value>
+    <ko_KR>이미 위임중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:29:14.2495841Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:29:14.2495841Z">
+    <Type>Exception</Type>
+    <Name>NotClosed</Name>
+    <Value>It is not closed.</Value>
+    <ko_KR>닫혀있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:29:49.9736469Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:29:49.9736469Z">
+    <Type>Exception</Type>
+    <Name>InvalidToken</Name>
+    <Value>It is not valid token</Value>
+    <ko_KR>유효한 토큰이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:30:33.4665232Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:30:33.4665232Z">
+    <Type>Exception</Type>
+    <Name>InvalidObject</Name>
+    <Value>It is not valid object.</Value>
+    <ko_KR>유효하지 않은 객체입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:31:10.2669879Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:31:10.2669879Z">
+    <Type>Exception</Type>
+    <Name>NotInDataBase</Name>
+    <Value>It cannot work operation, because you are not in database</Value>
+    <ko_KR>데이터베이스에 참여하고 있지 않으므로 작업을 수행할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:40:29.1379695Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:41:19.1048573Z">
+    <Type>Exception</Type>
+    <Name>InvalidPassword</Name>
+    <Value>It is not valid password</Value>
+    <ko_KR>유효한 암호가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:45:26.1780912Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:45:49.1413315Z">
+    <Type>Exception</Type>
+    <Name>EmptyStringCannotSend</Name>
+    <Value>Empty string cannot send.</Value>
+    <ko_KR>빈 문자열은 보낼 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:38:34.0089179Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:41:04.5179823Z">
+    <Type>Exception</Type>
+    <Name>DataBaseHasBeenLoaded</Name>
+    <Value>DataBase has been loaded.</Value>
+    <ko_KR>데이터 베이스가 활성화되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:40:46.5779508Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:41:12.2243958Z">
+    <Type>Exception</Type>
+    <Name>DataBaseHasNotBeenLoaded</Name>
+    <Value>DataBase has not been loaded.</Value>
+    <ko_KR>데이터 베이스가 활성화되어 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:43:44.0438625Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:43:44.0438625Z">
+    <Type>Exception</Type>
+    <Name>AlreadyInDataBase</Name>
+    <Value>It is already in database</Value>
+    <ko_KR>이미 데이터베이스에 참여하고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:47:36.1254701Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:48:13.1131351Z">
+    <Type>Exception</Type>
+    <Name>LoadedDataBaseCannotRevert</Name>
+    <Value>It can not revert from loaded database.</Value>
+    <ko_KR>활성화된 데이터베이스에서는 되돌릴수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:49:28.0712667Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:50:01.4397253Z">
+    <Type>Exception</Type>
+    <Name>NotFoundRevision_Format</Name>
+    <Comment>revision</Comment>
+    <Value>Revision '{0}' can not found.</Value>
+    <ko_KR>'{0}' 리비전을 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:55:39.2115186Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:55:39.2115186Z">
+    <Type>Exception</Type>
+    <Name>ExistsPath_Format</Name>
+    <Value>'{0}' path is already existed.</Value>
+    <ko_KR>'{0}' 경로가 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:56:31.5184105Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:56:50.597244Z">
+    <Type>Exception</Type>
+    <Name>DataBaseIsAlreadyExisted_Format</Name>
+    <Value>DataBase '{0}' is already existed.</Value>
+    <ko_KR>'{0}'은(는) 이미 존재하는 데이터베이스입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T02:13:18.1725786Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:13:33.3670052Z">
+    <Type>Exception</Type>
+    <Name>ItIsAlreadyBeingEdited</Name>
+    <Value>It is already being edited.</Value>
+    <ko_KR>이미 편집중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T02:15:13.6439814Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:16:26.0905086Z">
+    <Type>Exception</Type>
+    <Name>ItemIsAlreadyLocked_Format</Name>
+    <Value>'{0}' is already locked.</Value>
+    <ko_KR>'{0}'은(는) 이미 잠겨있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:12:36.229551Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:12:36.229551Z">
+    <Type>Exception</Type>
+    <Name>IncorrectPassword</Name>
+    <Value>Incorrect password.</Value>
+    <ko_KR>암호가 틀렸습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:13:45.4000725Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:13:58.4728955Z">
+    <Type>Exception</Type>
+    <Name>CannotChangeToOldPassword</Name>
+    <Value>Can not change to old password.</Value>
+    <ko_KR>이전 암호로 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:16:09.3259253Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:16:09.3259253Z">
+    <Type>Exception</Type>
+    <Name>EmptyStringIsNotAllowed</Name>
+    <Value>Empty string is not allowed.</Value>
+    <ko_KR>빈 문자열은 허용되지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:16:44.3323868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:17:08.7308296Z">
+    <Type>Exception</Type>
+    <Name>CannotSendMessageToOfflineUser</Name>
+    <Value>Can not send message to offline user.</Value>
+    <ko_KR>연결되지 않은 사용자에게는 문자열을 보낼 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:27:47.3959514Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:27:52.5595605Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotReadIndependently</Name>
+    <Value>Child tables can not read data independently.</Value>
+    <ko_KR>자식테이블은 독립적으로 데이터를 읽어들일 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:04:14.387054Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:05:01.9827376Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotSetTags</Name>
+    <Value>Inherited table can not set tags</Value>
+    <ko_KR>상속받은 테이블은 태그를 설정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:05:23.0583746Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:41:10.308546Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotSetComment</Name>
+    <Value>Inherited table can not set comment.</Value>
+    <ko_KR>상속받은 테이블은 설명을 설정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:19:06.4122207Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:19:29.4222611Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotCreateChildTable</Name>
+    <Value>Child table can not create child table.</Value>
+    <ko_KR>자식 테이블은 자식 테이블을 생성할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:21:04.9256289Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:38.8850393Z">
+    <Type>Exception</Type>
+    <Name>CannotRenameOnCreateChildTable</Name>
+    <Value>Can not rename on create child table</Value>
+    <ko_KR>자식테이블을 생성중일 때는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:21:45.0020993Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:40.7414426Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveOnCreateChildTable</Name>
+    <Value>Can not move on create child table.</Value>
+    <ko_KR>자식테이블을 생성중일 때는 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:21:57.1233206Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:42.5510457Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteOnCreateChildTable</Name>
+    <Value>Can not delete on create child table.</Value>
+    <ko_KR>자식테이블을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:34:40.276661Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:44.2514487Z">
+    <Type>Exception</Type>
+    <Name>CannotRenameOnCreateTable</Name>
+    <Value>Can not rename on create table.</Value>
+    <ko_KR>테이블을 생성중일 때는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:34:40.276661Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:45.8426515Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveOnCreateTable</Name>
+    <Value>Can not move on create table.</Value>
+    <ko_KR>테이블을 생성중일 때는 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:34:40.276661Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:49:47.6366547Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteOnCreateTable</Name>
+    <Value>Can not delete on create table.</Value>
+    <ko_KR>테이블을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:38:02.421816Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:40:57.3917233Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotInherit</Name>
+    <Value>Inherited table can not inherit.</Value>
+    <ko_KR>상속받은 테이블은 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:38:24.4022546Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:40:59.2949267Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotInherit</Name>
+    <Value>Child table can not inherit.</Value>
+    <ko_KR>자식테이블은 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:40:45.0521017Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:41:24.6293712Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotCopy</Name>
+    <Value>Child table can not copy.</Value>
+    <ko_KR>자식테이블은 복사할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:45:55.2898466Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:46:09.3454713Z">
+    <Type>Exception</Type>
+    <Name>SameNamePathExists</Name>
+    <Value>A path with the same name already exists.</Value>
+    <ko_KR>같은 이름의 경로가 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:49:13.6129949Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:50:01.9262798Z">
+    <Type>Exception</Type>
+    <Name>CannotDeletePathWithItems</Name>
+    <Value>Can not delete path with items.</Value>
+    <ko_KR>항목이 있는 경로는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:56:43.6737854Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:57:44.9974931Z">
+    <Type>Exception</Type>
+    <Name>UnsavedDomainsExists_Format</Name>
+    <Value>There are domains that have not yet been saved: '{0}'</Value>
+    <ko_KR>아직 저장되지 않은 도메인이 있습니다: '{0}'</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:59:45.5857049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:59:59.6569296Z">
+    <Type>Exception</Type>
+    <Name>TableIsNotBeingEdited</Name>
+    <Value>Table is not being edited.</Value>
+    <ko_KR>테이블이 편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:01:03.648242Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:01:03.648242Z">
+    <Type>Exception</Type>
+    <Name>TableTemplateIsNotBeingEdited</Name>
+    <Value>Table template is not being edited.</Value>
+    <ko_KR>테이블 형태가 편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:01:03.648242Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:01:03.648242Z">
+    <Type>Exception</Type>
+    <Name>TypeIsNotBeingEdited</Name>
+    <Value>Type is not being edited.</Value>
+    <ko_KR>타입이 편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:03:09.3844629Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:06:16.4755915Z">
+    <Type>Exception</Type>
+    <Name>CannotRenameOnCreateType</Name>
+    <Value>Can not rename on create Type</Value>
+    <ko_KR>타입을 생성중일 때는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:03:09.3844629Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:06:14.525588Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveOnCreateType</Name>
+    <Value>Can not move on create Type</Value>
+    <ko_KR>타입을 생성중일 때는 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:03:09.3844629Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:06:12.4507844Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteOnCreateType</Name>
+    <Value>Can not delete on create Type</Value>
+    <ko_KR>타입을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:06:01.3747649Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:06:31.7324183Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteTypeWithUsedTables</Name>
+    <Value>Can not delete type with used tables.</Value>
+    <ko_KR>사용중인 테이블이 있는 타입은 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:10:57.6816854Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:11:24.3733323Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableTemplateCannotEdit</Name>
+    <Value>Inherited table template can not edit.</Value>
+    <ko_KR>상속받은 테이블의 형태는 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:12:18.7550278Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:12:18.7550278Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotEdit</Name>
+    <Value>Child table can not edit.</Value>
+    <ko_KR>자식 테이블은 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:25:19.2867987Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:25:19.2867987Z">
+    <Type>Exception</Type>
+    <Name>PathIsNotEmptyDirectory</Name>
+    <Value>Path is not an empty directory.
+</Value>
+    <ko_KR>비어있는 경로가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:26:38.0513371Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:27:21.6378136Z">
+    <Type>Exception</Type>
+    <Name>NoRepositoryModule</Name>
+    <Value>There is no repository module to create</Value>
+    <ko_KR>저장소를 생성할 수 있는 모듈이 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:29:53.5976805Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:30:33.3153503Z">
+    <Type>Exception</Type>
+    <Name>DefaultDataBaseCannotRename</Name>
+    <Value>'default' database can not rename.</Value>
+    <ko_KR>'default' 데이터 베이스는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:30:02.9420969Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:30:40.8501635Z">
+    <Type>Exception</Type>
+    <Name>DefaultDataBaseCannotDelete</Name>
+    <Value>'default' database can not delete.</Value>
+    <ko_KR>'default' 데이터 베이스는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:32:20.7059389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:32:36.4931666Z">
+    <Type>Exception</Type>
+    <Name>EmptyDataSetCannotImport</Name>
+    <Value>Empty dataset can not import.</Value>
+    <ko_KR>빈 데이터셋은 가져오기를 할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:35:13.3670422Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:35:41.8838922Z">
+    <Type>Exception</Type>
+    <Name>ItemPathChanged_Format</Name>
+    <Value>'{0}' has been changed : '{1}' to '{2}'.</Value>
+    <ko_KR>'{0}' has been changed : '{1}' to '{2}'.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:37:43.018105Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:38:31.5497902Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneColumnInTable</Name>
+    <Value>At least one column must exist in the table.</Value>
+    <ko_KR>테이블에는 적어도 한개 이상의 Column이(가) 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:39:08.3658549Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:39:08.3658549Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneKeyInTable</Name>
+    <Value>At least one key must exist in the table.</Value>
+    <ko_KR>테이블에는 적어도 한개 이상의 키가 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:39:08.3658549Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:39:08.3658549Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneMemberInType</Name>
+    <Value>At least one member must exist in the type.</Value>
+    <ko_KR>타입에는 적어도 한개 이상의 Member이(가) 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:41:11.4344711Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:41:11.4344711Z">
+    <Type>Exception</Type>
+    <Name>CannotRename</Name>
+    <Value>Can not rename.</Value>
+    <ko_KR>이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:42:37.9054229Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:42:37.9054229Z">
+    <Type>Exception</Type>
+    <Name>OwnerCannotKicked</Name>
+    <Value>Owner can not kicked</Value>
+    <ko_KR>소유자는 추방할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:43:38.5271294Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:03:20.6063287Z">
+    <Type>Exception</Type>
+    <Name>CannotKickYourself</Name>
+    <Value>You can not kick yourself.</Value>
+    <ko_KR>자기 자신을 추방할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:45:51.7513634Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:46:01.8601812Z">
+    <Type>Exception</Type>
+    <Name>UserIsNotInDomain_Format</Name>
+    <Comment>userID</Comment>
+    <Value>'{0}' is not in domain.</Value>
+    <ko_KR>'{0}' 은(는) 도메인 사용자가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:02:25.7410323Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:02:25.7410323Z">
+    <Type>Exception</Type>
+    <Name>OfflineUserCannotKicked</Name>
+    <Value>Offline user can not kicked.</Value>
+    <ko_KR>접속중이지 않은 사용자는 추방할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:03:08.6723077Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:03:29.6387446Z">
+    <Type>Exception</Type>
+    <Name>CannotBanYourself</Name>
+    <Value>You can not ban yourself.</Value>
+    <ko_KR>자기 자신을 차단할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:04:04.3488055Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:04:04.3488055Z">
+    <Type>Exception</Type>
+    <Name>UserIsNotBanned</Name>
+    <Value>User is not banned.</Value>
+    <ko_KR>차단되어 있지 않은 사용자입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:04:44.1132754Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:04:47.4828813Z">
+    <Type>Exception</Type>
+    <Name>UserIsAlreadyBanned</Name>
+    <Value>User is already banned.</Value>
+    <ko_KR>이미 차단되어 있는 사용자입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:05:52.6753958Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:05:52.6753958Z">
+    <Type>Exception</Type>
+    <Name>AdminCannotBanned</Name>
+    <Value>Admin can not banned.</Value>
+    <ko_KR>관리자는 차단할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:06:50.0522966Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:07:06.6663258Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteYourself</Name>
+    <Value>You can not delete yourself.</Value>
+    <ko_KR>자기 자신을 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:07:38.677582Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:07:51.2668041Z">
+    <Type>Exception</Type>
+    <Name>AdminCannotDeleted</Name>
+    <Value>Admin can not deleted.</Value>
+    <ko_KR>관리자계정은 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:08:45.3520991Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:08:45.3520991Z">
+    <Type>Exception</Type>
+    <Name>BannedUserCannotLogin</Name>
+    <Value>Banned user can not log in.</Value>
+    <ko_KR>차단되어 있는 사용자는 접속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:09:30.8105789Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:09:30.8105789Z">
+    <Type>Exception</Type>
+    <Name>UserIsNotLoggedIn</Name>
+    <Value>User is not logged in.</Value>
+    <ko_KR>접속되어 있는 사용자가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:11:16.3603643Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:11:27.0931832Z">
+    <Type>Exception</Type>
+    <Name>UnsavedDataCannotEdit</Name>
+    <Value>Unsaved data can not edit.</Value>
+    <ko_KR>저장되지 않은 데이터는 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:12:13.4720646Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:14:11.5018719Z">
+    <Type>Exception</Type>
+    <Name>AdminCanChangeAdminInfo</Name>
+    <Value>"admin" only can change "admin" info</Value>
+    <ko_KR>Admin 정보는 Admin 계정만 변경할 수 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:15:32.2476138Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:15:44.6652356Z">
+    <Type>Exception</Type>
+    <Name>OnlineUserAuthorityCannotChanged</Name>
+    <Value>Online user's authority can not changed.</Value>
+    <ko_KR>접속된 사용자의 권한은 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:16:23.8213043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:21:04.2005968Z">
+    <Type>Exception</Type>
+    <Name>CannotChangeYourAuthority</Name>
+    <Value>You can not change your authority.</Value>
+    <ko_KR>자신의 권한을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:18:49.35396Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:19:08.6823939Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveToSamePath</Name>
+    <Value>Can not move to same path.</Value>
+    <ko_KR>같은 경로로 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:23:57.7041015Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:24:34.972567Z">
+    <Type>Exception</Type>
+    <Name>ItemsPermissionDenined_Format</Name>
+    <Value>You do not have access to items in use: '{0}'</Value>
+    <ko_KR>사용되고 있는 항목에 대한 접근권한이 없습니다: '{0}'</ko_KR>
+  </StringTable>
+</Content>

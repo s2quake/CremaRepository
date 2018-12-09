@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo.ExportInfo ../Templates/ProjectInfo.ExportInfo.xsd"
+  ProjectInfo.ExportInfo.CreatedDateTime="2017-10-25T08:34:43.9802704Z"
+  ProjectInfo.ExportInfo.Modifier="s2quake"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-04-05T00:43:52.3412033Z"
+  ProjectInfo.ExportInfo.Count="19"
+  ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo.ExportInfo">
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4142228Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="3690c9391151acd7057703cafb821469">
+    <ID>1</ID>
+    <FileName />
+    <TableName>ClientSmartSet</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4152229Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T04:38:21.2240147Z"
+    ParentID="4dde656ba7408ba7c936cabb5e919d01">
+    <ID>2</ID>
+    <FileName />
+    <TableName>ClientBase</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4152229Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="e40206356bd63d3228d0c0facb669e62">
+    <ID>4</ID>
+    <FileName />
+    <TableName>ClientTables</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4162251Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="428ca329fea347e1a0505168bd8f4c63">
+    <ID>5</ID>
+    <FileName />
+    <TableName>CommonPresentation</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4162251Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="0be414facb2c5e43ee76a909bfff3ae6">
+    <ID>0</ID>
+    <FileName />
+    <TableName>ModernUIFramework</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4162251Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="f9b4fbf403945fc41e028283ad40d269">
+    <ID>3</ID>
+    <FileName />
+    <TableName>ClientConverters</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4162251Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="0a934bc15cada78ddeb879533d760798">
+    <ID>6</ID>
+    <FileName />
+    <TableName>ClientTypes</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    CreatedDateTime="2017-10-31T06:53:14.4162251Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="2734b8cfd24dbc1c4cbcc18d3fd402fb">
+    <ID>7</ID>
+    <FileName />
+    <TableName>ClientFramework</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-10-31T23:56:16.0488323Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="ef17faf8b3476143b61de6c27549dcaf">
+    <ID>8</ID>
+    <FileName />
+    <TableName>ClientConsole</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-11-01T00:02:12.0102575Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    ParentID="37042365abfe9182b5e576b463c8e3be">
+    <ID>9</ID>
+    <FileName />
+    <TableName>ClientDifferences</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-11-01T08:23:59.1268929Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:23:59.1268929Z"
+    ParentID="56076ca6bf50315d854ae1652cd30339">
+    <ID>10</ID>
+    <FileName />
+    <TableName>ClientApplicationHost</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-11-07T01:07:32.5432493Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T01:07:32.5432493Z"
+    ParentID="f9a17874543a86ff807e1d24a07d60a1">
+    <ID>11</ID>
+    <FileName />
+    <TableName>NtreevLibrary</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:00:24.1686175Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:00:24.1686175Z"
+    ParentID="0d919d314ac14af6ab4568f3b3475916">
+    <ID>12</ID>
+    <FileName>Properties/EventResources.resx</FileName>
+    <TableName>CommonServiceModel_Event</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:45:29.3807704Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:45:29.3807704Z"
+    ParentID="0d919d314ac14af6ab4568f3b3475916">
+    <ID>13</ID>
+    <FileName />
+    <TableName>CommonServiceModel</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2017-11-08T08:04:28.5875338Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-08T08:04:28.5875338Z"
+    ParentID="b252ffe70db7149d155e3d747a6d6442">
+    <ID>14</ID>
+    <FileName />
+    <TableName>ServerServiceHosts</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T08:45:43.0146336Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:45:43.0146336Z"
+    ParentID="c8f44f68760984fe73c2ceafeb501f64">
+    <ID>15</ID>
+    <FileName />
+    <TableName>ClientUsers</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:04:12.1841796Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:04:12.1841796Z"
+    ParentID="1f0059ca290c3679c52ad63a968d74fb">
+    <ID>16</ID>
+    <FileName />
+    <TableName>CremaData</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:09:32.648655Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:09:32.648655Z"
+    ParentID="e608bc68-27dc-4af7-ba90-21bdbb8aaae3">
+    <ID>17</ID>
+    <FileName />
+    <TableName>ClientServices</TableName>
+  </ProjectInfo.ExportInfo>
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T00:43:52.3412033Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T00:43:52.3412033Z"
+    ParentID="fc744d33-6996-4998-a016-36cef56ee4b4">
+    <ID>18</ID>
+    <FileName />
+    <TableName>ServerServices</TableName>
+  </ProjectInfo.ExportInfo>
+</Content>

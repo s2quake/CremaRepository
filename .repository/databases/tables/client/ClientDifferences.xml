@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-11-01T07:58:20.3605835Z"
+  StringTable.Count="23"
+  StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T00:01:28.6733814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:33:45.7471067Z">
+    <Type>Title</Type>
+    <Name>Differences</Name>
+    <Value>Differences</Value>
+    <ko_KR>비교</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:30:21.5739481Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:30:39.2487792Z">
+    <Type>Button</Type>
+    <Name>Merge</Name>
+    <Value>_Merge</Value>
+    <ko_KR>병합(_M)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:30:26.9091575Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:30:42.2751845Z">
+    <Type>Button</Type>
+    <Name>OK</Name>
+    <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>ContentModifiedDateTime</Name>
+    <Value>Content Modified DateTime</Value>
+    <ko_KR>데이터 변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>ContentModifier</Name>
+    <Value>Content Modifier</Value>
+    <ko_KR>데이터 변경자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>IsFlag</Name>
+    <Value>Is Flag</Value>
+    <ko_KR>플래그 집합</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>변경자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>TableName</Name>
+    <Value>Table Name</Value>
+    <ko_KR>테이블 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>Tags</Name>
+    <Value>Tags</Value>
+    <ko_KR>태그</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>TemplatedParent</Name>
+    <Value>Templated Parent</Value>
+    <ko_KR>부모 템플릿</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>TemplateModifiedDateTime</Name>
+    <Value>Template Modified DateTime</Value>
+    <ko_KR>형태 변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:23.3945621Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:32:23.3945621Z">
+    <Type>Label</Type>
+    <Name>TemplateModifier</Name>
+    <Value>Template Modifier</Value>
+    <ko_KR>형태 변경자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:33:07.9950404Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:34:21.8455701Z">
+    <Type>Title</Type>
+    <Name>ColumnInfo</Name>
+    <Value>Column Information</Value>
+    <ko_KR>컬럼 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:33:20.6466627Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:34:19.1779655Z">
+    <Type>Title</Type>
+    <Name>TableInfo</Name>
+    <Value>Table Information</Value>
+    <ko_KR>테이블 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:33:26.3250726Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T01:34:16.3699605Z">
+    <Type>Title</Type>
+    <Name>TypeInfo</Name>
+    <Value>Type Information</Value>
+    <ko_KR>타입 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:42.145795Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T07:51:52.0132988Z">
+    <Type>MenuItem</Type>
+    <Name>CompareWithPreviousResivision</Name>
+    <Value>Compare With Previous Resivision...</Value>
+    <ko_KR>이전 리비전과 비교하기...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:51:24.1954498Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T07:58:20.3605835Z">
+    <Type>MenuItem</Type>
+    <Name>CompareWithLatestRevision</Name>
+    <Value>Compare With Latest Revision...</Value>
+    <ko_KR>최근 리비전과 비교하기...</ko_KR>
+  </StringTable>
+</Content>

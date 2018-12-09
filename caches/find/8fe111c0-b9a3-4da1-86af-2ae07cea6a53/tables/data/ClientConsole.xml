@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-22T06:11:33.5626189Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Console</Item>
+        <Item i:nil="true" />
+        <Item>Console</Item>
+        <Item>콘솔</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T23:52:40.2068532Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>Hello</Item>
+        <Item i:nil="true" />
+        <Item>Hello!</Item>
+        <Item>안녕하세요 !</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T23:52:44.9960616Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>AvaliableCommands</Item>
+        <Item i:nil="true" />
+        <Item>Avaliable Commands:</Item>
+        <Item>사용 가능한 명령들:</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T23:52:54.6056785Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>TypeHelp</Item>
+        <Item i:nil="true" />
+        <Item>type 'help' for usage.</Item>
+        <Item>도움말을 사용하시려면 'help'을(를) 입력하세요.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T23:52:56.1500812Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Comment</Item>
+        <Item>TypeVersion</Item>
+        <Item i:nil="true" />
+        <Item>type '--version' to see the version.</Item>
+        <Item>버전을 확인하시려면 '--version'을(를) 입력하세요.</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

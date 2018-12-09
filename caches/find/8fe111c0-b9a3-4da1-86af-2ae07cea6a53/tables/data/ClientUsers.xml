@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Change</Item>
+        <Item i:nil="true" />
+        <Item>_Change</Item>
+        <Item>변경(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Create</Item>
+        <Item i:nil="true" />
+        <Item>_Create</Item>
+        <Item>생성(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>OK</Item>
+        <Item i:nil="true" />
+        <Item>_OK</Item>
+        <Item>확인(_O)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Reply</Item>
+        <Item i:nil="true" />
+        <Item>_Reply</Item>
+        <Item>답장(_R)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Send</Item>
+        <Item i:nil="true" />
+        <Item>_Send</Item>
+        <Item>보내기(_S)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Authority</Item>
+        <Item i:nil="true" />
+        <Item>Authority</Item>
+        <Item>권한</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>BanDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Banned DateTime</Item>
+        <Item>차단 날짜</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>BanReason</Item>
+        <Item i:nil="true" />
+        <Item>Banned Reason</Item>
+        <Item>차단 사유</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Blocker</Item>
+        <Item i:nil="true" />
+        <Item>Blocker</Item>
+        <Item>차단한 사용자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>CreatedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Created DateTime</Item>
+        <Item>생성 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Creator</Item>
+        <Item i:nil="true" />
+        <Item>Creator</Item>
+        <Item>생성한 사용자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>CurrentPassword</Item>
+        <Item i:nil="true" />
+        <Item>Current Password</Item>
+        <Item>현재 비밀번호</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ID</Item>
+        <Item i:nil="true" />
+        <Item>ID</Item>
+        <Item>아이디</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>KickReason</Item>
+        <Item i:nil="true" />
+        <Item>Kicked Reason</Item>
+        <Item>추방 사유</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>ModifiedDateTime</Item>
+        <Item i:nil="true" />
+        <Item>Modified DateTime</Item>
+        <Item>변경 일자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Modifier</Item>
+        <Item i:nil="true" />
+        <Item>Modifier</Item>
+        <Item>변경한 사용자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Name</Item>
+        <Item i:nil="true" />
+        <Item>Name</Item>
+        <Item>이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>NewPassword</Item>
+        <Item i:nil="true" />
+        <Item>New Password</Item>
+        <Item>새 비밀번호</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Password</Item>
+        <Item i:nil="true" />
+        <Item>Password</Item>
+        <Item>비밀번호</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>PasswordConfirm</Item>
+        <Item i:nil="true" />
+        <Item>Confirm Password</Item>
+        <Item>비밀번호 확인</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Path</Item>
+        <Item i:nil="true" />
+        <Item>Path</Item>
+        <Item>경로</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UserAuthority</Item>
+        <Item i:nil="true" />
+        <Item>User Authority</Item>
+        <Item>사용자 권한</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UserFolder</Item>
+        <Item i:nil="true" />
+        <Item>User Folder</Item>
+        <Item>사용자 폴더</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UserID</Item>
+        <Item i:nil="true" />
+        <Item>UserID</Item>
+        <Item>사용자 아이디</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>UserName</Item>
+        <Item i:nil="true" />
+        <Item>User Name</Item>
+        <Item>사용자 이름</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Ban</Item>
+        <Item i:nil="true" />
+        <Item>Ban</Item>
+        <Item>차단</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Change</Item>
+        <Item i:nil="true" />
+        <Item>_Change...</Item>
+        <Item>변경(_C)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ChangePassword</Item>
+        <Item i:nil="true" />
+        <Item>Change _Password...</Item>
+        <Item>비밀번호 변경(_P)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Delete</Item>
+        <Item i:nil="true" />
+        <Item>_Delete...</Item>
+        <Item>삭제(_D)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Kick</Item>
+        <Item i:nil="true" />
+        <Item>Kick</Item>
+        <Item>추방</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Move</Item>
+        <Item i:nil="true" />
+        <Item>_Move...</Item>
+        <Item>이동(_M)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewFolder</Item>
+        <Item i:nil="true" />
+        <Item>_New Folder...</Item>
+        <Item>새 폴더(_N)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewUser</Item>
+        <Item i:nil="true" />
+        <Item>_New User...</Item>
+        <Item>사용자 추가(_N)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Rename</Item>
+        <Item i:nil="true" />
+        <Item>Rena_me...</Item>
+        <Item>이름 변경(_M)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SendMessage</Item>
+        <Item i:nil="true" />
+        <Item>Send Message</Item>
+        <Item>메세지 보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:46:53.4351574Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetOwner</Item>
+        <Item i:nil="true" />
+        <Item>Set Owner</Item>
+        <Item>소유자 변경하기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Unban</Item>
+        <Item i:nil="true" />
+        <Item>Unban</Item>
+        <Item>차단 해제</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ChangeComplete</Item>
+        <Item i:nil="true" />
+        <Item>Changed completed.</Item>
+        <Item>변경되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>NewUserComplete</Item>
+        <Item i:nil="true" />
+        <Item>User added.</Item>
+        <Item>사용자를 추가했습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Change</Item>
+        <Item i:nil="true" />
+        <Item>Changing.</Item>
+        <Item>변경중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>NewUser</Item>
+        <Item i:nil="true" />
+        <Item>Adding User.</Item>
+        <Item>사용자를 추가중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>SendMessage</Item>
+        <Item i:nil="true" />
+        <Item>Sending message.</Item>
+        <Item>메세지를 보내는중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:48:22.8867146Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>AdministratorMessage_Format</Item>
+        <Item i:nil="true" />
+        <Item>Administrator Message: {0}</Item>
+        <Item>관리자 메세지: {0}</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>BanInfo</Item>
+        <Item i:nil="true" />
+        <Item>Ban Info</Item>
+        <Item>차단 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>BanUser</Item>
+        <Item i:nil="true" />
+        <Item>Ban User</Item>
+        <Item>사용자 차단</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>ChangePassword</Item>
+        <Item i:nil="true" />
+        <Item>Change Password</Item>
+        <Item>비밀번호 변경</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>ChangeUserInfo</Item>
+        <Item i:nil="true" />
+        <Item>Change User Info</Item>
+        <Item>사용자 정보 변경</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DeleteUser</Item>
+        <Item i:nil="true" />
+        <Item>Delete User</Item>
+        <Item>사용자 삭제</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DeleteUserFolder</Item>
+        <Item i:nil="true" />
+        <Item>Delete User Folder</Item>
+        <Item>사용자 폴더 삭제</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>KickEditor</Item>
+        <Item i:nil="true" />
+        <Item>Kick Editor</Item>
+        <Item>편집자 추방</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>KickUser</Item>
+        <Item i:nil="true" />
+        <Item>Kick User</Item>
+        <Item>사용자 추방</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>MoveUser</Item>
+        <Item i:nil="true" />
+        <Item>Move User</Item>
+        <Item>사용자 이동</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>MoveUserFolder</Item>
+        <Item i:nil="true" />
+        <Item>Move User Folder</Item>
+        <Item>사용자 폴더 이동</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NewUser</Item>
+        <Item i:nil="true" />
+        <Item>New User</Item>
+        <Item>사용자 추가</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NewUserFolder</Item>
+        <Item i:nil="true" />
+        <Item>New User Folder</Item>
+        <Item>사용자 폴더 생성</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>NotifyMessage</Item>
+        <Item i:nil="true" />
+        <Item>Notify Message</Item>
+        <Item>전체 메세지 보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>RenameUserFolder</Item>
+        <Item i:nil="true" />
+        <Item>Rename User Folder</Item>
+        <Item>사용자 폴더 이름 변경</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>SendMessage</Item>
+        <Item i:nil="true" />
+        <Item>Send Message</Item>
+        <Item>메세지 보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>UserInfo</Item>
+        <Item i:nil="true" />
+        <Item>User Info</Item>
+        <Item>사용자 정보</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>Users</Item>
+        <Item i:nil="true" />
+        <Item>Users</Item>
+        <Item>사용자들</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>UsersEditingContent</Item>
+        <Item i:nil="true" />
+        <Item>Users who are editing contents</Item>
+        <Item>내용을 편집중인 사용자들</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>UsersEditingTemplate</Item>
+        <Item i:nil="true" />
+        <Item>Users who are editing template</Item>
+        <Item>형태를 편집중인 사용자들</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>ViewMessage</Item>
+        <Item i:nil="true" />
+        <Item>View Message</Item>
+        <Item>메세지 보기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Tooltip</Item>
+        <Item>HasChanges</Item>
+        <Item i:nil="true" />
+        <Item>Changes exist.</Item>
+        <Item>변경사항이 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:46:26.1819095Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Tooltip</Item>
+        <Item>Owner</Item>
+        <Item i:nil="true" />
+        <Item>Owner</Item>
+        <Item>소유자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T08:44:49.1165389Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Tooltip</Item>
+        <Item>Notify</Item>
+        <Item i:nil="true" />
+        <Item>Notify Message</Item>
+        <Item>전체 메세지 보내기</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-28T06:05:28.8399966Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>DataBaseUsers</Item>
+        <Item i:nil="true" />
+        <Item>DataBase Users</Item>
+        <Item>데이터 베이스 사용자</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-07T05:10:37.8067938Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>UserDomainList</Item>
+        <Item i:nil="true" />
+        <Item>User Domain List</Item>
+        <Item>사용자 도메인 목록</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

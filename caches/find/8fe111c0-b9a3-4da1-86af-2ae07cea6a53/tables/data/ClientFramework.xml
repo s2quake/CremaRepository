@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-06T07:38:59.0827033Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToResetSelectedFields</Item>
+        <Item>1</Item>
+        <Item>Do you want to reset selected fields?</Item>
+        <Item>선택된 필드의 값을 초기화 하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-06T07:39:01.7191079Z</DateTime>
+        <ID>admin</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToDeleteSelectedRows_Format</Item>
+        <Item>2</Item>
+        <Item>Do you want to delete selected {0} rows?</Item>
+        <Item>택된 {0}개의 행을 삭제하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToDeleteRow</Item>
+        <Item i:nil="true" />
+        <Item>Do you want to delete row?</Item>
+        <Item>행을 삭제하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToResetField</Item>
+        <Item i:nil="true" />
+        <Item>Do you want to reset field?</Item>
+        <Item>필드의 값을 초기화하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotSelectComplexRanges</Item>
+        <Item i:nil="true" />
+        <Item>Selection of complex ranges is not possible.</Item>
+        <Item>복합적 범위의 선택은 불가능합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.371193Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ItsReadOnly_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' is read only.</Item>
+        <Item>'{0}'은(는) 읽기 전용입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>SettingAuthority</Item>
+        <Item i:nil="true" />
+        <Item>Setting Authority</Item>
+        <Item>권한 설정</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Title</Item>
+        <Item>SettingLock</Item>
+        <Item i:nil="true" />
+        <Item>Setting Lock</Item>
+        <Item>잠금 설정</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>Locking</Item>
+        <Item i:nil="true" />
+        <Item>Lock setting is in progress</Item>
+        <Item>잠금을 설정중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>AccessView1</Item>
+        <Item i:nil="true" />
+        <Item>User or group to invite</Item>
+        <Item>초대할 사용자 또는 그룹</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>AccessView2</Item>
+        <Item i:nil="true" />
+        <Item>Users or Groups with Access Permissions</Item>
+        <Item>접근 권한이 있는 사용자 또는 그룹</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Close</Item>
+        <Item i:nil="true" />
+        <Item>_Close</Item>
+        <Item>닫기(_C)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Button</Item>
+        <Item>Lock</Item>
+        <Item i:nil="true" />
+        <Item>_Lock</Item>
+        <Item>잠금(_L)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Label</Item>
+        <Item>Comment</Item>
+        <Item i:nil="true" />
+        <Item>Comment</Item>
+        <Item>설명</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2017-10-31T06:53:14.3721931Z</DateTime>
+        <ID></ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ColumnRangeExceeded</Item>
+        <Item i:nil="true" />
+        <Item>The range of columns to paste has been exceeded.</Item>
+        <Item>붙여넣기 대상 열의 범위가 초과되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetAuthority</Item>
+        <Item i:nil="true" />
+        <Item>Set _Authority...</Item>
+        <Item>권한 설정(_A)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetPrivate</Item>
+        <Item i:nil="true" />
+        <Item>Set _Private</Item>
+        <Item>비공개로 설정(_P)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>SetPublic</Item>
+        <Item i:nil="true" />
+        <Item>Set _Public</Item>
+        <Item>공개로 설정(_P)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Unlock</Item>
+        <Item i:nil="true" />
+        <Item>_Unlock</Item>
+        <Item>잠금 해제(_U)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Lock</Item>
+        <Item i:nil="true" />
+        <Item>_Lock...</Item>
+        <Item>잠금 설정(_L)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Load</Item>
+        <Item i:nil="true" />
+        <Item>_Load...</Item>
+        <Item>활성화</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Unload</Item>
+        <Item i:nil="true" />
+        <Item>_Unload...</Item>
+        <Item>비활성화</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-08T00:03:47.8124104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ConfirmToSetPrivate</Item>
+        <Item i:nil="true" />
+        <Item>Do you want to set it to Private?</Item>
+        <Item>비공개로 설정하시겠습니까?</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-09T03:49:44.2246438Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Delete</Item>
+        <Item i:nil="true" />
+        <Item>_Delete</Item>
+        <Item>삭제(_D)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-09T03:49:51.1354559Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Find</Item>
+        <Item i:nil="true" />
+        <Item>_Find</Item>
+        <Item>찾기(_F)</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-09T04:04:17.7873786Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Move</Item>
+        <Item i:nil="true" />
+        <Item>_Move...</Item>
+        <Item>이동(_M)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-09T04:04:19.4877816Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Rename</Item>
+        <Item i:nil="true" />
+        <Item>_Rename...</Item>
+        <Item>이름 변경(_R)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-20T06:15:31.0859959Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>Copy</Item>
+        <Item i:nil="true" />
+        <Item>_Copy...</Item>
+        <Item>복사(_C)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-19T07:52:23.0537689Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>NewFolder</Item>
+        <Item i:nil="true" />
+        <Item>_New Folder</Item>
+        <Item>새 폴더(_N)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-02-27T06:55:46.2411428Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>ViewLog</Item>
+        <Item i:nil="true" />
+        <Item>View Log</Item>
+        <Item>로그 보기(_L)...</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-07T05:39:34.1834436Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>CancelEdit</Item>
+        <Item i:nil="true" />
+        <Item>Cancel Edit</Item>
+        <Item>편집 취소</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-03-07T05:39:34.1834436Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>MenuItem</Item>
+        <Item>EndEdit</Item>
+        <Item i:nil="true" />
+        <Item>End Edit</Item>
+        <Item>편집 종료</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

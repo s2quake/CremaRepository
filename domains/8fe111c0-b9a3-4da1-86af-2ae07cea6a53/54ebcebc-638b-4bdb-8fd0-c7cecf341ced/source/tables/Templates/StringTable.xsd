@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/StringTable" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/StringTable" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="../../types/StringType.xsd" namespace="http://schemas.ntreev.com/crema/types/StringType" />
+  <xs:simpleType name="guid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="ClientBase.Table">
+    <xs:annotation>
+      <xs:appinfo>
+        <TableInfo Creator="admin" />
+        <TableInfo CreatedDateTime="2017-10-23T07:16:01.2646706Z" />
+        <TableInfo Modifier="admin" />
+        <TableInfo ModifiedDateTime="2017-10-25T05:30:21.3826061Z" />
+        <TableInfo ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" />
+        <TableInfo CategoryPath="/client/" />
+        <TableInfo TemplateNamespace="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="Type" xmlns:q1="http://schemas.ntreev.com/crema/types/StringType" type="q1:StringType">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-23T07:16:08.9674458Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-23T07:16:24.8392601Z" />
+            <ColumnInfo ID="867a16ca-14f2-4d9f-9fd5-369db4fdb32c" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="Name" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-23T07:16:14.2230698Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-23T07:16:25.3766315Z" />
+            <ColumnInfo ID="433aecf8-7727-434a-bc6f-39f39da28def" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="Comment" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-23T07:16:18.3312332Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-23T07:16:18.3312332Z" />
+            <ColumnInfo ID="ef0b7b57-02bd-4eb1-855d-56cde5678e3a" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="Value" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-23T07:16:22.1143688Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-23T07:16:22.1143688Z" />
+            <ColumnInfo ID="5d120517-873c-4042-a9af-ae13de2540af" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="ko_KR" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-23T09:20:19.5441634Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-23T09:20:19.5441634Z" />
+            <ColumnInfo ID="6d260fce-ea66-4244-98f3-2adb5c3fdaa4" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute default="" name="Creator" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="CreatedDateTime" type="xs:dateTime" />
+    <xs:attribute default="" name="Modifier" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="ModifiedDateTime" type="xs:dateTime" />
+    <xs:attribute default="All" name="Tags" type="xs:string" use="optional" />
+    <xs:attribute default="true" name="Enable" type="xs:boolean" use="optional" />
+    <xs:attribute name="RelationID" type="xs:string" />
+    <xs:attribute name="ParentID" type="xs:string" />
+  </xs:complexType>
+  <xs:element name="Content">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="StringTable" type="ClientBase.Table" />
+      </xs:sequence>
+      <xs:attribute name="Version" type="xs:string" use="required" />
+      <xs:attribute name="ClientBase.CreatedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ClientBase.Creator" type="xs:string" use="optional" />
+      <xs:attribute name="ClientBase.ModifiedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ClientBase.Modifier" type="xs:string" use="optional" />
+      <xs:attribute name="ClientBase.Count" type="xs:int" use="optional" />
+      <xs:attribute name="ClientBase.ID" type="xs:string" use="optional" />
+    </xs:complexType>
+    <xs:key name="ClientBase.Key">
+      <xs:selector xpath="t:StringTable" />
+      <xs:field xpath="t:Type" />
+      <xs:field xpath="t:Name" />
+    </xs:key>
+  </xs:element>
+</xs:schema>

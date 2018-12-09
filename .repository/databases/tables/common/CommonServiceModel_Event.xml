@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-04-26T07:08:04.568693Z"
+  StringTable.Count="74"
+  StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>AddAccessMemberToTableItem</Name>
+    <Value>'{0}({1})' added '{3}' to the user list of table item '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>AddAccessMemberToTypeItem</Name>
+    <Value>'{0}({1})' added '{3}' to the user list of type item '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에 '{3}'을(를) 추가했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>BanUser</Name>
+    <Value>'{0}({1})' banned user '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>BeginDomain</Name>
+    <Value>'{0}({1})' created domain '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 작업 공간 '{2}'을 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CancelDomain</Name>
+    <Value>'{0}({1})' has canceled domain '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 작업 공간 '{2}'을 취소했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:19.0764463Z">
+    <Type>None</Type>
+    <Name>ChangeTableContent</Name>
+    <Value>'{0}({1})' changed contents of Table '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'의 내용을 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:22.7736528Z">
+    <Type>None</Type>
+    <Name>ChangeTableTemplate</Name>
+    <Value>'{0}({1})' changed template of Table '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'의 형태를 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:26.9856602Z">
+    <Type>None</Type>
+    <Name>ChangeTypeTemplate</Name>
+    <Value>'{0}({1})' changed template of Type '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 '{2}'의 형태를 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:11.541633Z">
+    <Type>None</Type>
+    <Name>ChangeUserInfo</Name>
+    <Value>'{0}({1})' changed information of user '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'의 정보를 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateDataBase</Name>
+    <Value>'{0}({1})' created database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateTable</Name>
+    <Value>'{0}({1})' created table '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateTableCategory</Name>
+    <Value>'{0}({1})' created table path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateType</Name>
+    <Value>'{0}({1})' created type '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateTypeCategory</Name>
+    <Value>'{0}({1})' created type path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:02.2128166Z">
+    <Type>None</Type>
+    <Name>CreateUser</Name>
+    <Value>'{0}({1})' created user '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>CreateUserCategory</Name>
+    <Value>'{0}({1})' created user path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 생성했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>DeleteDataBase</Name>
+    <Value>'{0}({1})' deleted database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>DeleteTable</Name>
+    <Value>'{0}({1})' deleted table '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>DeleteTableCategory</Name>
+    <Value>'{0}({1})' deleted table path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 경로 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>DeleteType</Name>
+    <Value>'{0}({1})' deleted type '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:32.4635644Z">
+    <Type>None</Type>
+    <Name>DeleteTypeCategory</Name>
+    <Value>'{0}({1})' deleted type path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 경로 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T04:32:04.8922874Z">
+    <Type>None</Type>
+    <Name>DeleteUser</Name>
+    <Value>'{0}({1})' deleted user '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:29:48.5315926Z">
+    <Type>None</Type>
+    <Name>DeleteUserCategory</Name>
+    <Value>'{0}({1})' deleted user path '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 경로 '{2}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:30:53.677307Z">
+    <Type>None</Type>
+    <Name>EndDomain</Name>
+    <Value>'{0}({1})' has exited domain '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 작업 공간 '{2}'을 종료했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:34:15.715262Z">
+    <Type>None</Type>
+    <Name>EnterDataBase</Name>
+    <Value>'{0}({1})' has entered database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'에 참여했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:34:23.5620758Z">
+    <Type>None</Type>
+    <Name>EnterDomainUser</Name>
+    <Value>'{0}({1})' has entered domain '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 작업 공간 '{2}'에 참여했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:34:57.8821361Z">
+    <Type>None</Type>
+    <Name>KickDomainUser</Name>
+    <Value>'{0}({1})' kicked '{2}({3})' from domain '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'에서 추방했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:35:11.6579603Z">
+    <Type>None</Type>
+    <Name>KickUser</Name>
+    <Value>'{0}({1})' kicked user '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 추방했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:36:07.6620587Z">
+    <Type>None</Type>
+    <Name>LeaveDataBase</Name>
+    <Value>'{0}({1})' has left database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 떠났습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:36:12.9192679Z">
+    <Type>None</Type>
+    <Name>LeaveDomainUser</Name>
+    <Value>'{0}({1})' has left domain '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 작업 공간 '{2}'을(를) 떠났습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:37:43.6344273Z">
+    <Type>None</Type>
+    <Name>LoadDataBase</Name>
+    <Value>'{0}({1})' has activated database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 활성화 상태로 전환했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:38:12.4164779Z">
+    <Type>None</Type>
+    <Name>LockTableItem</Name>
+    <Value>'{0}({1})' locked table item.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목의 잠금을 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:38:18.204088Z">
+    <Type>None</Type>
+    <Name>LockTypeItem</Name>
+    <Value>'{0}({1})' locked type item.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목의 잠금을 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:39:46.0176423Z">
+    <Type>None</Type>
+    <Name>LoginUser</Name>
+    <Value>'{0}({1})' has logged in crema service.</Value>
+    <ko_KR>'{0}({1})'이(가) 크레마 서비스에 참여했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:39:51.6648522Z">
+    <Type>None</Type>
+    <Name>LogoutUser</Name>
+    <Value>'{0}({1})' has logged out crema service.</Value>
+    <ko_KR>'{0}({1})'이(가) 크레마 서비스를 떠났습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:44:16.3827172Z">
+    <Type>None</Type>
+    <Name>MoveTable</Name>
+    <Value>'{0}({1})' moved table '{2}' from '{3}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:44:29.7363407Z">
+    <Type>None</Type>
+    <Name>MoveTableCategory</Name>
+    <Value>'{0}({1})' moved table path '{2}' from '{3}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:44:39.002757Z">
+    <Type>None</Type>
+    <Name>MoveType</Name>
+    <Value>'{0}({1})' moved type '{2}' from '{3}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:44:42.7311635Z">
+    <Type>None</Type>
+    <Name>MoveTypeCategory</Name>
+    <Value>'{0}({1})' moved type path '{2}' from '{3}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:45:10.5616124Z">
+    <Type>None</Type>
+    <Name>MoveUser</Name>
+    <Value>'{0}({1})' moved user '{2}({3})' from '{4}' to '{5}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'의 위치를 '{4}'에서 '{5}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:45:00.7647952Z">
+    <Type>None</Type>
+    <Name>MoveUserCategory</Name>
+    <Value>'{0}({1})' moved user path '{2}' from '{3}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 경로 '{2}'의 위치를 '{3}'에서 '{4}'로 이동했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T05:43:22.8688676Z">
+    <Type>None</Type>
+    <Name>NotifyMessage</Name>
+    <Value>'{0}({1})' notified to '{2}'.
+notification : "{3}"</Value>
+    <ko_KR>'{0}({1})'이(가) '{2}'에게 알림을 보냈습니다.
+알림 : "{3}"</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:45:27.1610416Z">
+    <Type>None</Type>
+    <Name>Reason</Name>
+    <Value>Reason</Value>
+    <ko_KR>사유</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:46:11.5743196Z">
+    <Type>None</Type>
+    <Name>RemoveAccessMemberFromTableItem</Name>
+    <Value>'{0}({1})' removed '{3}' to the user list of table item '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:46:16.3947281Z">
+    <Type>None</Type>
+    <Name>RemoveAccessMemberFromTypeItem</Name>
+    <Value>'{0}({1})' removed '{3}' to the user list of type item '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:10.7150236Z">
+    <Type>None</Type>
+    <Name>RenameDataBase</Name>
+    <Value>'{0}({1})' renamed  database '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:05.301814Z">
+    <Type>None</Type>
+    <Name>RenameTable</Name>
+    <Value>'{0}({1})' renamed  table '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:17.5322355Z">
+    <Type>None</Type>
+    <Name>RenameTableCategory</Name>
+    <Value>'{0}({1})' renamed  table path '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:27.0014522Z">
+    <Type>None</Type>
+    <Name>RenameType</Name>
+    <Value>'{0}({1})' renamed  type '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:31.7906606Z">
+    <Type>None</Type>
+    <Name>RenameTypeCategory</Name>
+    <Value>'{0}({1})' renamed  type path '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:47:43.4906811Z">
+    <Type>None</Type>
+    <Name>RenameUserCategory</Name>
+    <Value>'{0}({1})' renamed  user path '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 경로 '{2}'의 이름을 '{3}'로 변경했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:48:07.0155224Z">
+    <Type>None</Type>
+    <Name>RevertDataBase</Name>
+    <Value>'{0}({1})' revert revision of database '{2}' to '{3}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 리비전을 '{3}'으로 되돌렸습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T05:43:36.6904919Z">
+    <Type>None</Type>
+    <Name>SendMessage</Name>
+    <Value>'{0}({1})' send message '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) '{2}({3})'에게 문자를 보냈습니다.
+문자 : "{4}"</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T08:30:01.8867792Z">
+    <Type>None</Type>
+    <Name>SetDomainOwner</Name>
+    <Value>'{0}({1})' set owner of domain '{4}' to '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) '{2}({3})'을(를) 작업 공간 '{4}'의 소유자로 임명했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:54:48.1254271Z">
+    <Type>None</Type>
+    <Name>SetPrivateTableItem</Name>
+    <Value>'{0}({1})' set authority of table item '{2}' to private.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:55:06.7986599Z">
+    <Type>None</Type>
+    <Name>SetPrivateTypeItem</Name>
+    <Value>'{0}({1})' set authority of type item '{2}' to private.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 비공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:55:12.6652702Z">
+    <Type>None</Type>
+    <Name>SetPublicTableItem</Name>
+    <Value>'{0}({1})' set authority of table item '{2}' to public.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:55:15.2080747Z">
+    <Type>None</Type>
+    <Name>SetPublicTypeItem</Name>
+    <Value>'{0}({1})' set authority of type item '{2}' to public.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목 '{2}'의 사용자 권한을 공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:56:18.6221861Z">
+    <Type>None</Type>
+    <Name>UnbanUser</Name>
+    <Value>'{0}({1})' unbanned user '{2}({3})'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 차단 해제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:39:22.7580015Z">
+    <Type>None</Type>
+    <Name>UnloadDataBase</Name>
+    <Value>'{0}({1})' has inactivated database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'을(를) 비활성화 상태로 전환했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:39:01.6979645Z">
+    <Type>None</Type>
+    <Name>UnlockTableItem</Name>
+    <Value>'{0}({1})' unlocked table item.</Value>
+    <ko_KR>'{0}({1})'이(가) 테이블 항목의 잠금을 해제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:32:49.3752868Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T01:38:57.3143568Z">
+    <Type>None</Type>
+    <Name>UnlockTypeItem</Name>
+    <Value>'{0}({1})' unlocked type item.</Value>
+    <ko_KR>'{0}({1})'이(가) 타입 항목의 잠금을 해제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T02:29:09.1713637Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T02:29:17.1585777Z">
+    <Type>None</Type>
+    <Name>UnlockDataBase</Name>
+    <Value>'{0}({1})' unlocked database.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터 베이스의 잠금을 해제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T02:29:09.1713637Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T07:19:09.7081391Z">
+    <Type>None</Type>
+    <Name>LockDataBase</Name>
+    <Value>'{0}({1})' locked database: "{2}"</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다: "{2}"</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>RemoveAccessMemberFromDataBase</Name>
+    <Value>'{0}({1})' removed '{3}' to the user list of database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>SetPrivateDataBase</Name>
+    <Value>'{0}({1})' set authority of database '{2}' to private.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 비공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:15.8555172Z">
+    <Type>None</Type>
+    <Name>SetPublicDataBase</Name>
+    <Value>'{0}({1})' set authority of database '{2}' to public.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:07:30.6560595Z">
+    <Type>None</Type>
+    <Name>AddAccessMemberToDataBase</Name>
+    <Value>'{0}({1})' added '{3}({4})' to the user list of database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에 '{3}({4})'을(를) 추가했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfDataBase</Name>
+    <Value>'{0}({1})' set type of '{3}' user of database '{2}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T07:48:28.5150291Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T07:48:28.5150291Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfTableItem</Name>
+    <Value>{0}({1})' set type of '{3}' user of table item '{2}' to '{4}'.</Value>
+    <ko_KR>{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T07:48:28.5150291Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T07:48:28.5150291Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfTypeItem</Name>
+    <Value>{0}({1})' set type of '{3}' user of type item '{2}' to '{4}'.</Value>
+    <ko_KR>{0}({1})'이(가) 타입 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-26T01:06:14.8373618Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-26T01:07:26.098287Z">
+    <Type>None</Type>
+    <Name>ResetDataBase</Name>
+    <Value>database '{2}' reset by '{0}({1})'</Value>
+    <ko_KR>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-26T07:07:45.81746Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-26T07:08:04.568693Z">
+    <Type>None</Type>
+    <Name>ResettingDataBase</Name>
+    <Value>database '{2}' is resetting by '{0}({1})'</Value>
+    <ko_KR>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되는중입니다.</ko_KR>
+  </StringTable>
+</Content>

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonPresentation ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.ModifiedDateTime="2017-10-31T06:53:14.405216Z"
+  StringTable.Count="26"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>AddItemToLeftSide</Name>
+    <Value>Add item to left side</Value>
+    <ko_KR>좌측에 행 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>AddItemToRightSide</Name>
+    <Value>Add item to right side</Value>
+    <ko_KR>우측에 행 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>CopyFieldToLeftSide</Name>
+    <Value>Copy field to left side</Value>
+    <ko_KR>좌측에 값 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>CopyFieldToRightSide</Name>
+    <Value>Copy field to right side</Value>
+    <ko_KR>우측에 값 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>CopyItemToLeftSide</Name>
+    <Value>Copy item to left side</Value>
+    <ko_KR>좌측에 행 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>CopyItemToRightSide</Name>
+    <Value>Copy item to right side</Value>
+    <ko_KR>우측에 행 복사</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>Delete</Name>
+    <Value>Delete</Value>
+    <ko_KR>삭제(_D)</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4032155Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4032155Z">
+    <Type>Command</Type>
+    <Name>Merge</Name>
+    <Value>Merge</Value>
+    <ko_KR>병합</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Command</Type>
+    <Name>NextDifferenceField</Name>
+    <Value>Next difference field</Value>
+    <ko_KR>다른 다음 값으로</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Command</Type>
+    <Name>NextDifferenceItem</Name>
+    <Value>Next difference item</Value>
+    <ko_KR>다른 다음 항목으로</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Command</Type>
+    <Name>PrevDifferenceField</Name>
+    <Value>Previous difference field</Value>
+    <ko_KR>다른 이전 값으로</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Command</Type>
+    <Name>PrevDifferenceItem</Name>
+    <Value>Previous difference item</Value>
+    <ko_KR>다른 이전 항목으로</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Command</Type>
+    <Name>Resolve</Name>
+    <Value>Resolve</Value>
+    <ko_KR>해결됨으로 표시</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Label</Type>
+    <Name>CreatedDateTime</Name>
+    <Value>Created DateTime</Value>
+    <ko_KR>생성 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Label</Type>
+    <Name>CreationInfo</Name>
+    <Value>Creation Info</Value>
+    <ko_KR>생성 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.4042159Z"
+    ModifiedDateTime="2017-10-31T06:53:14.4042159Z">
+    <Type>Label</Type>
+    <Name>Creator</Name>
+    <Value>Creator</Value>
+    <ko_KR>생성한 사람</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>IsFlag</Name>
+    <Value>IsFlag</Value>
+    <ko_KR>플래그 집합</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>ModificationInfo</Name>
+    <Value>Modification Info</Value>
+    <ko_KR>변경 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>ModifiedDateTime</Name>
+    <Value>Modified DateTime</Value>
+    <ko_KR>변경 일자</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>Modifier</Name>
+    <Value>Modifier</Value>
+    <ko_KR>변경한 사람</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>Name</Name>
+    <Value>Name</Value>
+    <ko_KR>이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>TableName</Name>
+    <Value>Table Name</Value>
+    <ko_KR>테이블 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>Tags</Name>
+    <Value>Tags</Value>
+    <ko_KR>태그</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>TypeName</Name>
+    <Value>Type Name</Value>
+    <ko_KR>타입 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    CreatedDateTime="2017-10-31T06:53:14.405216Z"
+    ModifiedDateTime="2017-10-31T06:53:14.405216Z">
+    <Type>Label</Type>
+    <Name>Value</Name>
+    <Value>Value</Value>
+    <ko_KR>값</ko_KR>
+  </StringTable>
+</Content>

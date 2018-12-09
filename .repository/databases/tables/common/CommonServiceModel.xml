@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-05-11T02:22:21.3996863Z"
+  StringTable.Count="27"
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>CannotRename</Name>
+    <Value>Could not rename to same name.</Value>
+    <ko_KR>같은 이름으로 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-23T01:02:56.4738202Z">
+    <Type>Exception</Type>
+    <Name>CategoryNotFound_Format</Name>
+    <Value>Could not find category path '{0}'.</Value>
+    <ko_KR>"{0}" 경로를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-23T01:05:56.9489379Z">
+    <Type>Exception</Type>
+    <Name>DataBaseNotFound_Format</Name>
+    <Value>Could not find database '{0}'.</Value>
+    <ko_KR>"{0}" 데이터 베이스를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>DomainNotFound_Format</Name>
+    <Value>Could not find domain ID "{0}".</Value>
+    <ko_KR>"{0}" 도메인 아이디를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-23T01:12:31.1832307Z">
+    <Type>Exception</Type>
+    <Name>ItemNotFound_Format</Name>
+    <Value>Could not find item '{0}'.</Value>
+    <ko_KR>"{0}" 아이템 경로를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>TableNotFound_Format</Name>
+    <Value>Could not find table "{0}".</Value>
+    <ko_KR>"{0}" 테이블을 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>TypeNotFound_Format</Name>
+    <Value>Could not find type "{0}".</Value>
+    <ko_KR>"{0}" 타입을 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>UserNotFound_Format</Name>
+    <Value>Could not find UserID "{0}".</Value>
+    <ko_KR>"{0}" 사용자 아이디를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6240804Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6240804Z">
+    <Type>Exception</Type>
+    <Name>AlreadyPublic</Name>
+    <Value>It is already set to public.</Value>
+    <ko_KR>이미 공개 사용으로 설정되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>AlreadyPrivate</Name>
+    <Value>It is already set to private.</Value>
+    <ko_KR>이미 개인 사용으로 설정되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>InvalidIDorPath</Name>
+    <Value>Invalid ID or invalid path.</Value>
+    <ko_KR>잘못된 아이디이거나 잘못된 경로입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>CannotAddToPublic</Name>
+    <Value>Unable to add user because it is set to public.</Value>
+    <ko_KR>공개 사용으로 설정되어 있기 때문에 사용자를 추가할 수 없습니다..</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>CannotRemoveToPublic</Name>
+    <Value>Unable to remove user because it is set to public.</Value>
+    <ko_KR>공개 사용으로 설정되어 있기 때문에 사용자를 삭제할 수 없습니다..</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>AlreadyLocked</Name>
+    <Value>It's already locked.</Value>
+    <ko_KR>이미 잠겨 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>NotLocked</Name>
+    <Value>It's not locked.</Value>
+    <ko_KR>잠겨 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveToSameFolder</Name>
+    <Value>Cannot to move to the same folder.</Value>
+    <ko_KR>같은 폴더로 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>InheritedChildCannotRename</Name>
+    <Value>Inherited child table cannot rename.</Value>
+    <ko_KR>상속된 자식 테이블은 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>InheritedChildCannotMove</Name>
+    <Value>Inherited child table cannot move.</Value>
+    <ko_KR>상속된 자식 테이블은 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>InheritedChildCannotDelete</Name>
+    <Value>Inherited child table cannot delete.</Value>
+    <ko_KR>상속된 자식 테이블은 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>CannotSetTemplateToInherited</Name>
+    <Value>Cannot to set template to inherited table.</Value>
+    <ko_KR>상속된 테이블에 템플릿을 지정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>CannotSetTemplateItself</Name>
+    <Value>Cannot to set itself as template.</Value>
+    <ko_KR>자기 자신을 템플릿으로 지정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.6250814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.6250814Z">
+    <Type>Exception</Type>
+    <Name>RootFolderCannotRename</Name>
+    <Value>Root folder cannot rename.</Value>
+    <ko_KR>최상위 폴더는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.626082Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.626082Z">
+    <Type>Exception</Type>
+    <Name>RootFolderCannotMove</Name>
+    <Value>Root folder cannot move</Value>
+    <ko_KR>최상위 폴더는 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.626082Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.626082Z">
+    <Type>Exception</Type>
+    <Name>HaveNotPermission</Name>
+    <Value>You do not have permission to perform</Value>
+    <ko_KR>작업 수행 권한을 가지고 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.626082Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.626082Z">
+    <Type>Exception</Type>
+    <Name>InheritedPrivateItemCannotAdd</Name>
+    <Value>Inherited private item cannot add user</Value>
+    <ko_KR>개인 사용 설정이 상속된 객체이기 때문에 사용자를 추가할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T02:00:43.626082Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T02:00:43.626082Z">
+    <Type>Exception</Type>
+    <Name>InheritedPrivateItemCannotRemove</Name>
+    <Value>Inherited private item cannot remove user</Value>
+    <ko_KR>개인 사용 설정이 상속된 객체이기 때문에 사용자를 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:22:21.3996863Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:22:21.3996863Z">
+    <Type>Exception</Type>
+    <Name>AuthenticationDoesNotSigned</Name>
+    <Value>authentication does not signed.</Value>
+    <ko_KR>서명되지 않은 인증입니다.</ko_KR>
+  </StringTable>
+</Content>

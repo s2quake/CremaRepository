@@ -1,0 +1,1636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com">
+  <Columns>
+    <Item>Type</Item>
+    <Item>Name</Item>
+    <Item>Comment</Item>
+    <Item>Value</Item>
+    <Item>ko_KR</Item>
+  </Columns>
+  <Rows>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:11:27.5949876Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteUserCategory</Item>
+        <Item i:nil="true" />
+        <Item>Folder could not be deleted because user exists.</Item>
+        <Item>사용자가 존재하기 때문에 폴더를 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:13:08.7143652Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>PermissionDenied</Item>
+        <Item i:nil="true" />
+        <Item>You do not have permission to perform the operation.</Item>
+        <Item>작업을 수행할 수 있는 권한을 가지고 있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:14:31.4101104Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteBaseTemplateTable</Item>
+        <Item i:nil="true" />
+        <Item>You can not delete a table that is the default template.</Item>
+        <Item>기본 템플릿인 테이블은 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:16:10.0178836Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotEndEdit</Item>
+        <Item i:nil="true" />
+        <Item>Unable to end editing.</Item>
+        <Item>편집을 종료할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:17:09.3759879Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainContextInitialize</Item>
+        <Item i:nil="true" />
+        <Item>DomainContext initialize.</Item>
+        <Item>DomainContext initialize.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:17:29.5312233Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainContextIsCreated</Item>
+        <Item i:nil="true" />
+        <Item>DomainContext is created.</Item>
+        <Item>DomainContext is created.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:18:30.5429304Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainState_Format</Item>
+        <Item i:nil="true" />
+        <Item>&lt;{0} detection. {1} restored. {2} failed.&gt;</Item>
+        <Item>&lt;{0} detection. {1} restored. {2} failed.&gt;</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:06:43.2110848Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainIsRestored_Format</Item>
+        <Item i:nil="true" />
+        <Item>Domain restoration completed : {0}</Item>
+        <Item>도메인 복구 완료 : {0}</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:06:54.3027043Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainRestorationIsFailed_Format</Item>
+        <Item i:nil="true" />
+        <Item>Domain restoration failed : {0}</Item>
+        <Item>도메인 복구 실패 : {0}</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:05:52.7917963Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>DomainRestorationMessage</Item>
+        <Item i:nil="true" />
+        <Item>A crash was detected. The previous session did not exit normally.
+The server will automatically attempt to restore from a data not yet saved.</Item>
+        <Item>충돌이 감지되었습니다. 이전 세션이 정상적으로 종료되지 않았습니다.
+서버가 아직 저장되지 않은 데이터에서 자동으로 복구을 시도합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:21:30.192846Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableCannotEditTemplate</Item>
+        <Item i:nil="true" />
+        <Item>상속받은 테이블은 테이블의 형태를 변경할 수 없습니다.</Item>
+        <Item>상속받은 테이블은 테이블의 형태를 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:21:44.9816719Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableCannotNewChild</Item>
+        <Item i:nil="true" />
+        <Item>상속받은 테이블은 자식 테이블을 생성할 수 없습니다.</Item>
+        <Item>상속받은 테이블은 자식 테이블을 생성할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:29:13.5524102Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidName_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' is incorrect name.</Item>
+        <Item>'{0}' 은(는) 잘못된 이름입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:21:55.1941328Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidUserID</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid UserID</Item>
+        <Item>잘못된 형식의 아이디입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:12:15.9284692Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>LoadTables</Item>
+        <Item i:nil="true" />
+        <Item>Load Tables</Item>
+        <Item>테이블 로드</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:12:32.1212977Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>LoggedInUserCannotDelete</Item>
+        <Item i:nil="true" />
+        <Item>로그인 되어 있는 아이디는 삭제할 수 없습니다.</Item>
+        <Item>로그인 되어 있는 아이디는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:07:32.7411718Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>NotFoundDomainsToRestore</Item>
+        <Item i:nil="true" />
+        <Item>There are no domains to restore.</Item>
+        <Item>복구할 도메인이 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:23:45.9442844Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ProgramInfo</Item>
+        <Item i:nil="true" />
+        <Item>{0} [Version {1}]</Item>
+        <Item>{0} [Version {1}]</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:11:08.6611511Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>RestoreResult_Format</Item>
+        <Item i:nil="true" />
+        <Item>========= Restoration: Suceess {0}, Fail {1} ==========</Item>
+        <Item>============= 복구: 성공 {0}, 실패 {1} ==============</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:24:27.0603995Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>SameName</Item>
+        <Item i:nil="true" />
+        <Item>Can not change to the same name.</Item>
+        <Item>같은 이름으로 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:25:39.8033273Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>SameTableNameExist</Item>
+        <Item i:nil="true" />
+        <Item>Table with same name already exists.</Item>
+        <Item>같은 이름의 테이블이 이미 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:07:49.7296017Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>ServiceStart</Item>
+        <Item i:nil="true" />
+        <Item>===================  Service Start  ===================</Item>
+        <Item>===================  서비스 시작  ===================</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:12:07.9256552Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>TableContextInitialize</Item>
+        <Item i:nil="true" />
+        <Item>Table Context initialized.</Item>
+        <Item>테이블 관리자 초기화</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:11:49.1276222Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>TableContextIsCreated</Item>
+        <Item i:nil="true" />
+        <Item>Table Context created.</Item>
+        <Item>테이블 관리자 생성 완료</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:59:22.7784648Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TableIsBeingEdited_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' 테이블이 편집중입니다.</Item>
+        <Item>'{0}' 테이블이 편집중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:25:42.97569Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TableIsBeingSetup_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' 테이블은 형태 변경중입니다.</Item>
+        <Item>'{0}' 테이블은 형태 변경중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:11:51.296026Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>TableLoadingIsCompleted</Item>
+        <Item i:nil="true" />
+        <Item>Table Loading completed.</Item>
+        <Item>테이블 로딩 완료</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:59:26.1168707Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TypeIsBeingEdited_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' 타입이 편집중입니다.</Item>
+        <Item>'{0}' 타입이 편집중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:26:32.0065761Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>UserContextInitialize</Item>
+        <Item i:nil="true" />
+        <Item>UserContext initialize.</Item>
+        <Item>UserContext initialize.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:26:51.9590111Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Message</Item>
+        <Item>UserContextIsCreated</Item>
+        <Item i:nil="true" />
+        <Item>UserContext is created.</Item>
+        <Item>UserContext is created.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:27:19.6646598Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIDisAlreadyResitered</Item>
+        <Item i:nil="true" />
+        <Item>이미 등록된 아이디입니다.</Item>
+        <Item>이미 등록된 아이디입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T00:27:28.4630752Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIDIsConnecting</Item>
+        <Item i:nil="true" />
+        <Item>현재 접속중인 아이디입니다.</Item>
+        <Item>현재 접속중인 아이디입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:24:47.5432355Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>WrongIDOrPassword</Item>
+        <Item i:nil="true" />
+        <Item>Incorrect UserID or password</Item>
+        <Item>아이디/패스워드가 틀렸습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:25:22.2376964Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>SameTypeNameExist</Item>
+        <Item i:nil="true" />
+        <Item>Type with same name already exists.
+</Item>
+        <Item>같은 이름의 타입이 이미 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:27:26.4533948Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>Expired</Item>
+        <Item i:nil="true" />
+        <Item>It has been expired.</Item>
+        <Item>만료되었습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:27:34.534209Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>Commissioned</Item>
+        <Item i:nil="true" />
+        <Item>It's already been commissioned.</Item>
+        <Item>이미 위임중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:29:14.2495841Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotClosed</Item>
+        <Item i:nil="true" />
+        <Item>It is not closed.</Item>
+        <Item>닫혀있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:29:49.9736469Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidToken</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid token</Item>
+        <Item>유효한 토큰이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:30:33.4665232Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidObject</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid object.</Item>
+        <Item>유효하지 않은 객체입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:31:10.2669879Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotInDataBase</Item>
+        <Item i:nil="true" />
+        <Item>It cannot work operation, because you are not in database</Item>
+        <Item>데이터베이스에 참여하고 있지 않으므로 작업을 수행할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:41:19.1048573Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InvalidPassword</Item>
+        <Item i:nil="true" />
+        <Item>It is not valid password</Item>
+        <Item>유효한 암호가 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-04-05T01:45:49.1413315Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>EmptyStringCannotSend</Item>
+        <Item i:nil="true" />
+        <Item>Empty string cannot send.</Item>
+        <Item>빈 문자열은 보낼 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:41:04.5179823Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>DataBaseHasBeenLoaded</Item>
+        <Item i:nil="true" />
+        <Item>DataBase has been loaded.</Item>
+        <Item>데이터 베이스가 활성화되어 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:41:12.2243958Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>DataBaseHasNotBeenLoaded</Item>
+        <Item i:nil="true" />
+        <Item>DataBase has not been loaded.</Item>
+        <Item>데이터 베이스가 활성화되어 있지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:43:44.0438625Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AlreadyInDataBase</Item>
+        <Item i:nil="true" />
+        <Item>It is already in database</Item>
+        <Item>이미 데이터베이스에 참여하고 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:48:13.1131351Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>LoadedDataBaseCannotRevert</Item>
+        <Item i:nil="true" />
+        <Item>It can not revert from loaded database.</Item>
+        <Item>활성화된 데이터베이스에서는 되돌릴수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:50:01.4397253Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NotFoundRevision_Format</Item>
+        <Item>revision</Item>
+        <Item>Revision '{0}' can not found.</Item>
+        <Item>'{0}' 리비전을 찾을 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:55:39.2115186Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ExistsPath_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' path is already existed.</Item>
+        <Item>'{0}' 경로가 이미 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T01:56:50.597244Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>DataBaseIsAlreadyExisted_Format</Item>
+        <Item i:nil="true" />
+        <Item>DataBase '{0}' is already existed.</Item>
+        <Item>'{0}'은(는) 이미 존재하는 데이터베이스입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:13:33.3670052Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ItIsAlreadyBeingEdited</Item>
+        <Item i:nil="true" />
+        <Item>It is already being edited.</Item>
+        <Item>이미 편집중입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T02:16:26.0905086Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ItemIsAlreadyLocked_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' is already locked.</Item>
+        <Item>'{0}'은(는) 이미 잠겨있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:12:36.229551Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>IncorrectPassword</Item>
+        <Item i:nil="true" />
+        <Item>Incorrect password.</Item>
+        <Item>암호가 틀렸습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:13:58.4728955Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotChangeToOldPassword</Item>
+        <Item i:nil="true" />
+        <Item>Can not change to old password.</Item>
+        <Item>이전 암호로 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:16:09.3259253Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>EmptyStringIsNotAllowed</Item>
+        <Item i:nil="true" />
+        <Item>Empty string is not allowed.</Item>
+        <Item>빈 문자열은 허용되지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:17:08.7308296Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotSendMessageToOfflineUser</Item>
+        <Item i:nil="true" />
+        <Item>Can not send message to offline user.</Item>
+        <Item>연결되지 않은 사용자에게는 문자열을 보낼 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-10T04:27:52.5595605Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ChildTableCannotReadIndependently</Item>
+        <Item i:nil="true" />
+        <Item>Child tables can not read data independently.</Item>
+        <Item>자식테이블은 독립적으로 데이터를 읽어들일 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:05:01.9827376Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableCannotSetTags</Item>
+        <Item i:nil="true" />
+        <Item>Inherited table can not set tags</Item>
+        <Item>상속받은 테이블은 태그를 설정할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:41:10.308546Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableCannotSetComment</Item>
+        <Item i:nil="true" />
+        <Item>Inherited table can not set comment.</Item>
+        <Item>상속받은 테이블은 설명을 설정할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:19:29.4222611Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ChildTableCannotCreateChildTable</Item>
+        <Item i:nil="true" />
+        <Item>Child table can not create child table.</Item>
+        <Item>자식 테이블은 자식 테이블을 생성할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:38.8850393Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRenameOnCreateChildTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not rename on create child table</Item>
+        <Item>자식테이블을 생성중일 때는 이름을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:40.7414426Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotMoveOnCreateChildTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not move on create child table.</Item>
+        <Item>자식테이블을 생성중일 때는 이동할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:42.5510457Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteOnCreateChildTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete on create child table.</Item>
+        <Item>자식테이블을 생성중일 때는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:44.2514487Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRenameOnCreateTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not rename on create table.</Item>
+        <Item>테이블을 생성중일 때는 이름을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:45.8426515Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotMoveOnCreateTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not move on create table.</Item>
+        <Item>테이블을 생성중일 때는 이동할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:49:47.6366547Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteOnCreateTable</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete on create table.</Item>
+        <Item>테이블을 생성중일 때는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:40:57.3917233Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableCannotInherit</Item>
+        <Item i:nil="true" />
+        <Item>Inherited table can not inherit.</Item>
+        <Item>상속받은 테이블은 상속할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:40:59.2949267Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ChildTableCannotInherit</Item>
+        <Item i:nil="true" />
+        <Item>Child table can not inherit.</Item>
+        <Item>자식테이블은 상속할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:41:24.6293712Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ChildTableCannotCopy</Item>
+        <Item i:nil="true" />
+        <Item>Child table can not copy.</Item>
+        <Item>자식테이블은 복사할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:46:09.3454713Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>SameNamePathExists</Item>
+        <Item i:nil="true" />
+        <Item>A path with the same name already exists.</Item>
+        <Item>같은 이름의 경로가 이미 존재합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:50:01.9262798Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeletePathWithItems</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete path with items.</Item>
+        <Item>항목이 있는 경로는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:57:44.9974931Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UnsavedDomainsExists_Format</Item>
+        <Item i:nil="true" />
+        <Item>There are domains that have not yet been saved: '{0}'</Item>
+        <Item>아직 저장되지 않은 도메인이 있습니다: '{0}'</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T01:59:59.6569296Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TableIsNotBeingEdited</Item>
+        <Item i:nil="true" />
+        <Item>Table is not being edited.</Item>
+        <Item>테이블이 편집중이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:01:03.648242Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TableTemplateIsNotBeingEdited</Item>
+        <Item i:nil="true" />
+        <Item>Table template is not being edited.</Item>
+        <Item>테이블 형태가 편집중이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:01:03.648242Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>TypeIsNotBeingEdited</Item>
+        <Item i:nil="true" />
+        <Item>Type is not being edited.</Item>
+        <Item>타입이 편집중이 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:06:16.4755915Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRenameOnCreateType</Item>
+        <Item i:nil="true" />
+        <Item>Can not rename on create Type</Item>
+        <Item>타입을 생성중일 때는 이름을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:06:14.525588Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotMoveOnCreateType</Item>
+        <Item i:nil="true" />
+        <Item>Can not move on create Type</Item>
+        <Item>타입을 생성중일 때는 이동할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:06:12.4507844Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteOnCreateType</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete on create Type</Item>
+        <Item>타입을 생성중일 때는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:06:31.7324183Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteTypeWithUsedTables</Item>
+        <Item i:nil="true" />
+        <Item>Can not delete type with used tables.</Item>
+        <Item>사용중인 테이블이 있는 타입은 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:11:24.3733323Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>InheritedTableTemplateCannotEdit</Item>
+        <Item i:nil="true" />
+        <Item>Inherited table template can not edit.</Item>
+        <Item>상속받은 테이블의 형태는 편집할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:12:18.7550278Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ChildTableCannotEdit</Item>
+        <Item i:nil="true" />
+        <Item>Child table can not edit.</Item>
+        <Item>자식 테이블은 편집할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:25:19.2867987Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>PathIsNotEmptyDirectory</Item>
+        <Item i:nil="true" />
+        <Item>Path is not an empty directory.
+</Item>
+        <Item>비어있는 경로가 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:27:21.6378136Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>NoRepositoryModule</Item>
+        <Item i:nil="true" />
+        <Item>There is no repository module to create</Item>
+        <Item>저장소를 생성할 수 있는 모듈이 존재하지 않습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:30:33.3153503Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>DefaultDataBaseCannotRename</Item>
+        <Item i:nil="true" />
+        <Item>'default' database can not rename.</Item>
+        <Item>'default' 데이터 베이스는 이름을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:30:40.8501635Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>DefaultDataBaseCannotDelete</Item>
+        <Item i:nil="true" />
+        <Item>'default' database can not delete.</Item>
+        <Item>'default' 데이터 베이스는 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:32:36.4931666Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>EmptyDataSetCannotImport</Item>
+        <Item i:nil="true" />
+        <Item>Empty dataset can not import.</Item>
+        <Item>빈 데이터셋은 가져오기를 할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:35:41.8838922Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ItemPathChanged_Format</Item>
+        <Item i:nil="true" />
+        <Item>'{0}' has been changed : '{1}' to '{2}'.</Item>
+        <Item>'{0}' has been changed : '{1}' to '{2}'.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:38:31.5497902Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AtLeastOneColumnInTable</Item>
+        <Item i:nil="true" />
+        <Item>At least one column must exist in the table.</Item>
+        <Item>테이블에는 적어도 한개 이상의 Column이(가) 존재해야 합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:39:08.3658549Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AtLeastOneKeyInTable</Item>
+        <Item i:nil="true" />
+        <Item>At least one key must exist in the table.</Item>
+        <Item>테이블에는 적어도 한개 이상의 키가 존재해야 합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:39:08.3658549Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AtLeastOneMemberInType</Item>
+        <Item i:nil="true" />
+        <Item>At least one member must exist in the type.</Item>
+        <Item>타입에는 적어도 한개 이상의 Member이(가) 존재해야 합니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:41:11.4344711Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotRename</Item>
+        <Item i:nil="true" />
+        <Item>Can not rename.</Item>
+        <Item>이름을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:42:37.9054229Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>OwnerCannotKicked</Item>
+        <Item i:nil="true" />
+        <Item>Owner can not kicked</Item>
+        <Item>소유자는 추방할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:03:20.6063287Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotKickYourself</Item>
+        <Item i:nil="true" />
+        <Item>You can not kick yourself.</Item>
+        <Item>자기 자신을 추방할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T02:46:01.8601812Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIsNotInDomain_Format</Item>
+        <Item>userID</Item>
+        <Item>'{0}' is not in domain.</Item>
+        <Item>'{0}' 은(는) 도메인 사용자가 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:02:25.7410323Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>OfflineUserCannotKicked</Item>
+        <Item i:nil="true" />
+        <Item>Offline user can not kicked.</Item>
+        <Item>접속중이지 않은 사용자는 추방할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:03:29.6387446Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotBanYourself</Item>
+        <Item i:nil="true" />
+        <Item>You can not ban yourself.</Item>
+        <Item>자기 자신을 차단할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:04:04.3488055Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIsNotBanned</Item>
+        <Item i:nil="true" />
+        <Item>User is not banned.</Item>
+        <Item>차단되어 있지 않은 사용자입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:04:47.4828813Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIsAlreadyBanned</Item>
+        <Item i:nil="true" />
+        <Item>User is already banned.</Item>
+        <Item>이미 차단되어 있는 사용자입니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:05:52.6753958Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AdminCannotBanned</Item>
+        <Item i:nil="true" />
+        <Item>Admin can not banned.</Item>
+        <Item>관리자는 차단할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:07:06.6663258Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotDeleteYourself</Item>
+        <Item i:nil="true" />
+        <Item>You can not delete yourself.</Item>
+        <Item>자기 자신을 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:07:51.2668041Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AdminCannotDeleted</Item>
+        <Item i:nil="true" />
+        <Item>Admin can not deleted.</Item>
+        <Item>관리자계정은 삭제할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:08:45.3520991Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>BannedUserCannotLogin</Item>
+        <Item i:nil="true" />
+        <Item>Banned user can not log in.</Item>
+        <Item>차단되어 있는 사용자는 접속할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:09:30.8105789Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UserIsNotLoggedIn</Item>
+        <Item i:nil="true" />
+        <Item>User is not logged in.</Item>
+        <Item>접속되어 있는 사용자가 아닙니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:11:27.0931832Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>UnsavedDataCannotEdit</Item>
+        <Item i:nil="true" />
+        <Item>Unsaved data can not edit.</Item>
+        <Item>저장되지 않은 데이터는 편집할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:14:11.5018719Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>AdminCanChangeAdminInfo</Item>
+        <Item i:nil="true" />
+        <Item>"admin" only can change "admin" info</Item>
+        <Item>Admin 정보는 Admin 계정만 변경할 수 있습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:15:44.6652356Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>OnlineUserAuthorityCannotChanged</Item>
+        <Item i:nil="true" />
+        <Item>Online user's authority can not changed.</Item>
+        <Item>접속된 사용자의 권한은 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:21:04.2005968Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotChangeYourAuthority</Item>
+        <Item i:nil="true" />
+        <Item>You can not change your authority.</Item>
+        <Item>자신의 권한을 변경할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:19:08.6823939Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>CannotMoveToSamePath</Item>
+        <Item i:nil="true" />
+        <Item>Can not move to same path.</Item>
+        <Item>같은 경로로 이동할 수 없습니다.</Item>
+      </Values>
+    </Row>
+    <Row>
+      <IsEnabled>true</IsEnabled>
+      <ModificationInfo>
+        <DateTime>2018-05-11T04:24:34.972567Z</DateTime>
+        <ID>s2quake</ID>
+      </ModificationInfo>
+      <Tags>All</Tags>
+      <Values>
+        <Item>Exception</Item>
+        <Item>ItemsPermissionDenined_Format</Item>
+        <Item i:nil="true" />
+        <Item>You do not have access to items in use: '{0}'</Item>
+        <Item>사용되고 있는 항목에 대한 접근권한이 없습니다: '{0}'</Item>
+      </Values>
+    </Row>
+  </Rows>
+</Table>

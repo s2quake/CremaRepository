@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientServices ../Templates/StringTable.xsd"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-03-27T02:40:05.917075Z"
+  StringTable.Count="18"
+  StringTable.ID="22a47b84-acb1-4006-b4ba-d3e85d577a0d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:01:04.4153623Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:02:06.269471Z">
+    <Type>Exception</Type>
+    <Name>AlreadyConnected</Name>
+    <Value>It's already connected.</Value>
+    <ko_KR>이미 연결되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:02:43.1323357Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:03:13.9735899Z">
+    <Type>Exception</Type>
+    <Name>NotConnected</Name>
+    <Value>It's not connected.</Value>
+    <ko_KR>연결되어 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:05:26.714223Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:36:41.4319158Z">
+    <Type>Exception</Type>
+    <Name>InvalidName_Format</Name>
+    <Comment>name</Comment>
+    <Value>'{0}' is not valid name.</Value>
+    <ko_KR>'{0}'은(는) 유효하지 않은 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:12:12.3773356Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:16:59.9014406Z">
+    <Type>Exception</Type>
+    <Name>InvalidToken</Name>
+    <Value>It is not valid token</Value>
+    <ko_KR>유효한 토큰이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:14:10.7191434Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:14:25.86677Z">
+    <Type>Exception</Type>
+    <Name>Expired</Name>
+    <Value>It has been expired.</Value>
+    <ko_KR>만료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:15:47.7045138Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:15:59.5449346Z">
+    <Type>Exception</Type>
+    <Name>Commissioned</Name>
+    <Value>It's already been commissioned.</Value>
+    <ko_KR>이미 위임중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:16:31.3533904Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:16:55.9858337Z">
+    <Type>Exception</Type>
+    <Name>InvalidID</Name>
+    <Value>It is not valid ID</Value>
+    <ko_KR>유효한 아이디가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:19:11.0664709Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:19:41.3305241Z">
+    <Type>Exception</Type>
+    <Name>NotAllowedAsPublic</Name>
+    <Value>This class is not allowed as public</Value>
+    <ko_KR>이 클래스는 public으로 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:20:47.5994405Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:21:08.0042763Z">
+    <Type>Exception</Type>
+    <Name>NotClosed</Name>
+    <Value>It is not closed.</Value>
+    <ko_KR>닫혀있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:21:36.6771267Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:21:54.2115575Z">
+    <Type>Exception</Type>
+    <Name>AlreadyDisposed</Name>
+    <Value>It has been disposed.</Value>
+    <ko_KR>이미 제거되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:23:04.3024806Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:23:15.4721002Z">
+    <Type>Exception</Type>
+    <Name>NotOpened</Name>
+    <Value>It is not opened.</Value>
+    <ko_KR>열려있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:24:05.7353885Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:24:20.3058141Z">
+    <Type>Exception</Type>
+    <Name>InvalidObject</Name>
+    <Value>It is not valid object.</Value>
+    <ko_KR>유효하지 않은 객체입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:24:40.8822502Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:27:04.9173032Z">
+    <Type>Exception</Type>
+    <Name>NotInDataBase</Name>
+    <Value>It cannot work operation, because you are not in database</Value>
+    <ko_KR>데이터베이스에 참여하고 있지 않으므로 작업을 수행할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:28:07.5514132Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:28:22.8550401Z">
+    <Type>Exception</Type>
+    <Name>NotBeingEdited</Name>
+    <Value>It is not being edited.</Value>
+    <ko_KR>편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:32:18.3062537Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:32:18.3062537Z">
+    <Type>Exception</Type>
+    <Name>InvalidName</Name>
+    <Value>It is not valid name.</Value>
+    <ko_KR>유효지 않은 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:35:11.7629583Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:35:11.7629583Z">
+    <Type>Exception</Type>
+    <Name>CannotRename</Name>
+    <Value>It cannot rename.</Value>
+    <ko_KR>이름은 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:36:36.3307069Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:37:14.2699735Z">
+    <Type>Exception</Type>
+    <Name>InvalidProperty_Format</Name>
+    <Comment>propertyName</Comment>
+    <Value>'{0}' is not valid property name.</Value>
+    <ko_KR>'{0}'은(는) 유효하지 않은 속성 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:39:13.8129835Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:40:05.917075Z">
+    <Type>Exception</Type>
+    <Name>CannotEnter</Name>
+    <Value>It cannot enter to database that is not loaded.</Value>
+    <ko_KR>활성화되어 있지 않은 데이터베이스에는 참여할 수 없습니다.</ko_KR>
+  </StringTable>
+</Content>
